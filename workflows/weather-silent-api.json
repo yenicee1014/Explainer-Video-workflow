@@ -1,0 +1,59 @@
+{
+  "1": {
+    "class_type": "EXLoad",
+    "_meta": {
+      "title": "01 读取公开讲稿与冻结计时"
+    },
+    "inputs": {
+      "project": "projects/weather-ai"
+    }
+  },
+  "2": {
+    "class_type": "EXValidate",
+    "_meta": {
+      "title": "02 检查来源、字幕与时间线"
+    },
+    "inputs": {
+      "bundle": [
+        "1",
+        0
+      ]
+    }
+  },
+  "3": {
+    "class_type": "EXDiagrams",
+    "_meta": {
+      "title": "03 生成确定性科学图解"
+    },
+    "inputs": {
+      "bundle": [
+        "2",
+        0
+      ]
+    }
+  },
+  "4": {
+    "class_type": "EXCaptions",
+    "_meta": {
+      "title": "04 导出完整字幕"
+    },
+    "inputs": {
+      "bundle": [
+        "3",
+        0
+      ]
+    }
+  },
+  "5": {
+    "class_type": "EXReview",
+    "_meta": {
+      "title": "05 生成无声审阅报告"
+    },
+    "inputs": {
+      "bundle": [
+        "4",
+        0
+      ]
+    }
+  }
+}

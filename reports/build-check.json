@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "scope": "structure, source IDs, caption text/timing, SVG generation only; not scientific expert approval",
+  "project": "projects/weather-ai",
+  "scenes": 40,
+  "captions": 167,
+  "duration_seconds": 947.0416875000004,
+  "audio": false
+}

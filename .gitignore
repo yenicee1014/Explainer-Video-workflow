@@ -1,0 +1,23 @@
+# macOS / external-disk metadata
+.DS_Store
+._*
+__MACOSX/
+# Local Python / tooling
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.env
+.env.*
+!.env.example
+# Private or generated media is excluded from the public source package
+*.wav
+*.aiff
+*.aif
+*.mp3
+*.m4a
+*.mp4
+*.mov
+*.webm
+artifacts/
+output/

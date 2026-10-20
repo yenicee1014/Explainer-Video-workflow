@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "prompt_id": "1433653c-27e4-465f-8e99-0ec04db49031",
+  "nodes": 5,
+  "links": 4,
+  "comfyui_version": "0.34.0",
+  "result": {
+    "status": "passed",
+    "scope": "structure, source IDs, caption text/timing, SVG generation only; not scientific expert approval",
+    "project": "projects/weather-ai",
+    "scenes": 40,
+    "captions": 167,
+    "duration_seconds": 947.0416875000004,
+    "audio": false
+  },
+  "scope": "Actual local ComfyUI API execution; not scientific expert approval"
+}

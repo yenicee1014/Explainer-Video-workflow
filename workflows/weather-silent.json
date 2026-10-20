@@ -1,0 +1,231 @@
+{
+  "last_node_id": 5,
+  "last_link_id": 4,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "EXLoad",
+      "pos": [
+        50,
+        180
+      ],
+      "size": [
+        310,
+        130
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "EX_BUNDLE",
+          "type": "EX_BUNDLE",
+          "links": [
+            1
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "01 读取公开讲稿与冻结计时",
+      "properties": {
+        "Node name for S&R": "EXLoad"
+      },
+      "widgets_values": [
+        "projects/weather-ai"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "EXValidate",
+      "pos": [
+        390,
+        180
+      ],
+      "size": [
+        310,
+        130
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "bundle",
+          "type": "EX_BUNDLE",
+          "link": 1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "EX_BUNDLE",
+          "type": "EX_BUNDLE",
+          "links": [
+            2
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "02 检查来源、字幕与时间线",
+      "properties": {
+        "Node name for S&R": "EXValidate"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 3,
+      "type": "EXDiagrams",
+      "pos": [
+        730,
+        180
+      ],
+      "size": [
+        310,
+        130
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "bundle",
+          "type": "EX_BUNDLE",
+          "link": 2
+        }
+      ],
+      "outputs": [
+        {
+          "name": "EX_BUNDLE",
+          "type": "EX_BUNDLE",
+          "links": [
+            3
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "03 生成确定性科学图解",
+      "properties": {
+        "Node name for S&R": "EXDiagrams"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 4,
+      "type": "EXCaptions",
+      "pos": [
+        1070,
+        180
+      ],
+      "size": [
+        310,
+        130
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "bundle",
+          "type": "EX_BUNDLE",
+          "link": 3
+        }
+      ],
+      "outputs": [
+        {
+          "name": "EX_BUNDLE",
+          "type": "EX_BUNDLE",
+          "links": [
+            4
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "04 导出完整字幕",
+      "properties": {
+        "Node name for S&R": "EXCaptions"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 5,
+      "type": "EXReview",
+      "pos": [
+        1410,
+        180
+      ],
+      "size": [
+        310,
+        130
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "bundle",
+          "type": "EX_BUNDLE",
+          "link": 4
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 0
+        }
+      ],
+      "title": "05 生成无声审阅报告",
+      "properties": {
+        "Node name for S&R": "EXReview"
+      },
+      "widgets_values": []
+    }
+  ],
+  "links": [
+    [
+      1,
+      1,
+      0,
+      2,
+      0,
+      "EX_BUNDLE"
+    ],
+    [
+      2,
+      2,
+      0,
+      3,
+      0,
+      "EX_BUNDLE"
+    ],
+    [
+      3,
+      3,
+      0,
+      4,
+      0,
+      "EX_BUNDLE"
+    ],
+    [
+      4,
+      4,
+      0,
+      5,
+      0,
+      "EX_BUNDLE"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.75,
+      "offset": [
+        0,
+        0
+      ]
+    }
+  },
+  "version": 0.4
+}

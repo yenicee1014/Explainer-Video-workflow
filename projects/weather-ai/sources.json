@@ -1,0 +1,20 @@
+{
+  "E1":{"title":"ECMWF · AI forecasts become operational（2025-02-25）","url":"https://www.ecmwf.int/en/about/media-centre/news/2025/ecmwfs-ai-forecasts-become-operational","scope":"已核实历史业务事件：AIFS与IFS并行、使用相同初始条件；不外推为2026所有模型的最新参数或全部任务胜出。","verified":"2026-10-19"},
+  "M1":{"title":"Met Office · What is an ensemble forecast?","url":"https://www.metoffice.gov.uk/research/weather/ensemble-forecasting/what-is-an-ensemble-forecast","scope":"初始不确定性、混沌与多情景集合；页面简化例子不能当成模式完美的实际业务假设。","verified":"2026-10-19"},
+  "D1":{"title":"ECMWF · Data assimilation","url":"https://www.ecmwf.int/en/research/data-assimilation","scope":"观测与短期背景预报融合、分析不确定性、初始与模式扰动；不引用页面成员数作为全部业务通则。","verified":"2026-10-19"},
+  "O1":{"title":"Met Office · Weather stations","url":"https://weather.metoffice.gov.uk/learn-about/how-forecasts-are-made/observations/weather-stations","scope":"地面站测量变量、选址代表性与质量控制；英国站网间距不用于解释中国站网。","verified":"2026-10-19"},
+  "R1":{"title":"NOAA · Radar Images: Reflectivity","url":"https://www.noaa.gov/jetstream/reflectivity","scope":"反射率与回波功率、粒径分布、反射率不直接等于雨强；不复用文中真实个例图片。","verified":"2026-10-19"},
+  "R2":{"title":"NOAA · Radar Beams","url":"https://www.noaa.gov/jetstream/radar-beams","scope":"波束展宽、距地高度、曲率与折射；本片不以真实比例模拟特定雷达波束。","verified":"2026-10-19"},
+  "R3":{"title":"NOAA · Weather Glossary: Virga","url":"https://www.noaa.gov/jetstream/appendix/weather-glossary-v","scope":"降水到地面前蒸发的雨幡概念；不把有回波无地面雨的全部情况都归因为蒸发。","verified":"2026-10-19"},
+  "S1":{"title":"ECMWF · Use of satellite observations（2020-07-06）","url":"https://www.ecmwf.int/en/about/media-centre/focus/2020/fact-sheet-ecmwfs-use-satellite-observations","scope":"主动与被动遥感、辐射通道的深层响应、辐射观测算子和全天空同化；不引用2020仪器数量或未来计划作为当前状况。","verified":"2026-10-19"},
+  "S2":{"title":"ECMWF · From space to forecast（2026）","url":"https://www.ecmwf.int/en/about/media-centre/news/2026/satellite-data-weather-forecasts","scope":"已读取2026原文：全球观测、同化与AI的关系；AI-DOP探索直接从观测预报，不能声称一切AI永远必须采用现有物理同化入口。","verified":"2026-10-19"},
+  "N1":{"title":"Met Office · Unified Model","url":"https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model","scope":"动力核心离散方程、参数化与不同尺度配置；该模式的具体方案不是所有模式统一选择。","verified":"2026-10-19"},
+  "N2":{"title":"Skamarock 2004 · Effective resolution of NWP models","url":"https://journals.ametsoc.org/view/journals/mwre/132/12/mwr2830.1.xml","scope":"已阅读全文相关部分：网格间距与有效分辨尺度不同，耗散与数值方法影响有效分辨率；论文WRF倍数不泛化到全部现代模式。","verified":"2026-10-19"},
+  "A1":{"title":"Rasp et al. · WeatherBench 2（2024版本）","url":"https://arxiv.org/abs/2308.15560","scope":"已核实全文：全球中期预报基准、训练与再分析、平滑和极值检验、公平初始条件、多指标与比较限制；其中2023/2024模型排名不作为2026当前排名。","verified":"2026-10-19"},
+  "A2":{"title":"ECMWF · Climate reanalysis","url":"https://www.ecmwf.int/en/research/climate-reanalysis","scope":"再分析结合观测、模式与同化，包含不确定性；不引用旧页面数据起始年或最新版本声明。","verified":"2026-10-19"},
+  "V1":{"title":"WMO联合检验工作组资料 · Forecast Verification FAQ","url":"https://jwgfvr.github.io/forecastverification/","scope":"已读取cawcr.gov.au/projects/verification/重定向正文：连续／事件／概率／空间检验、真实参照的不确定性、可靠性与分辨能力、尺度和双重惩罚。","verified":"2026-10-19"},
+  "P1":{"title":"NWS · What is the Meaning of PoP?","url":"https://www.weather.gov/ffc/pop","scope":"仅美国NWS该产品定义：指定点达到可测降水阈值的概率；不等于40%时长或必然40%面积，不直接套用于中国各App。","verified":"2026-10-19"},
+  "W1":{"title":"WMO · Impact-Based Forecast and Warning Services","url":"https://wmo.int/media/news/wmo-updates-guidelines-multi-hazard-impact-based-forecast-and-warning-services","scope":"已读取全文：风险沟通、暴露度、脆弱性与影响导向预警；仅引用原则，不把2020年计划当作2026年最新进展，也不提供中国地区具体预警规则。","verified":"2026-10-19"},
+  "NC1":{"title":"Met Office · Nowcasting","url":"https://www.metoffice.gov.uk/research/weather/space-applications-and-nowcasting/nowcasting","scope":"已读取全文：观测驱动的短临预报、雷达单体跟踪与快速更新同化；机构工作时间范围不套作所有方法的硬边界。","verified":"2026-10-19"},
+  "T1":{"title":"NOAA · Ingredients for a Thunderstorm","url":"https://www.noaa.gov/jetstream/thunderstorms/ingredients-for-thunderstorm","scope":"已读取正文：水汽、不稳定与抬升触发，锋面、出流与地形；不把某地区水汽来源外推为全球唯一来源。","verified":"2026-10-19"}
+}

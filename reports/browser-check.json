@@ -1,0 +1,213 @@
+{
+  "status": "passed",
+  "http": 200,
+  "scenes": 40,
+  "chapters": 8,
+  "duration": 947.0416875000004,
+  "audio": false,
+  "audioElements": 0,
+  "errors": [],
+  "failed": [],
+  "out_of_bounds": [],
+  "deterministic": true,
+  "chapters_count": 8,
+  "chapters_playback": [
+    {
+      "chapter": 1,
+      "ok": true
+    },
+    {
+      "chapter": 2,
+      "ok": true
+    },
+    {
+      "chapter": 3,
+      "ok": true
+    },
+    {
+      "chapter": 4,
+      "ok": true
+    },
+    {
+      "chapter": 5,
+      "ok": true
+    },
+    {
+      "chapter": 6,
+      "ok": true
+    },
+    {
+      "chapter": 7,
+      "ok": true
+    },
+    {
+      "chapter": 8,
+      "ok": true
+    }
+  ],
+  "pauseStable": true,
+  "ended": true,
+  "samples": [
+    {
+      "id": "01",
+      "title": "AI预报，为什么仍会错？"
+    },
+    {
+      "id": "02",
+      "title": "先定义：什么叫报准"
+    },
+    {
+      "id": "03",
+      "title": "有效时间，不等于发布时间"
+    },
+    {
+      "id": "04",
+      "title": "三种偏差，不能混为一谈"
+    },
+    {
+      "id": "05",
+      "title": "看一个地点，也看整个系统"
+    },
+    {
+      "id": "06",
+      "title": "观测网，不是全天候全知"
+    },
+    {
+      "id": "07",
+      "title": "雷达回波，不等于地面雨量"
+    },
+    {
+      "id": "08",
+      "title": "卫星看见什么，反演什么"
+    },
+    {
+      "id": "09",
+      "title": "同化：融合，不是直接平均"
+    },
+    {
+      "id": "10",
+      "title": "更好观测，不等于误差归零"
+    },
+    {
+      "id": "11",
+      "title": "物理模式：随时间求解"
+    },
+    {
+      "id": "12",
+      "title": "网格间距 ≠ 有效分辨率"
+    },
+    {
+      "id": "13",
+      "title": "未解析过程，如何进入计算"
+    },
+    {
+      "id": "14",
+      "title": "地形与地表，也是条件"
+    },
+    {
+      "id": "15",
+      "title": "从模式场，到手机的一行字"
+    },
+    {
+      "id": "16",
+      "title": "误差来源，不只有一种"
+    },
+    {
+      "id": "17",
+      "title": "混沌：小差异可能被放大"
+    },
+    {
+      "id": "18",
+      "title": "大尺度形势与局地细节"
+    },
+    {
+      "id": "19",
+      "title": "提前量越长，精细信息通常越受限"
+    },
+    {
+      "id": "20",
+      "title": "预报上限，不是固定倒计时"
+    },
+    {
+      "id": "21",
+      "title": "AI学习的，是演变关系"
+    },
+    {
+      "id": "22",
+      "title": "业务实例：AI与物理模式并行"
+    },
+    {
+      "id": "23",
+      "title": "快在哪里，不能漏算什么"
+    },
+    {
+      "id": "24",
+      "title": "AI仍会受到哪些限制"
+    },
+    {
+      "id": "25",
+      "title": "混合方案，而非非此即彼"
+    },
+    {
+      "id": "26",
+      "title": "一场雷阵雨，需要一连串条件"
+    },
+    {
+      "id": "27",
+      "title": "雨区平移，也会被双重惩罚"
+    },
+    {
+      "id": "28",
+      "title": "起止时间，需要累积窗口"
+    },
+    {
+      "id": "29",
+      "title": "空间容差，不是放宽安全标准"
+    },
+    {
+      "id": "30",
+      "title": "接近发生时，继续看更新"
+    },
+    {
+      "id": "31",
+      "title": "集合：把不确定性展开"
+    },
+    {
+      "id": "32",
+      "title": "40%，必须先有事件定义"
+    },
+    {
+      "id": "33",
+      "title": "4／10，是原始比例示例"
+    },
+    {
+      "id": "34",
+      "title": "可靠性，要用许多事件检验"
+    },
+    {
+      "id": "35",
+      "title": "概率 × 后果，支持行动"
+    },
+    {
+      "id": "36",
+      "title": "排名之前，先对齐比赛规则"
+    },
+    {
+      "id": "37",
+      "title": "均方误差，不代表全部能力"
+    },
+    {
+      "id": "38",
+      "title": "再分析，也不是完美真值"
+    },
+    {
+      "id": "39",
+      "title": "普通人可以检查这四项"
+    },
+    {
+      "id": "40",
+      "title": "更有能力，也更诚实地表达不确定性"
+    }
+  ],
+  "scope": "Silent browser structure, SVG text bounds, deterministic seeking, chapter controls, start/pause/end only; not expert scientific or full human visual review"
+}

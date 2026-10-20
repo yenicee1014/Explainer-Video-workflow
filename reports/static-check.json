@@ -1,0 +1,411 @@
+{
+  "summary": {
+    "scenes": 40,
+    "all_xml_valid": true,
+    "source_ids_valid": true,
+    "rain_geometry": true,
+    "member_arithmetic": true,
+    "rain_integral_mm": 15,
+    "timeline_matches_current_script": true,
+    "scope": "Structure, geometry, arithmetic and generation consistency only; no expert scientific approval"
+  },
+  "scenes": [
+    {
+      "id": "01",
+      "kind": "pipeline",
+      "refs": [
+        "E1",
+        "M1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "02",
+      "kind": "matrix",
+      "refs": [
+        "V1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "03",
+      "kind": "valid_time",
+      "refs": [
+        "V1",
+        "E1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "04",
+      "kind": "rain",
+      "refs": [
+        "V1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "05",
+      "kind": "matrix",
+      "refs": [
+        "V1",
+        "W1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "06",
+      "kind": "observations",
+      "refs": [
+        "O1",
+        "R1",
+        "S1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "07",
+      "kind": "radar",
+      "refs": [
+        "R1",
+        "R2",
+        "R3"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "08",
+      "kind": "satellite",
+      "refs": [
+        "S1",
+        "D1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "09",
+      "kind": "assimilation",
+      "refs": [
+        "D1",
+        "E1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "10",
+      "kind": "matrix",
+      "refs": [
+        "D1",
+        "E1",
+        "M1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "11",
+      "kind": "pipeline",
+      "refs": [
+        "N1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "12",
+      "kind": "grid",
+      "refs": [
+        "N1",
+        "N2"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "13",
+      "kind": "parameterization",
+      "refs": [
+        "N1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "14",
+      "kind": "terrain",
+      "refs": [
+        "N1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "15",
+      "kind": "pipeline",
+      "refs": [
+        "V1",
+        "N1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "16",
+      "kind": "matrix",
+      "refs": [
+        "M1",
+        "N1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "17",
+      "kind": "trajectories",
+      "refs": [
+        "M1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "18",
+      "kind": "scales",
+      "refs": [
+        "M1",
+        "N1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "19",
+      "kind": "time",
+      "refs": [
+        "M1",
+        "NC1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "20",
+      "kind": "matrix",
+      "refs": [
+        "M1",
+        "V1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "21",
+      "kind": "ai",
+      "refs": [
+        "E1",
+        "A1",
+        "A2"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "22",
+      "kind": "forecast_branches",
+      "refs": [
+        "E1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "23",
+      "kind": "matrix",
+      "refs": [
+        "E1",
+        "V1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "24",
+      "kind": "matrix",
+      "refs": [
+        "A1",
+        "E1",
+        "V1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "25",
+      "kind": "pipeline",
+      "refs": [
+        "E1",
+        "A1",
+        "S2"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "26",
+      "kind": "convection_conditions",
+      "refs": [
+        "N1",
+        "T1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "27",
+      "kind": "displacement",
+      "refs": [
+        "V1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "28",
+      "kind": "rain_time",
+      "refs": [
+        "V1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "29",
+      "kind": "neighborhood",
+      "refs": [
+        "V1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "30",
+      "kind": "pipeline",
+      "refs": [
+        "NC1",
+        "W1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "31",
+      "kind": "ensemble",
+      "refs": [
+        "M1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "32",
+      "kind": "probability",
+      "refs": [
+        "P1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "33",
+      "kind": "members",
+      "refs": [
+        "M1",
+        "P1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "34",
+      "kind": "calibration",
+      "refs": [
+        "V1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "35",
+      "kind": "decision",
+      "refs": [
+        "W1",
+        "V1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "36",
+      "kind": "matrix",
+      "refs": [
+        "E1",
+        "V1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "37",
+      "kind": "metrics",
+      "refs": [
+        "V1",
+        "A1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "38",
+      "kind": "reanalysis",
+      "refs": [
+        "A1",
+        "D1",
+        "V1",
+        "A2"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "39",
+      "kind": "matrix",
+      "refs": [
+        "P1",
+        "M1",
+        "W1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    },
+    {
+      "id": "40",
+      "kind": "pipeline",
+      "refs": [
+        "E1",
+        "M1",
+        "V1"
+      ],
+      "svg_xml_valid": true,
+      "matches_current_generator": true
+    }
+  ]
+}
