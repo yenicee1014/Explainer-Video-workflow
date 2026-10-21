@@ -1,26 +1,34 @@
-# Explainer Video Workflow
+# 天气预报 × AI：为什么还会报不准？
 
-天气 AI 科普动画源工程与可复现的 ComfyUI 工作流。
+天气科普项目的公开工作流与版本档案。当前创作方向保留奶油白、黑色、红色强调的已确认排版，并以真实、可追溯的天气照片补足具象画面；抽象概念仍使用明确标注的原创教学图解。
 
-当前主题：**《天气预报都用上 AI 了，为什么还会报不准？》**
+> **当前版本：第一章真实照片版本地预览。** 画面长 1 分 55 秒，1080×1920，五个场景、22 条句级字幕；全稿其余章节尚未完成视觉制作。全稿约 16 分 39 秒的本地配音并不等于完整成片。本仓库不含配音或 MP4，因此不提供可在线播放的有声成片。
 
-> 当前交付为可播放的无声字幕动画源工程，**不是已导出的 MP4 成片**。本仓库不包含原本地配音、字体二进制、模型权重或私人素材，不提供一键生成任意主题视频的承诺。
+## 当前版本说明
 
-![浏览器播放器检查截图](reports/player.png)
+- [第一章创作方向、照片出处与配音纠错说明](docs/REAL-PHOTO-MANDARIN.md)
+- [实际制作与本地核验流程](docs/REAL-PHOTO-WORKFLOW.md)
+- [ComfyUI 照片 Lanczos 重采样 API 示例](workflows/weather-photo-resample-api.json)
+- [科学与素材授权边界](docs/SCIENCE-AND-RIGHTS.md)
+- [当前交付状态](docs/PROJECT-STATUS.md)
 
-## 项目规格
+### 创作原则
 
-- 竖屏 1080 × 1920，时长 947.0416875 秒（约 15 分 47 秒）。
-- 8 章节、40 场景、167 句字幕、40 幅程序化 SVG 科学示意图。
-- 黑色／米白／红色的瑞士排版；系统字体；按绝对时间计算动画，可跳转、暂停和回看。
-- 18 条资料索引，记录论据使用范围与局限；图解为教学示意，不是真实气象观测。
-- Python 标准库构建；ComfyUI 可在 CPU 上执行，无需模型、GPU 或付费服务。
+1. 真实云照片只呈现云的形态，不作为某次天气预报准确性的证据。
+2. 1973 年 NOAA/NSSL 雷达设备历史照片只说明设备外观，不冒充现代雷达回波。
+3. 城市范围、发布时间、有效时间和雨区偏差用原创示意图表达；不把示意图伪装成实测数据。
+4. 照片只作来源清楚的裁切、缩放与克制推近。ComfyUI 重采样不使用扩散模型，也不生成新的天气图案。
+5. 普通话女声使用本机 macOS 离线声音。系统声音再分发许可尚未核实，旁白与逐句缓存留在本地，不上传。
 
-这是对现有项目的整理，而非重做视觉风格。RhineLabUI 是早期设计参考，当前工程没有复制其代码、品牌或模型，详见[第三方说明](THIRD_PARTY_NOTICES.md)。
+## 预览与可复现范围
 
-## 快速预览
+第一章在本地使用浏览器预览。字幕按句级音频时间同步，并已完成本地播放、定位、场景同步及手机布局检查。语音更换原因、校验方法和检查的局限见当前版本文档。
 
-推荐 Python 3.10+。在仓库根目录执行：
+本仓库的现有可执行 SVG 源工程 `projects/weather-ai/`、ComfyUI 工作流、构建工具与测试是早期无声版本材料。其约 15 分 47 秒的长度、40 幅 SVG 和历史检查报告不代表新版第一章的真实照片画面或配音核验结论；旧结果不得套用于新版。
+
+## 早期源工程构建（历史版本）
+
+仓库仍保留早期无声 SVG 工程，供版本追溯与代码参考。在仓库根目录可运行：
 
 ```sh
 python3 tools/build.py
@@ -29,50 +37,13 @@ python3 -m unittest discover -s tests -v
 python3 -m http.server 3033 --bind 127.0.0.1
 ```
 
-打开 <http://127.0.0.1:3033/projects/weather-ai/>。播放器提供播放／暂停、进度定位、上一场／下一场和章节跳转；当前版本没有音轨。直接双击 HTML 会受浏览器本地文件读取限制，请使用本地 HTTP 服务。
+打开 <http://127.0.0.1:3033/projects/weather-ai/>。这会运行**历史无声 SVG 工程**，不是新版第一章照片预览。历史检查结果在 `VERIFICATION.md`；其范围只对该历史版本有效。
 
-命令仅重新生成 SVG、SRT 和检查报告，不导出视频，不上传文件。
+## 公开内容与许可
 
-## ComfyUI 工作流
+本仓库分享工作流、创作记录与来源，不包含本机离线配音、逐句 WAV/AIFF、系统声音缓存、模型权重、凭证或私人路径。已核验的公开照片来源与许可说明分别链接于 Wikimedia Commons：
 
-- [界面导入版：weather-silent.json](workflows/weather-silent.json)
-- [API 提交版：weather-silent-api.json](workflows/weather-silent-api.json)
-- [安装与使用指南](docs/COMFYUI.md)
+- [积雨云照片](https://commons.wikimedia.org/wiki/File:Cumulonimbus_incus_cloud_Jan2008.jpg)
+- [NOAA/NSSL 历史雷达设备照片](https://commons.wikimedia.org/wiki/File:Doppler_Weather_Radar_-_NOAA.jpg)
 
-五节点依次执行：读取讲稿与冻结计时 → 检查来源、字幕和时间线 → 生成科学图解 → 导出字幕 → 生成审阅报告。
-
-本工作流是**现有工程的确定性构建流程**，不是扩散模型生视频流程。它不自动调研、不生成配音、不重新估计字幕时间，也不输出 MP4。
-
-## 文件结构
-
-- `projects/weather-ai/`：讲稿、资料索引、冻结时间线、播放器、字幕与 SVG。
-- `comfyui/custom_nodes/explainer_public/`：公开自定义节点。
-- `workflows/`：ComfyUI 界面图与 API 图。
-- `tools/`：构建、图解生成、内容检查及可选浏览器／ComfyUI 验证脚本。
-- `tests/`：14 项 Python 回归测试。
-- `reports/`：已执行的本地检查结果与截图。
-- `.github/workflows/validate.yml`：Python 3.10／3.13 自动检查配置。
-- `docs/`：工作流指南、科学与授权边界、交付状态。
-
-## 验证和维护
-
-本地已执行 Python 构建、内容检查、14 项回归、浏览器检查和真实 ComfyUI API 图执行。具体结果及未覆盖范围见 [VERIFICATION.md](VERIFICATION.md)。远程持续集成状态以本仓库 GitHub Actions 为准；配置存在不等于已执行通过。
-
-可选浏览器检查需要 Node.js 20+、已安装的 Chrome／Chromium，以及正在运行的本地预览服务：
-
-```sh
-npm ci --ignore-scripts
-npm run test:browser
-```
-
-可用 `CHROME_PATH` 指定浏览器可执行文件，`PREVIEW_URL` 指定预览 URL。浏览器检查不属于基本播放或 Python 构建的必需依赖。
-
-## 内容、授权和交付状态
-
-- [完整讲稿](projects/weather-ai/SCRIPT.md) · [资料索引](projects/weather-ai/sources.json)
-- [科学内容和素材边界](docs/SCIENCE-AND-RIGHTS.md)
-- [当前交付状态](docs/PROJECT-STATUS.md)
-- [第三方来源与版权说明](THIRD_PARTY_NOTICES.md)
-- [修改与贡献规范](CONTRIBUTING.md)
-
-当前未选定通用开源许可证，原创代码、讲稿与图解保留版权。公开可见不代表任意商用、改编或再分发许可；第三方权利各自适用。
+源代码、讲稿、图解与第三方素材的版权范围不同；仓库尚未选定通用开源许可证。公开可见不代表任意商用、改编或再分发许可。详情见 [第三方说明](THIRD_PARTY_NOTICES.md)。
