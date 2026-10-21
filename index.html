@@ -6,13 +6,31 @@
 <meta name="color-scheme" content="light">
 <title>天气预报 × AI · 第一章视频</title>
 <style>
-*{box-sizing:border-box}body{margin:0;background:#f1eee7;color:#181818;font-family:system-ui,-apple-system,"PingFang SC",sans-serif}main{max-width:960px;margin:auto;padding:28px 20px}header{border-top:3px solid #181818;padding-top:16px}small{color:#635e55;letter-spacing:1px}h1{font-size:clamp(24px,5vw,38px);line-height:1.4;margin:16px 0}h1 span{color:#da291c}p{line-height:1.8}video{display:block;width:100%;max-width:430px;max-height:76vh;aspect-ratio:9/16;object-fit:contain;background:#181818;margin:24px auto}a{color:#a82018;text-underline-offset:4px}a:focus-visible{outline:3px solid #da291c;outline-offset:4px}.note{font-size:14px;color:#635e55;border-top:1px solid #c6c1b7;padding-top:16px}nav{display:flex;gap:24px;flex-wrap:wrap}
+*{box-sizing:border-box}body{margin:0;background:#f1eee7;color:#181818;font-family:system-ui,-apple-system,"PingFang SC",sans-serif}main{max-width:960px;margin:auto;padding:28px 20px}header{border-top:3px solid #181818;padding-top:16px}small{color:#635e55;letter-spacing:1px}h1{font-size:clamp(24px,5vw,38px);line-height:1.4;margin:16px 0}h1 span{color:#da291c}p{line-height:1.8}video{display:block;width:100%;max-width:430px;max-height:76vh;aspect-ratio:9/16;object-fit:contain;background:#181818;margin:24px auto}a{color:#a82018;text-underline-offset:4px}a:focus-visible,button:focus-visible{outline:3px solid #da291c;outline-offset:4px}.note{font-size:14px;color:#635e55;border-top:1px solid #c6c1b7;padding-top:16px}nav{display:flex;gap:24px;flex-wrap:wrap}button{border:0;border-radius:6px;padding:14px 24px;background:#a82018;color:white;font:inherit;font-weight:600;cursor:pointer}button:hover{background:#841b14}#status{min-height:1.8em;font-size:14px;color:#635e55}
 </style>
 </head>
 <body><main>
 <header><small>天气观察 / WEATHER × AI · 第一章</small><h1>天气预报用上 AI，<br><span>为什么仍会报不准？</span></h1></header>
-<p>点击下方播放器的播放按钮即可观看。时长约 1 分 55 秒，1080×1920 竖屏，保留字幕、动画与说明文字。</p>
-<video id="film" controls playsinline preload="metadata" aria-label="天气预报与人工智能第一章无声视频"><source src="video/weather-real-preview-chapter1-silent.mp4" type="video/mp4">浏览器不支持内嵌播放，请使用下方的 MP4 链接。</video>
+<p>第一章视频时长 1 分 54.68 秒，1080×1920 竖屏，保留字幕、动画与说明文字。点击按钮即可播放，也可使用播放器自带的播放、进度和全屏功能。</p>
+<button id="play" type="button" aria-controls="film">▶ 点击播放 · 1 分 54 秒</button>
+<p id="status" role="status" aria-live="polite">无声版，字幕已保留。</p>
+<video id="film" controls playsinline preload="metadata" aria-label="天气预报与人工智能第一章一分五十四秒无声视频"><source src="video/weather-real-preview-chapter1-silent.mp4" type="video/mp4">浏览器不支持内嵌播放，请使用下方的 MP4 链接。</video>
 <nav><a href="video/weather-real-preview-chapter1-silent.mp4">直接打开 MP4</a><a href="https://github.com/yenicee1014/Explainer-Video-workflow">查看项目与素材来源</a></nav>
 <p class="note">本次公开的是第一章无声版，不是完整全片。系统合成女声的公开再分发许可尚未核实，因此未包含声音。真实照片与教学示意的来源和证据边界见仓库说明；示意图不代表真实雷达观测。</p>
-</main></body></html>
+</main>
+<script>
+const film = document.getElementById('film');
+const play = document.getElementById('play');
+const status = document.getElementById('status');
+play.addEventListener('click', async () => {
+  if (!film.paused) { film.pause(); return; }
+  if (film.ended) film.currentTime = 0;
+  try { await film.play(); film.scrollIntoView({behavior:'smooth',block:'center'}); }
+  catch (error) { status.textContent = '暂时无法播放，请尝试播放器的播放按钮，或下方“直接打开 MP4”链接。'; }
+});
+film.addEventListener('play', () => { play.textContent = 'Ⅱ 暂停播放'; status.textContent = '正在播放（无声版）。'; });
+film.addEventListener('pause', () => { play.textContent = '▶ 继续播放 · 1 分 54 秒'; status.textContent = '已暂停。'; });
+film.addEventListener('ended', () => { play.textContent = '▶ 重新播放 · 1 分 54 秒'; status.textContent = '播放完毕。'; });
+film.addEventListener('error', () => { status.textContent = '视频加载失败，请尝试下方“直接打开 MP4”链接。'; });
+</script>
+</body></html>
