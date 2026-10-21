@@ -6,8 +6,9 @@
 
 ## 可点击播放
 
-- [点击播放第一章无声 MP4（GitHub 文件页）](video/weather-real-preview-chapter1-silent.mp4)
-- [直接打开 MP4（Raw 文件）](https://github.com/yenicee1014/Explainer-Video-workflow/raw/main/video/weather-real-preview-chapter1-silent.mp4)
+- [点击在线播放第一章无声视频](https://yenicee1014.github.io/Explainer-Video-workflow/)
+- [直接打开 MP4](https://yenicee1014.github.io/Explainer-Video-workflow/video/weather-real-preview-chapter1-silent.mp4)
+- [仓库中的 MP4 文件](video/weather-real-preview-chapter1-silent.mp4)（GitHub 文件页可能仅显示下载入口，请优先使用上方在线播放链接）
 
 该 MP4 是第一章的竖屏画面导出：保留字幕、动画和说明文字，时长约 1 分 55 秒，视频编码为 H.264，分辨率 1080×1920，无音轨。浏览器本地预览仍保留普通话声音；完整全片和有声 MP4 尚未完成。
 
