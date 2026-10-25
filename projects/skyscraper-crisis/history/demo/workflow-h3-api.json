@@ -1,0 +1,24 @@
+{
+  "1": {
+    "class_type": "AutoDLWorkflow",
+    "inputs": {
+      "workflow_id": "minimax_h3_lightx2v_no_pic",
+      "schema_json": "{\"workflow_id\": \"minimax_h3_lightx2v_no_pic\", \"fields\": [{\"name\": \"prompt\", \"type\": \"prompt\", \"slot\": \"ad_text_01\", \"required\": true}, {\"name\": \"resolution\", \"type\": \"enum\", \"slot\": \"ad_text_02\"}, {\"name\": \"duration\", \"type\": \"integer\", \"slot\": \"ad_int_01\"}, {\"name\": \"seed\", \"type\": \"integer\", \"slot\": \"ad_int_02\"}], \"outputs\": [{\"name\": \"video\", \"kind\": \"video\"}]}",
+      "ad_text_01": "A five-second single shot of an isolated architectural photographic paper cutout. One original fictional early twentieth century skyscraper, an architectural cutout asset for a monochrome editorial documentary collage. A complete 38-storey stepped stone office tower with a narrow Art Deco crown and a small antenna, meticulously detailed carved limestone facade, tall repeated windows, photographic realism with fine silver-gelatin print grain. Full building visible from its base to its crown, straight verticals, gentle three-quarter view showing front and right side. The building stands alone centered on a completely plain pure WHITE background, generous empty white margins on all four sides. High contrast BLACK AND WHITE only. Crisp silhouette suitable for extracting a paper cutout. Soft neutral lighting. Original imaginary architecture, no specific real landmark. No people, no cars, no streets, no sky, no ground shadows, no trees, no text, no numerals, no typography, no logos, no watermark, no frames, no graphic design, no annotations. The building should fill 88 percent of the image height and about 32 percent of its width. This image is an illustration, not an authentic historical archive photograph. Locked camera, constant scale, complete tower always visible with ample margins. The cutout rotates very subtly from a frontal three-quarter view toward a slightly different three-quarter view, no more than five degrees across the entire shot. Pure white background remains perfectly white throughout. Restrained black-and-white archival print aesthetic. No transitions, no titles, no subtitles, no graphic overlays, no scenery, no other objects. No luminous glass, no cinematic city flythrough, no colored lights.",
+      "ad_text_02": "768p横",
+      "ad_int_01": 5,
+      "ad_int_02": 2026102401,
+      "timeout_seconds": 1800,
+      "poll_interval_seconds": 5
+    }
+  },
+  "2": {
+    "class_type": "AutoDLPreviewVideo",
+    "inputs": {
+      "video": [
+        "1",
+        0
+      ]
+    }
+  }
+}

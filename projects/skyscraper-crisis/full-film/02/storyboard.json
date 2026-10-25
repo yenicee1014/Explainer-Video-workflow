@@ -1,0 +1,49 @@
+{
+  "chapter": 2,
+  "title": "先把时间摆对",
+  "generation_prompt": "A five-second black-and-white historical editorial documentary shot. Fine silver-gelatin photographic grain, neutral grayscale, soft natural light, restrained realistic human gestures, physically coherent surroundings. Locked wide shot, gentle natural motion, crisp photographic detail. No text, no subtitles, no letters, no numerals, no logos, no watermark, no split screen, no graphics, no montage, no shot changes. This is an original illustrative reconstruction, not authentic archive footage. An early 1930s construction site in New York. Two construction workers wearing caps and work clothes inspect a large paper blueprint on a timber table, behind them a modest steel building skeleton and a crane. One points to the plan while the other nods. Emphasize workers, paper plans, steel framing, no completed skyscraper.",
+  "scenes": [
+    {
+      "scene": 1,
+      "narration": "先纠正一个经常被讲反的细节。",
+      "visual": "correct",
+      "title": "先把时间摆对",
+      "detail": "先后顺序不能倒置"
+    },
+    {
+      "scene": 2,
+      "narration": "美国股市的那场著名崩盘，发生在1929年10月。帝国大厦正式开工，却是在1930年3月。",
+      "visual": "dates",
+      "title": "股灾在前，开工在后",
+      "detail": "1929.10 → 1930.03"
+    },
+    {
+      "scene": 3,
+      "narration": "也就是说，这个最常被拿来证明“高楼预告危机”的例子，甚至是在股灾之后才开始施工。",
+      "visual": "photo",
+      "title": "危机之后才开工",
+      "detail": "不能把竣工日期当成提前预告"
+    },
+    {
+      "scene": 4,
+      "narration": "它提醒我们：宣布要建、正式开工、主体封顶和开门营业，是四个不同的时刻。",
+      "visual": "stages",
+      "title": "四个不同的时刻",
+      "detail": "宣布 / 开工 / 封顶 / 营业"
+    },
+    {
+      "scene": 5,
+      "narration": "如果需要的时候用开工日期，不方便的时候改用竣工日期，再把危机发生的前后几年都算进去，很多故事都会显得格外准确。",
+      "visual": "windows",
+      "title": "换一个日期，就换一个故事",
+      "detail": "必须预先确定检验窗口"
+    },
+    {
+      "scene": 6,
+      "narration": "所以，先别急着把高楼当成预言。我们真正要解释的，是一个项目为什么会被启动，又为什么会在交付时遇到完全不同的市场。",
+      "visual": "decision",
+      "title": "为何启动？为何遇冷？",
+      "detail": "开工时的判断 / 交付时的市场"
+    }
+  ]
+}

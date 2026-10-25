@@ -1,0 +1,293 @@
+[
+  {
+    "scene": 1,
+    "narration": "你看好这个片区，旁边的开发商也看好。",
+    "mode": "competition",
+    "title": "不止你一个人看好",
+    "detail": "开发商 A / 开发商 B",
+    "assets": [
+      "old_sites",
+      "sites"
+    ],
+    "visible_evidence": [
+      "上一版已生成、只在相应情境使用的 old_sites",
+      "四个独立工地和塔吊同时建设"
+    ],
+    "start": 0,
+    "end": 4.51,
+    "beats": [
+      {
+        "asset": "old_sites",
+        "start": 0,
+        "end": 2.255
+      },
+      {
+        "asset": "sites",
+        "start": 2.255,
+        "end": 4.51
+      }
+    ]
+  },
+  {
+    "scene": 2,
+    "narration": "你预计三年后会有更多企业搬进来，他也预计三年后会有更多企业搬进来。",
+    "mode": "forecast",
+    "title": "大家都在预测同一批企业",
+    "detail": "三年后的需求 · 示意",
+    "assets": [
+      "growth",
+      "lease_competition"
+    ],
+    "visible_evidence": [
+      "新员工与新增工位说明企业扩张",
+      "多名代理、多个楼盘模型争取少量企业租户"
+    ],
+    "start": 4.51,
+    "end": 11.978000000000002,
+    "beats": [
+      {
+        "asset": "growth",
+        "start": 4.51,
+        "end": 8.244
+      },
+      {
+        "asset": "lease_competition",
+        "start": 8.244,
+        "end": 11.978000000000002
+      }
+    ]
+  },
+  {
+    "scene": 3,
+    "narration": "于是，两个人都拿着未来的需求，向银行申请今天的贷款。",
+    "mode": "bank",
+    "title": "拿着未来，申请今天的贷款",
+    "detail": "多家开发商 → 银行",
+    "assets": [
+      "signature",
+      "old_signing"
+    ],
+    "visible_evidence": [
+      "贷款人递笔，开发商签署借款合同",
+      "上一版已生成、只在相应情境使用的 old_signing"
+    ],
+    "start": 11.978000000000002,
+    "end": 17.91,
+    "beats": [
+      {
+        "asset": "signature",
+        "start": 11.978000000000002,
+        "end": 14.944
+      },
+      {
+        "asset": "old_signing",
+        "start": 14.944,
+        "end": 17.91
+      }
+    ]
+  },
+  {
+    "scene": 4,
+    "narration": "再加上第三家、第四家，工地就连成了一片。",
+    "mode": "photo",
+    "title": "工地连成一片",
+    "detail": "第三家、第四家，也加入建设",
+    "assets": [
+      "sites"
+    ],
+    "visible_evidence": [
+      "四个独立工地和塔吊同时建设"
+    ],
+    "start": 17.91,
+    "end": 22.834,
+    "beats": [
+      {
+        "asset": "sites",
+        "start": 17.91,
+        "end": 22.834
+      }
+    ]
+  },
+  {
+    "scene": 5,
+    "narration": "这里有一个容易被忽略的问题：每一家都在计算自己能拿到多少租户，却未必充分考虑，几年后会有多少栋新楼一起争抢这些租户。",
+    "mode": "tenants",
+    "title": "新楼都在等租户",
+    "detail": "同一批客户，被多次写进预测",
+    "assets": [
+      "lease_competition"
+    ],
+    "visible_evidence": [
+      "多名代理、多个楼盘模型争取少量企业租户"
+    ],
+    "start": 22.834,
+    "end": 34.022,
+    "beats": [
+      {
+        "asset": "lease_competition",
+        "start": 22.834,
+        "end": 34.022
+      }
+    ]
+  },
+  {
+    "scene": 6,
+    "narration": "一栋楼的预测可能说得通，整座城市的预测加在一起，却未必装得下。",
+    "mode": "capacity",
+    "title": "单栋合理，合计未必合理",
+    "detail": "分别预测 / 汇总供需",
+    "assets": [
+      "sites",
+      "lease_competition"
+    ],
+    "visible_evidence": [
+      "四个独立工地和塔吊同时建设",
+      "多名代理、多个楼盘模型争取少量企业租户"
+    ],
+    "start": 34.022,
+    "end": 40.506,
+    "beats": [
+      {
+        "asset": "sites",
+        "start": 34.022,
+        "end": 37.263999999999996
+      },
+      {
+        "asset": "lease_competition",
+        "start": 37.263999999999996,
+        "end": 40.506
+      }
+    ]
+  },
+  {
+    "scene": 7,
+    "narration": "高度还可能带来办公面积之外的回报：地标的知名度、观光收入，以及周边土地的吸引力，都可能进入投资者的计算。",
+    "mode": "benefits",
+    "title": "高度之外，也有收益",
+    "detail": "知名度 / 观光 / 周边土地吸引力",
+    "assets": [
+      "tourism",
+      "burj_motion"
+    ],
+    "visible_evidence": [
+      "观景台游客说明地标的非租金收益",
+      "SOM哈利法塔实景照片的黑白动态编排，保持真实轮廓"
+    ],
+    "start": 40.506,
+    "end": 50.326,
+    "beats": [
+      {
+        "asset": "tourism",
+        "start": 40.506,
+        "end": 46.088499999999996
+      },
+      {
+        "asset": "burj_motion",
+        "start": 46.088499999999996,
+        "end": 50.326
+      }
+    ]
+  },
+  {
+    "scene": 8,
+    "narration": "这些回报有时确实存在。因此，不能看到一栋超高层，就直接认定它是虚荣工程。",
+    "mode": "benefits_real",
+    "title": "不能一概称为虚荣工程",
+    "detail": "收益存在，但仍需核实和测算",
+    "assets": [
+      "tourism",
+      "tenant_visit"
+    ],
+    "visible_evidence": [
+      "观景台游客说明地标的非租金收益",
+      "真实可见的租户看房与可用办公面积"
+    ],
+    "start": 50.326,
+    "end": 59.33,
+    "beats": [
+      {
+        "asset": "tourism",
+        "start": 50.326,
+        "end": 54.828
+      },
+      {
+        "asset": "tenant_visit",
+        "start": 54.828,
+        "end": 59.33
+      }
+    ]
+  },
+  {
+    "scene": 9,
+    "narration": "但在过度乐观的情形里，开发商、贷款人和投资者，也可能把同一种期待，当成了彼此的保证。",
+    "mode": "expectations",
+    "title": "同一种期待，互相作保证",
+    "detail": "开发商 / 银行 / 投资者",
+    "assets": [
+      "investors"
+    ],
+    "visible_evidence": [
+      "开发商、银行与投资者共同讨论同一组预测"
+    ],
+    "start": 59.33,
+    "end": 67.78199999999998,
+    "beats": [
+      {
+        "asset": "investors",
+        "start": 59.33,
+        "end": 67.78199999999998
+      }
+    ]
+  },
+  {
+    "scene": 10,
+    "narration": "开发商相信企业会来，银行相信抵押物值钱，投资者相信未来有人愿意出更高的价格。",
+    "mode": "beliefs",
+    "title": "三个人的算盘",
+    "detail": "企业会来 / 抵押物值钱 / 有人接手",
+    "assets": [
+      "investors"
+    ],
+    "visible_evidence": [
+      "开发商、银行与投资者共同讨论同一组预测"
+    ],
+    "start": 67.78199999999998,
+    "end": 75.99399999999999,
+    "beats": [
+      {
+        "asset": "investors",
+        "start": 67.78199999999998,
+        "end": 75.99399999999999
+      }
+    ]
+  },
+  {
+    "scene": 11,
+    "narration": "没有人需要在合同上写下“经济永远不会变差”。只要所有人的计算，都没有给变差留够空间，风险就已经埋下了。",
+    "mode": "no_margin",
+    "title": "如果没有给变差留空间",
+    "detail": "增长一放慢，所有计划一起承压",
+    "assets": [
+      "investors",
+      "vacancy"
+    ],
+    "visible_evidence": [
+      "开发商、银行与投资者共同讨论同一组预测",
+      "空工位和让步中的租约谈判"
+    ],
+    "start": 75.99399999999999,
+    "end": 86.44,
+    "beats": [
+      {
+        "asset": "investors",
+        "start": 75.99399999999999,
+        "end": 83.67649999999999
+      },
+      {
+        "asset": "vacancy",
+        "start": 83.67649999999999,
+        "end": 86.44
+      }
+    ]
+  }
+]

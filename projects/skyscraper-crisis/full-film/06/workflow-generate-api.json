@@ -1,0 +1,24 @@
+{
+  "1": {
+    "class_type": "AutoDLWorkflow",
+    "inputs": {
+      "workflow_id": "minimax_h3_lightx2v_no_pic",
+      "schema_json": "{\"workflow_id\": \"minimax_h3_lightx2v_no_pic\", \"fields\": [{\"name\": \"prompt\", \"type\": \"prompt\", \"slot\": \"ad_text_01\", \"required\": true}, {\"name\": \"resolution\", \"type\": \"enum\", \"slot\": \"ad_text_02\"}, {\"name\": \"duration\", \"type\": \"integer\", \"slot\": \"ad_int_01\"}, {\"name\": \"seed\", \"type\": \"integer\", \"slot\": \"ad_int_02\"}], \"outputs\": [{\"name\": \"video\", \"kind\": \"video\"}]}",
+      "ad_text_01": "A five-second black-and-white historical editorial documentary shot. Fine silver-gelatin photographic grain, neutral grayscale, soft natural light, restrained realistic human gestures, physically coherent surroundings. Locked wide shot, gentle natural motion, crisp photographic detail. No text, no subtitles, no letters, no numerals, no logos, no watermark, no split screen, no graphics, no montage, no shot changes. This is an original illustrative reconstruction, not authentic archive footage. Inside a contemporary nearly empty office floor, a property manager in a dark blazer walks past vacant desks and unused chairs, holding a thin rental folder. One remaining tenant packs a cardboard box at a desk in the distance. Large windows, subdued daylight, quiet restrained mood. Focus on vacant office space and rental difficulty, no collapsing buildings.",
+      "ad_text_02": "768p横",
+      "ad_int_01": 5,
+      "ad_int_02": 2026102406,
+      "timeout_seconds": 1800,
+      "poll_interval_seconds": 5
+    }
+  },
+  "2": {
+    "class_type": "AutoDLPreviewVideo",
+    "inputs": {
+      "video": [
+        "1",
+        0
+      ]
+    }
+  }
+}

@@ -1,0 +1,943 @@
+{
+  "chapter": 5,
+  "provider": "Microsoft Edge zh-CN-YunxiNeural",
+  "duration": 74.24,
+  "mix": "full-film/05/narration.wav",
+  "paragraphs": [
+    {
+      "text": "接下来，时间开始发挥作用。",
+      "file": "full-film/05/voice/01-73733e98354dd38a.mp3",
+      "duration": 3.096,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 6625000,
+          "text": "接下来"
+        },
+        {
+          "offset": 9875000,
+          "duration": 3500000,
+          "text": "时间"
+        },
+        {
+          "offset": 13500000,
+          "duration": 2250000,
+          "text": "开始"
+        },
+        {
+          "offset": 15875000,
+          "duration": 2875000,
+          "text": "发挥"
+        },
+        {
+          "offset": 18875000,
+          "duration": 3250000,
+          "text": "作用"
+        }
+      ],
+      "start": 0.45,
+      "end": 3.5460000000000003,
+      "wav": "full-film/05/voice/01-73733e98354dd38a.wav"
+    },
+    {
+      "text": "从规划、审批、融资，到施工和交付，大型项目需要经过一连串环节。以双子塔为例，吉隆坡国家石油公司双子塔从1992年开始规划，到1999年正式开幕，跨过了好几年。",
+      "file": "full-film/05/voice/02-61ce00676eba1300.mp3",
+      "duration": 17.592,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 2250000,
+          "text": "从"
+        },
+        {
+          "offset": 3500000,
+          "duration": 4625000,
+          "text": "规划"
+        },
+        {
+          "offset": 10750000,
+          "duration": 6375000,
+          "text": "审批"
+        },
+        {
+          "offset": 19500000,
+          "duration": 5125000,
+          "text": "融资"
+        },
+        {
+          "offset": 26875000,
+          "duration": 2125000,
+          "text": "到"
+        },
+        {
+          "offset": 29125000,
+          "duration": 4750000,
+          "text": "施工"
+        },
+        {
+          "offset": 34125000,
+          "duration": 1125000,
+          "text": "和"
+        },
+        {
+          "offset": 35375000,
+          "duration": 4750000,
+          "text": "交付"
+        },
+        {
+          "offset": 43375000,
+          "duration": 3625000,
+          "text": "大型"
+        },
+        {
+          "offset": 47125000,
+          "duration": 4875000,
+          "text": "项目"
+        },
+        {
+          "offset": 52250000,
+          "duration": 2750000,
+          "text": "需要"
+        },
+        {
+          "offset": 55125000,
+          "duration": 3125000,
+          "text": "经过"
+        },
+        {
+          "offset": 58500000,
+          "duration": 4750000,
+          "text": "一连串"
+        },
+        {
+          "offset": 63375000,
+          "duration": 4000000,
+          "text": "环节"
+        },
+        {
+          "offset": 73125000,
+          "duration": 2250000,
+          "text": "以"
+        },
+        {
+          "offset": 75625000,
+          "duration": 5000000,
+          "text": "双子塔"
+        },
+        {
+          "offset": 80750000,
+          "duration": 1750000,
+          "text": "为"
+        },
+        {
+          "offset": 82500000,
+          "duration": 2250000,
+          "text": "例"
+        },
+        {
+          "offset": 88625000,
+          "duration": 5875000,
+          "text": "吉隆坡"
+        },
+        {
+          "offset": 94750000,
+          "duration": 3375000,
+          "text": "国家"
+        },
+        {
+          "offset": 98250000,
+          "duration": 3125000,
+          "text": "石油"
+        },
+        {
+          "offset": 101500000,
+          "duration": 4125000,
+          "text": "公司"
+        },
+        {
+          "offset": 105875000,
+          "duration": 6750000,
+          "text": "双子塔"
+        },
+        {
+          "offset": 113625000,
+          "duration": 2750000,
+          "text": "从"
+        },
+        {
+          "offset": 116500000,
+          "duration": 5500000,
+          "text": "1992"
+        },
+        {
+          "offset": 122000000,
+          "duration": 2125000,
+          "text": "年"
+        },
+        {
+          "offset": 124375000,
+          "duration": 2625000,
+          "text": "开始"
+        },
+        {
+          "offset": 127125000,
+          "duration": 4125000,
+          "text": "规划"
+        },
+        {
+          "offset": 135000000,
+          "duration": 2250000,
+          "text": "到"
+        },
+        {
+          "offset": 137500000,
+          "duration": 6000000,
+          "text": "1999"
+        },
+        {
+          "offset": 143500000,
+          "duration": 2875000,
+          "text": "年"
+        },
+        {
+          "offset": 146625000,
+          "duration": 3875000,
+          "text": "正式"
+        },
+        {
+          "offset": 150625000,
+          "duration": 3875000,
+          "text": "开幕"
+        },
+        {
+          "offset": 156375000,
+          "duration": 3750000,
+          "text": "跨过"
+        },
+        {
+          "offset": 160125000,
+          "duration": 625000,
+          "text": "了"
+        },
+        {
+          "offset": 161000000,
+          "duration": 3375000,
+          "text": "好几"
+        },
+        {
+          "offset": 164375000,
+          "duration": 2750000,
+          "text": "年"
+        }
+      ],
+      "start": 3.7660000000000005,
+      "end": 21.358,
+      "wav": "full-film/05/voice/02-61ce00676eba1300.wav"
+    },
+    {
+      "text": "可金融市场不会等施工队。",
+      "file": "full-film/05/voice/03-64567a38954a72dc.mp3",
+      "duration": 3.312,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 2875000,
+          "text": "可"
+        },
+        {
+          "offset": 4125000,
+          "duration": 8500000,
+          "text": "金融市场"
+        },
+        {
+          "offset": 13500000,
+          "duration": 3375000,
+          "text": "不会"
+        },
+        {
+          "offset": 16875000,
+          "duration": 1500000,
+          "text": "等"
+        },
+        {
+          "offset": 18500000,
+          "duration": 5750000,
+          "text": "施工队"
+        }
+      ],
+      "start": 21.578,
+      "end": 24.89,
+      "wav": "full-film/05/voice/03-64567a38954a72dc.wav"
+    },
+    {
+      "text": "一张订单可以取消，一笔贷款可以到期，一家公司可以停止扩张。建到一半的核心筒，却无法跟着市场消息立即变回现金。",
+      "file": "full-film/05/voice/04-bc543b104b71bee8.mp3",
+      "duration": 11.304,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 1750000,
+          "text": "一"
+        },
+        {
+          "offset": 2750000,
+          "duration": 1625000,
+          "text": "张"
+        },
+        {
+          "offset": 4500000,
+          "duration": 3375000,
+          "text": "订单"
+        },
+        {
+          "offset": 8125000,
+          "duration": 1750000,
+          "text": "可以"
+        },
+        {
+          "offset": 10000000,
+          "duration": 4750000,
+          "text": "取消"
+        },
+        {
+          "offset": 17625000,
+          "duration": 1500000,
+          "text": "一"
+        },
+        {
+          "offset": 19125000,
+          "duration": 1000000,
+          "text": "笔"
+        },
+        {
+          "offset": 20250000,
+          "duration": 3500000,
+          "text": "贷款"
+        },
+        {
+          "offset": 24000000,
+          "duration": 1750000,
+          "text": "可以"
+        },
+        {
+          "offset": 25875000,
+          "duration": 4750000,
+          "text": "到期"
+        },
+        {
+          "offset": 34375000,
+          "duration": 2500000,
+          "text": "一家"
+        },
+        {
+          "offset": 37000000,
+          "duration": 4625000,
+          "text": "公司"
+        },
+        {
+          "offset": 41875000,
+          "duration": 2125000,
+          "text": "可以"
+        },
+        {
+          "offset": 44125000,
+          "duration": 3000000,
+          "text": "停止"
+        },
+        {
+          "offset": 47250000,
+          "duration": 4500000,
+          "text": "扩张"
+        },
+        {
+          "offset": 57500000,
+          "duration": 3000000,
+          "text": "建到"
+        },
+        {
+          "offset": 60750000,
+          "duration": 2625000,
+          "text": "一半"
+        },
+        {
+          "offset": 63375000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 64250000,
+          "duration": 7250000,
+          "text": "核心筒"
+        },
+        {
+          "offset": 75125000,
+          "duration": 1500000,
+          "text": "却"
+        },
+        {
+          "offset": 76750000,
+          "duration": 2750000,
+          "text": "无法"
+        },
+        {
+          "offset": 79625000,
+          "duration": 2250000,
+          "text": "跟着"
+        },
+        {
+          "offset": 82125000,
+          "duration": 3250000,
+          "text": "市场"
+        },
+        {
+          "offset": 85500000,
+          "duration": 5625000,
+          "text": "消息"
+        },
+        {
+          "offset": 92375000,
+          "duration": 4500000,
+          "text": "立即"
+        },
+        {
+          "offset": 97000000,
+          "duration": 1375000,
+          "text": "变"
+        },
+        {
+          "offset": 98375000,
+          "duration": 1250000,
+          "text": "回"
+        },
+        {
+          "offset": 99750000,
+          "duration": 4500000,
+          "text": "现金"
+        }
+      ],
+      "start": 25.11,
+      "end": 36.414,
+      "wav": "full-film/05/voice/04-bc543b104b71bee8.wav"
+    },
+    {
+      "text": "假设开工那年，企业还在增加员工，写字楼租金也在上涨。几年后，项目准备交付，企业却开始压缩成本，减少办公面积。",
+      "file": "full-film/05/voice/05-662722adc02ed22e.mp3",
+      "duration": 11.952,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 3500000,
+          "text": "假设"
+        },
+        {
+          "offset": 4750000,
+          "duration": 2875000,
+          "text": "开工"
+        },
+        {
+          "offset": 7750000,
+          "duration": 1125000,
+          "text": "那"
+        },
+        {
+          "offset": 8875000,
+          "duration": 3625000,
+          "text": "年"
+        },
+        {
+          "offset": 15375000,
+          "duration": 3625000,
+          "text": "企业"
+        },
+        {
+          "offset": 19125000,
+          "duration": 1375000,
+          "text": "还"
+        },
+        {
+          "offset": 20500000,
+          "duration": 1000000,
+          "text": "在"
+        },
+        {
+          "offset": 21625000,
+          "duration": 2375000,
+          "text": "增加"
+        },
+        {
+          "offset": 24125000,
+          "duration": 4750000,
+          "text": "员工"
+        },
+        {
+          "offset": 30875000,
+          "duration": 5250000,
+          "text": "写字楼"
+        },
+        {
+          "offset": 36250000,
+          "duration": 3500000,
+          "text": "租金"
+        },
+        {
+          "offset": 40000000,
+          "duration": 1250000,
+          "text": "也"
+        },
+        {
+          "offset": 41250000,
+          "duration": 875000,
+          "text": "在"
+        },
+        {
+          "offset": 42250000,
+          "duration": 4125000,
+          "text": "上涨"
+        },
+        {
+          "offset": 52125000,
+          "duration": 3125000,
+          "text": "几年"
+        },
+        {
+          "offset": 55250000,
+          "duration": 3500000,
+          "text": "后"
+        },
+        {
+          "offset": 61875000,
+          "duration": 4125000,
+          "text": "项目"
+        },
+        {
+          "offset": 66250000,
+          "duration": 2500000,
+          "text": "准备"
+        },
+        {
+          "offset": 68875000,
+          "duration": 4875000,
+          "text": "交付"
+        },
+        {
+          "offset": 77250000,
+          "duration": 5250000,
+          "text": "企业"
+        },
+        {
+          "offset": 83500000,
+          "duration": 1750000,
+          "text": "却"
+        },
+        {
+          "offset": 85375000,
+          "duration": 3125000,
+          "text": "开始"
+        },
+        {
+          "offset": 88750000,
+          "duration": 2875000,
+          "text": "压缩"
+        },
+        {
+          "offset": 91750000,
+          "duration": 4500000,
+          "text": "成本"
+        },
+        {
+          "offset": 98375000,
+          "duration": 4625000,
+          "text": "减少"
+        },
+        {
+          "offset": 103250000,
+          "duration": 3125000,
+          "text": "办公"
+        },
+        {
+          "offset": 106500000,
+          "duration": 4250000,
+          "text": "面积"
+        }
+      ],
+      "start": 36.634,
+      "end": 48.586,
+      "wav": "full-film/05/voice/05-662722adc02ed22e.wav"
+    },
+    {
+      "text": "开发商当年画在图纸上的需求，和今天真正来签租约的客户，就出现了差距。",
+      "file": "full-film/05/voice/06-ba3cd4cb784a557d.mp3",
+      "duration": 6.624,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 5875000,
+          "text": "开发商"
+        },
+        {
+          "offset": 7125000,
+          "duration": 2875000,
+          "text": "当年"
+        },
+        {
+          "offset": 10125000,
+          "duration": 1375000,
+          "text": "画"
+        },
+        {
+          "offset": 11500000,
+          "duration": 1125000,
+          "text": "在"
+        },
+        {
+          "offset": 12875000,
+          "duration": 3000000,
+          "text": "图纸"
+        },
+        {
+          "offset": 15875000,
+          "duration": 1250000,
+          "text": "上"
+        },
+        {
+          "offset": 17125000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 17875000,
+          "duration": 5375000,
+          "text": "需求"
+        },
+        {
+          "offset": 26125000,
+          "duration": 1625000,
+          "text": "和"
+        },
+        {
+          "offset": 27875000,
+          "duration": 3500000,
+          "text": "今天"
+        },
+        {
+          "offset": 31625000,
+          "duration": 3500000,
+          "text": "真正"
+        },
+        {
+          "offset": 35250000,
+          "duration": 1375000,
+          "text": "来"
+        },
+        {
+          "offset": 36625000,
+          "duration": 2000000,
+          "text": "签"
+        },
+        {
+          "offset": 38750000,
+          "duration": 2000000,
+          "text": "租约"
+        },
+        {
+          "offset": 40750000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 41625000,
+          "duration": 4500000,
+          "text": "客户"
+        },
+        {
+          "offset": 48125000,
+          "duration": 1375000,
+          "text": "就"
+        },
+        {
+          "offset": 49625000,
+          "duration": 2750000,
+          "text": "出现"
+        },
+        {
+          "offset": 52375000,
+          "duration": 625000,
+          "text": "了"
+        },
+        {
+          "offset": 53125000,
+          "duration": 4375000,
+          "text": "差距"
+        }
+      ],
+      "start": 48.806,
+      "end": 55.43,
+      "wav": "full-film/05/voice/06-ba3cd4cb784a557d.wav"
+    },
+    {
+      "text": "这也解释了为什么，高楼竣工和经济下行，有时会出现在相近的时间：施工计划还在兑现过去的决定，市场已经在交易新的现实。",
+      "file": "full-film/05/voice/07-5ba645c2d4d2b123.mp3",
+      "duration": 10.752,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 1500000,
+          "text": "这"
+        },
+        {
+          "offset": 2500000,
+          "duration": 1000000,
+          "text": "也"
+        },
+        {
+          "offset": 3625000,
+          "duration": 2750000,
+          "text": "解释"
+        },
+        {
+          "offset": 6375000,
+          "duration": 625000,
+          "text": "了"
+        },
+        {
+          "offset": 7125000,
+          "duration": 5250000,
+          "text": "为什么"
+        },
+        {
+          "offset": 15375000,
+          "duration": 3500000,
+          "text": "高楼"
+        },
+        {
+          "offset": 19000000,
+          "duration": 4000000,
+          "text": "竣工"
+        },
+        {
+          "offset": 23250000,
+          "duration": 1125000,
+          "text": "和"
+        },
+        {
+          "offset": 24500000,
+          "duration": 2750000,
+          "text": "经济"
+        },
+        {
+          "offset": 27375000,
+          "duration": 5500000,
+          "text": "下行"
+        },
+        {
+          "offset": 35250000,
+          "duration": 3000000,
+          "text": "有时"
+        },
+        {
+          "offset": 38375000,
+          "duration": 1125000,
+          "text": "会"
+        },
+        {
+          "offset": 39625000,
+          "duration": 2875000,
+          "text": "出现"
+        },
+        {
+          "offset": 42500000,
+          "duration": 1000000,
+          "text": "在"
+        },
+        {
+          "offset": 43750000,
+          "duration": 3625000,
+          "text": "相近"
+        },
+        {
+          "offset": 47375000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 48125000,
+          "duration": 4750000,
+          "text": "时间"
+        },
+        {
+          "offset": 55375000,
+          "duration": 4500000,
+          "text": "施工"
+        },
+        {
+          "offset": 60000000,
+          "duration": 3625000,
+          "text": "计划"
+        },
+        {
+          "offset": 63875000,
+          "duration": 1625000,
+          "text": "还"
+        },
+        {
+          "offset": 65500000,
+          "duration": 875000,
+          "text": "在"
+        },
+        {
+          "offset": 66500000,
+          "duration": 3000000,
+          "text": "兑现"
+        },
+        {
+          "offset": 69750000,
+          "duration": 2625000,
+          "text": "过去"
+        },
+        {
+          "offset": 72375000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 73250000,
+          "duration": 4000000,
+          "text": "决定"
+        },
+        {
+          "offset": 79250000,
+          "duration": 6125000,
+          "text": "市场"
+        },
+        {
+          "offset": 85625000,
+          "duration": 2375000,
+          "text": "已经"
+        },
+        {
+          "offset": 88000000,
+          "duration": 1000000,
+          "text": "在"
+        },
+        {
+          "offset": 89125000,
+          "duration": 2250000,
+          "text": "交易"
+        },
+        {
+          "offset": 91625000,
+          "duration": 1750000,
+          "text": "新"
+        },
+        {
+          "offset": 93375000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 94125000,
+          "duration": 4625000,
+          "text": "现实"
+        }
+      ],
+      "start": 55.65,
+      "end": 66.402,
+      "wav": "full-film/05/voice/07-5ba645c2d4d2b123.wav"
+    },
+    {
+      "text": "这个时间差能解释一些现象，却不能证明每座高楼都遵循同一条规律。",
+      "file": "full-film/05/voice/08-15bf82d80c45eea7.mp3",
+      "duration": 6.912,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 2375000,
+          "text": "这个"
+        },
+        {
+          "offset": 3500000,
+          "duration": 7375000,
+          "text": "时间差"
+        },
+        {
+          "offset": 12000000,
+          "duration": 2000000,
+          "text": "能"
+        },
+        {
+          "offset": 14125000,
+          "duration": 2625000,
+          "text": "解释"
+        },
+        {
+          "offset": 16875000,
+          "duration": 2000000,
+          "text": "一些"
+        },
+        {
+          "offset": 19000000,
+          "duration": 4875000,
+          "text": "现象"
+        },
+        {
+          "offset": 26625000,
+          "duration": 1625000,
+          "text": "却"
+        },
+        {
+          "offset": 28375000,
+          "duration": 2250000,
+          "text": "不能"
+        },
+        {
+          "offset": 30750000,
+          "duration": 5375000,
+          "text": "证明"
+        },
+        {
+          "offset": 37125000,
+          "duration": 3000000,
+          "text": "每"
+        },
+        {
+          "offset": 40125000,
+          "duration": 1375000,
+          "text": "座"
+        },
+        {
+          "offset": 41625000,
+          "duration": 4750000,
+          "text": "高楼"
+        },
+        {
+          "offset": 47500000,
+          "duration": 1625000,
+          "text": "都"
+        },
+        {
+          "offset": 49250000,
+          "duration": 3250000,
+          "text": "遵循"
+        },
+        {
+          "offset": 52750000,
+          "duration": 2000000,
+          "text": "同"
+        },
+        {
+          "offset": 54750000,
+          "duration": 2000000,
+          "text": "一条"
+        },
+        {
+          "offset": 56875000,
+          "duration": 3375000,
+          "text": "规律"
+        }
+      ],
+      "start": 66.622,
+      "end": 73.534,
+      "wav": "full-film/05/voice/08-15bf82d80c45eea7.wav"
+    }
+  ]
+}

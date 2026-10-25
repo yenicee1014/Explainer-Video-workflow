@@ -1,0 +1,125 @@
+{
+  "id": "9feca7f2-055f-4dfb-ad29-09e3a3388f80",
+  "revision": 0,
+  "version": 0.4,
+  "last_node_id": 3,
+  "last_link_id": 1,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "LoadVideo",
+      "pos": [
+        40,
+        210
+      ],
+      "size": [
+        490,
+        420
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "VIDEO",
+          "type": "VIDEO",
+          "links": [
+            1
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadVideo"
+      },
+      "widgets_values": [
+        "skyscraper-v2-full-film.mp4"
+      ],
+      "title": "V2 完整版 · 情节重制"
+    },
+    {
+      "id": 2,
+      "type": "SaveVideo",
+      "pos": [
+        630,
+        210
+      ],
+      "size": [
+        560,
+        470
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "video",
+          "type": "VIDEO",
+          "link": 1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "video",
+          "type": "VIDEO",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SaveVideo"
+      },
+      "widgets_values": [
+        "skyscraper_v2/繁荣的高度-V2",
+        "auto",
+        "auto"
+      ],
+      "title": "播放 V2 / 导出"
+    },
+    {
+      "id": 3,
+      "type": "Note",
+      "pos": [
+        40,
+        20
+      ],
+      "size": [
+        1150,
+        150
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "Note"
+      },
+      "widgets_values": [
+        "V2 · 78段旁白 / 01—08顺序成片 / 新增人物、合同、搬离、再融资与证据检验镜头。\n历史图片有来源，生成影像标注情境重建。完整字幕与配音沿用获准台词。\n此预览只读取本地成片。素材生成工作流另存，旧版成片保留。"
+      ],
+      "title": "新版内容"
+    }
+  ],
+  "links": [
+    [
+      1,
+      1,
+      0,
+      2,
+      0,
+      "VIDEO"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.8,
+      "offset": [
+        20,
+        20
+      ]
+    }
+  }
+}

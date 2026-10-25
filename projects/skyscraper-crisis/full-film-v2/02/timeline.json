@@ -1,0 +1,183 @@
+[
+  {
+    "scene": 1,
+    "narration": "先纠正一个经常被讲反的细节。",
+    "mode": "correct",
+    "title": "先把时间摆对",
+    "detail": "先后顺序不能倒置",
+    "assets": [
+      "exchange",
+      "esb_build"
+    ],
+    "visible_evidence": [
+      "1929年代交易员、纸带与交易所，区别于建筑工地",
+      "帝国大厦官网标注1930年的施工历史影像"
+    ],
+    "start": 0,
+    "end": 4.1259999999999994,
+    "beats": [
+      {
+        "asset": "exchange",
+        "start": 0,
+        "end": 2.0629999999999997
+      },
+      {
+        "asset": "esb_build",
+        "start": 2.0629999999999997,
+        "end": 4.1259999999999994
+      }
+    ]
+  },
+  {
+    "scene": 2,
+    "narration": "美国股市的那场著名崩盘，发生在1929年10月。帝国大厦正式开工，却是在1930年3月。",
+    "mode": "dates",
+    "title": "股灾在前，开工在后",
+    "detail": "1929.10 → 1930.03",
+    "assets": [
+      "exchange",
+      "esb_build"
+    ],
+    "visible_evidence": [
+      "1929年代交易员、纸带与交易所，区别于建筑工地",
+      "帝国大厦官网标注1930年的施工历史影像"
+    ],
+    "start": 4.1259999999999994,
+    "end": 13.826,
+    "beats": [
+      {
+        "asset": "exchange",
+        "start": 4.1259999999999994,
+        "end": 9.171
+      },
+      {
+        "asset": "esb_build",
+        "start": 9.171,
+        "end": 13.826
+      }
+    ]
+  },
+  {
+    "scene": 3,
+    "narration": "也就是说，这个最常被拿来证明“高楼预告危机”的例子，甚至是在股灾之后才开始施工。",
+    "mode": "photo",
+    "title": "危机之后才开工",
+    "detail": "不能把竣工日期当成提前预告",
+    "assets": [
+      "esb_build",
+      "old_construction"
+    ],
+    "visible_evidence": [
+      "帝国大厦官网标注1930年的施工历史影像",
+      "上一版已生成、只在相应情境使用的 old_construction"
+    ],
+    "start": 13.826,
+    "end": 21.894,
+    "beats": [
+      {
+        "asset": "esb_build",
+        "start": 13.826,
+        "end": 17.86
+      },
+      {
+        "asset": "old_construction",
+        "start": 17.86,
+        "end": 21.894
+      }
+    ]
+  },
+  {
+    "scene": 4,
+    "narration": "它提醒我们：宣布要建、正式开工、主体封顶和开门营业，是四个不同的时刻。",
+    "mode": "stages",
+    "title": "四个不同的时刻",
+    "detail": "宣布 / 开工 / 封顶 / 营业",
+    "assets": [
+      "planning",
+      "esb_build",
+      "esb_open"
+    ],
+    "visible_evidence": [
+      "开发商在办公楼模型和地块图上做决策",
+      "帝国大厦官网标注1930年的施工历史影像",
+      "帝国大厦官网标注1931年的开幕仪式历史照片"
+    ],
+    "start": 21.894,
+    "end": 30.009999999999998,
+    "beats": [
+      {
+        "asset": "planning",
+        "start": 21.894,
+        "end": 24.163999999999998
+      },
+      {
+        "asset": "esb_build",
+        "start": 24.163999999999998,
+        "end": 26.6015
+      },
+      {
+        "asset": "esb_open",
+        "start": 26.6015,
+        "end": 30.009999999999998
+      }
+    ]
+  },
+  {
+    "scene": 5,
+    "narration": "如果需要的时候用开工日期，不方便的时候改用竣工日期，再把危机发生的前后几年都算进去，很多故事都会显得格外准确。",
+    "mode": "windows",
+    "title": "换一个日期，就换一个故事",
+    "detail": "必须预先确定检验窗口",
+    "assets": [
+      "sample",
+      "precommit"
+    ],
+    "visible_evidence": [
+      "从两个被选中的案例扩展到完整案例集合",
+      "先把判断标准放在桌上，再打开新案例检验"
+    ],
+    "start": 30.009999999999998,
+    "end": 41.102,
+    "beats": [
+      {
+        "asset": "sample",
+        "start": 30.009999999999998,
+        "end": 35.556
+      },
+      {
+        "asset": "precommit",
+        "start": 35.556,
+        "end": 41.102
+      }
+    ]
+  },
+  {
+    "scene": 6,
+    "narration": "所以，先别急着把高楼当成预言。我们真正要解释的，是一个项目为什么会被启动，又为什么会在交付时遇到完全不同的市场。",
+    "mode": "decision",
+    "title": "为何启动？为何遇冷？",
+    "detail": "开工时的判断 / 交付时的市场",
+    "assets": [
+      "planning",
+      "vacancy"
+    ],
+    "visible_evidence": [
+      "开发商在办公楼模型和地块图上做决策",
+      "空工位和让步中的租约谈判"
+    ],
+    "start": 41.102,
+    "end": 53.8,
+    "beats": [
+      {
+        "asset": "planning",
+        "start": 41.102,
+        "end": 47.45099999999999
+      },
+      {
+        "asset": "vacancy",
+        "start": 47.45099999999999,
+        "end": 53.8
+      }
+    ]
+  }
+]

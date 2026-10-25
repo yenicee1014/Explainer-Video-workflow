@@ -1,0 +1,40 @@
+{
+  "1": {
+    "class_type": "LoadVideo",
+    "inputs": {
+      "file": "skyscraper-h3-source.mp4"
+    }
+  },
+  "2": {
+    "class_type": "SCNarration",
+    "inputs": {
+      "revision": 1
+    }
+  },
+  "4": {
+    "class_type": "SCMotionEditorialRender",
+    "inputs": {
+      "motion": [
+        "1",
+        0
+      ],
+      "voice_manifest": [
+        "2",
+        0
+      ],
+      "revision": 1
+    }
+  },
+  "5": {
+    "class_type": "SaveVideo",
+    "inputs": {
+      "video": [
+        "4",
+        0
+      ],
+      "filename_prefix": "skyscraper_editorial/skyscraper-demo",
+      "format": "auto",
+      "format.codec": "auto"
+    }
+  }
+}

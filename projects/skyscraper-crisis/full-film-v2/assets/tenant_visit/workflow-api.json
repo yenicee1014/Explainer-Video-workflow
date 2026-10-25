@@ -1,0 +1,24 @@
+{
+  "1": {
+    "class_type": "AutoDLWorkflow",
+    "inputs": {
+      "workflow_id": "minimax_h3_lightx2v_no_pic",
+      "ad_text_01": "Black-and-white observational documentary footage for a serious economics explainer. Neutral grayscale silver-gelatin photography, detailed faces and material textures, soft daylight, moderate contrast, clear readable composition. Original illustrative reconstruction. Natural restrained gestures, physically coherent objects and hands. Landscape 16:9. One continuous shot, gentle camera movement only. No subtitles, no readable lettering, no logos, no watermark, no graphic overlays. Wide interior shot in a contemporary ordinary office floor with rectangular windows. An East Asian letting agent holds a lease folder and shows the space to two potential business tenants. One tenant checks where desks could go and the other examines the floor plan. The agent points to the usable floor area. No luxury penthouse, no exterior tower shot.",
+      "ad_text_02": "768p横",
+      "ad_int_01": 12,
+      "ad_int_02": 2026111033,
+      "timeout_seconds": 1800,
+      "poll_interval_seconds": 5,
+      "schema_json": "{\"version\": 6, \"workflow_id\": \"minimax_h3_lightx2v_no_pic\", \"fields\": [{\"name\": \"prompt\", \"type\": \"prompt\", \"slot\": \"ad_text_01\", \"required\": true}, {\"name\": \"resolution\", \"type\": \"enum\", \"slot\": \"ad_text_02\"}, {\"name\": \"duration\", \"type\": \"integer\", \"slot\": \"ad_int_01\"}, {\"name\": \"seed\", \"type\": \"integer\", \"slot\": \"ad_int_02\"}], \"outputs\": [{\"name\": \"video\", \"kind\": \"video\"}]}"
+    }
+  },
+  "2": {
+    "class_type": "AutoDLPreviewVideo",
+    "inputs": {
+      "video": [
+        "1",
+        0
+      ]
+    }
+  }
+}

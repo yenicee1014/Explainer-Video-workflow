@@ -55,3 +55,56 @@ python3 -m http.server 3033 --bind 127.0.0.1
 - [NOAA/NSSL 历史雷达设备照片](https://commons.wikimedia.org/wiki/File:Doppler_Weather_Radar_-_NOAA.jpg)
 
 源代码、讲稿、图解与第三方素材的版权范围不同；仓库尚未选定通用开源许可证。公开可见不代表任意商用、改编或再分发许可。详情见 [第三方说明](THIRD_PARTY_NOTICES.md)。
+
+---
+
+## 持续迭代：新增《繁荣的高度》（2026-10-25）
+
+本仓库持续积累不同主题的科普视频工作流。**以上天气项目 README 原文保留**，其版本状态、无声导出和配音说明继续只描述天气项目；以下是新加入的经济科普项目，不覆盖天气工程，也不把历史试验描述为最终结果。
+
+本次主题是：**摩天大楼、商业地产与经济周期之间究竟有什么关系？**《繁荣的高度》从历史时间线出发，用一个虚构办公楼项目解释借贷、竞争、建设滞后、租户减少、再融资与证据检验。叙事重点是项目怎样承压，以及为何不能把建筑纪录直接当作危机预报。
+
+- [在线播放完整版：有配音和字幕](https://yenicee1014.github.io/Explainer-Video-workflow/skyscraper.html)
+- [仓库内完整版 MP4](video/skyscraper-crisis-v2-full.mp4)
+- [直接播放 / 下载 MP4](https://yenicee1014.github.io/Explainer-Video-workflow/video/skyscraper-crisis-v2-full.mp4)
+- [六类经济现象核对片](video/skyscraper-crisis-v2-highlights.mp4)
+- [完整项目说明与复用步骤](projects/skyscraper-crisis/README.md)
+
+此次上传的是用户所指的“11 分 06 秒”V2 原文件，未剪短、未静音。`ffprobe` 精确时长为 **666.581333 秒（11:06.58，四舍五入约 11:07）**，1280×720、25fps、H.264 视频与 AAC 音频。文件大小、SHA-256 和媒体参数见 [交付清单](projects/skyscraper-crisis/delivery-manifest.json)。
+
+### 八章主题与细分内容
+
+| 章节 | 内容 | 必须出现的具体情节 |
+| --- | --- | --- |
+| 01 同一座城市，两种消息 | 建筑纪录与经济下行并置 | 帝国大厦开幕、工厂锁门、工人离岗、银行排队、迪拜事件时间线 |
+| 02 先把时间摆对 | 区分股灾、宣布、开工、封顶、营业 | 交易所、钢结构施工、事先确定检验窗口 |
+| 03 一栋楼，先在账本里建起来 | 成本、贷款、预期租金与合同义务 | 项目图纸、预算、银行递笔签约、企业看房与新增工位 |
+| 04 每个人的算盘，都指向了同一个未来 | 多项目供应叠加与共同乐观预期 | 四个独立工地、多楼盘争取有限租户、开发商与银行及投资者讨论 |
+| 05 楼盖的是过去，市场活在现在 | 建设周期与需求变化 | 双子塔时间线、取消扩张、撤电脑与堆椅子、未完工核心筒 |
+| 06 楼没有倒，账却可能撑不住 | 租金下滑、到期续贷、估值与信贷传导 | 搬箱交钥匙、空工位、旧合同与新方案、估值检查、退回贷款申请 |
+| 07 为什么这个“指数”总让人印象深刻 | 选择偏差、完整样本与预测检验 | 扩展案例集合、正反案例、论文书目、先定标准再开新资料 |
+| 08 真正值得看的，是哪几个问题 | 需求、资金、到期与承受能力 | 压力预算、租约与账本核对、下一笔到期日 |
+
+### 从 Demo 到 V2 的迭代
+
+| 阶段 | 当时结果或问题 | 后续调整 |
+| --- | --- | --- |
+| 视觉 Demo | 灰白纸纹、黑白剪贴与暗红强调得到方向认可；素材集中在一栋楼 | 先写完整科普台词 |
+| 完整台词 / V1 | 8 章、78 段旁白完成；泛化工人与高楼画面无法解释具体台词 | 建立逐段“台词 → 主体 → 动作 → 证据”映射 |
+| V2 情节重制 | 新增 23 条采用的经济机制素材，形成 148 个摄影画面节拍 | 加入签约、竞争、搬离、续贷、样本检验，并保留原旁白 |
+| 建筑准确性纠偏 | 两条生成地标候选轮廓偏移 | 弃用候选，改用记录来源的整栋实景照片进行动态排版 |
+| 本次公开归档 | 上传同一份完整有声视频、核对片、源工程与复用资料 | 后续版本继续追加日期、问题、修改与核验，不抹去历史 |
+
+### 工作流、提示词和对话
+
+- [逐步复用与 ComfyUI 节点说明](projects/skyscraper-crisis/WORKFLOW.md)
+- [23 条实际提示词、参数、失败候选与新项目总指令](projects/skyscraper-crisis/PROMPTS.md)
+- [完整科普台词](projects/skyscraper-crisis/SCRIPT_FULL_V1.md)
+- [78 段台词到具体画面的执行表](projects/skyscraper-crisis/full-film-v2/逐段画面执行表.md)
+- [创作对话记录（可恢复的用户消息与可见回复）](projects/skyscraper-crisis/conversation/TRANSCRIPT.md)
+- [迭代复盘与验收清单](projects/skyscraper-crisis/ITERATIONS.md)
+- [新主题复用表](projects/skyscraper-crisis/templates/NEW-PROJECT.md)
+- [资料与画面依据](projects/skyscraper-crisis/full-film-v2/资料与画面依据.md)
+- [本次 Release：完整视频与重渲染素材包](https://github.com/yenicee1014/Explainer-Video-workflow/releases/tag/skyscraper-crisis-v2-2026-10-25)
+
+![六类具体情节核对](projects/skyscraper-crisis/six-mechanisms.jpg)

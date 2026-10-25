@@ -1,0 +1,285 @@
+[
+  {
+    "scene": 1,
+    "narration": "所以，下次看到一座新的超高层，不妨先问四件事。",
+    "mode": "four",
+    "title": "换成四个实际问题",
+    "detail": "需求 / 资金 / 到期 / 承受能力",
+    "assets": [
+      "old_review",
+      "ledger"
+    ],
+    "visible_evidence": [
+      "上一版已生成、只在相应情境使用的 old_review",
+      "账本、贷款还款表和到期日相互核对"
+    ],
+    "start": 0,
+    "end": 5.806,
+    "beats": [
+      {
+        "asset": "old_review",
+        "start": 0,
+        "end": 2.903
+      },
+      {
+        "asset": "ledger",
+        "start": 2.903,
+        "end": 5.806
+      }
+    ]
+  },
+  {
+    "scene": 2,
+    "narration": "第一，谁来使用它？需求来自已经存在的企业和租约，还是来自一份过于乐观的增长预测？",
+    "mode": "check_demand",
+    "title": "01 谁来使用它？",
+    "detail": "真实企业与租约 / 乐观的增长预测",
+    "assets": [
+      "tenant_visit",
+      "old_review"
+    ],
+    "visible_evidence": [
+      "真实可见的租户看房与可用办公面积",
+      "上一版已生成、只在相应情境使用的 old_review"
+    ],
+    "start": 5.806,
+    "end": 14.354000000000001,
+    "beats": [
+      {
+        "asset": "tenant_visit",
+        "start": 5.806,
+        "end": 10.080000000000002
+      },
+      {
+        "asset": "old_review",
+        "start": 10.080000000000002,
+        "end": 14.354000000000001
+      }
+    ]
+  },
+  {
+    "scene": 3,
+    "narration": "第二，钱从哪里来？出资的人能承担多少损失，项目又借了多少债？",
+    "mode": "check_funding",
+    "title": "02 钱从哪里来？",
+    "detail": "自有资金 / 借款 / 可承担损失",
+    "assets": [
+      "investors",
+      "signature"
+    ],
+    "visible_evidence": [
+      "开发商、银行与投资者共同讨论同一组预测",
+      "贷款人递笔，开发商签署借款合同"
+    ],
+    "start": 14.354000000000001,
+    "end": 21.701999999999998,
+    "beats": [
+      {
+        "asset": "investors",
+        "start": 14.354000000000001,
+        "end": 19.499000000000002
+      },
+      {
+        "asset": "signature",
+        "start": 19.499000000000002,
+        "end": 21.701999999999998
+      }
+    ]
+  },
+  {
+    "scene": 4,
+    "narration": "第三，债务什么时候到期？如果还没稳定收租，贷款就需要续借，融资条件一变，计划能不能承受？",
+    "mode": "check_maturity",
+    "title": "03 债务什么时候到期？",
+    "detail": "稳定收租之前，是否就要续借？",
+    "assets": [
+      "ledger",
+      "refinance"
+    ],
+    "visible_evidence": [
+      "账本、贷款还款表和到期日相互核对",
+      "旧借款到期，新贷款方案与旧合同并置"
+    ],
+    "start": 21.701999999999998,
+    "end": 31.233999999999998,
+    "beats": [
+      {
+        "asset": "ledger",
+        "start": 21.701999999999998,
+        "end": 26.122
+      },
+      {
+        "asset": "refinance",
+        "start": 26.122,
+        "end": 31.233999999999998
+      }
+    ]
+  },
+  {
+    "scene": 5,
+    "narration": "第四，如果租金比预期低、利息比预期高，这栋楼还能不能正常运转？",
+    "mode": "check_stress",
+    "title": "04 变差之后，还能运行吗？",
+    "detail": "租金更低 / 利息更高",
+    "assets": [
+      "stress",
+      "vacancy"
+    ],
+    "visible_evidence": [
+      "下调收入、提高融资成本后的预算计算",
+      "空工位和让步中的租约谈判"
+    ],
+    "start": 31.233999999999998,
+    "end": 38.294000000000004,
+    "beats": [
+      {
+        "asset": "stress",
+        "start": 31.233999999999998,
+        "end": 34.764
+      },
+      {
+        "asset": "vacancy",
+        "start": 34.764,
+        "end": 38.294000000000004
+      }
+    ]
+  },
+  {
+    "scene": 6,
+    "narration": "这些问题，不如“世界第一高”醒目，却更接近风险所在。",
+    "mode": "substance",
+    "title": "比高度更值得看的，是账本",
+    "detail": "从纪录，回到项目基本面",
+    "assets": [
+      "budget",
+      "valuation"
+    ],
+    "visible_evidence": [
+      "计算器、成本文件与项目模型一起入镜",
+      "估值人员检查空置率、租金记录和物业面积"
+    ],
+    "start": 38.294000000000004,
+    "end": 43.86600000000001,
+    "beats": [
+      {
+        "asset": "budget",
+        "start": 38.294000000000004,
+        "end": 41.080000000000005
+      },
+      {
+        "asset": "valuation",
+        "start": 41.080000000000005,
+        "end": 43.86600000000001
+      }
+    ]
+  },
+  {
+    "scene": 7,
+    "narration": "高楼可以是技术进步的成果，也可以是城市需求增长的结果。我们不能因为它高，就认定它危险。",
+    "mode": "photo",
+    "title": "高，不等于危险",
+    "detail": "技术进步和真实需求，也能支持高楼",
+    "assets": [
+      "growth",
+      "petronas_motion"
+    ],
+    "visible_evidence": [
+      "新员工与新增工位说明企业扩张",
+      "双子塔设计事务所实景照片的动态编排，保留双塔与空中连桥"
+    ],
+    "start": 43.86600000000001,
+    "end": 52.726000000000006,
+    "beats": [
+      {
+        "asset": "growth",
+        "start": 43.86600000000001,
+        "end": 46.9735
+      },
+      {
+        "asset": "petronas_motion",
+        "start": 46.9735,
+        "end": 52.726000000000006
+      }
+    ]
+  },
+  {
+    "scene": 8,
+    "narration": "需要警惕的，是一份只能在最好情况下成立的计划，却背上了无论情况好坏，都必须兑现的债务。",
+    "mode": "obligation",
+    "title": "最好情况，不能是唯一情况",
+    "detail": "乐观的预测 / 必须兑现的债务",
+    "assets": [
+      "stress",
+      "signature"
+    ],
+    "visible_evidence": [
+      "下调收入、提高融资成本后的预算计算",
+      "贷款人递笔，开发商签署借款合同"
+    ],
+    "start": 52.726000000000006,
+    "end": 61.68200000000001,
+    "beats": [
+      {
+        "asset": "stress",
+        "start": 52.726000000000006,
+        "end": 57.20400000000001
+      },
+      {
+        "asset": "signature",
+        "start": 57.20400000000001,
+        "end": 61.68200000000001
+      }
+    ]
+  },
+  {
+    "scene": 9,
+    "narration": "庆祝高度的时候，别忘了翻一翻账本。",
+    "mode": "ledger",
+    "title": "庆祝高度，也翻一翻账本",
+    "detail": "收入、支出和到期日",
+    "assets": [
+      "esb_motion",
+      "ledger"
+    ],
+    "visible_evidence": [
+      "帝国大厦实景照片的黑白动态编排，保持真实轮廓",
+      "账本、贷款还款表和到期日相互核对"
+    ],
+    "start": 61.68200000000001,
+    "end": 65.574,
+    "beats": [
+      {
+        "asset": "esb_motion",
+        "start": 61.68200000000001,
+        "end": 63.75200000000001
+      },
+      {
+        "asset": "ledger",
+        "start": 63.75200000000001,
+        "end": 65.574
+      }
+    ]
+  },
+  {
+    "scene": 10,
+    "narration": "未来的繁荣还需要时间验证，但下一笔利息，已经写好了日期。",
+    "mode": "closing",
+    "title": "未来需要验证，利息已有日期",
+    "detail": "繁荣的高度",
+    "assets": [
+      "ledger"
+    ],
+    "visible_evidence": [
+      "账本、贷款还款表和到期日相互核对"
+    ],
+    "start": 65.574,
+    "end": 72.24,
+    "beats": [
+      {
+        "asset": "ledger",
+        "start": 65.574,
+        "end": 72.24
+      }
+    ]
+  }
+]

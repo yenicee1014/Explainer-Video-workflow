@@ -1,0 +1,67 @@
+[
+  {
+    "id": "esb_build",
+    "file": "full-film-v2/research/esb_build.jpg",
+    "url": "https://empirestatebuilding2prod.prod.acquia-sites.com/sites/default/files/2026-09/5fd5dda260e4b14816065689daa92c7551a0471c.jpg",
+    "page": "https://www.esbnyc.com/about/history",
+    "note": "Official page assigns this historical image to 1930",
+    "rights": "Empire State Building official site; rights retained by source.",
+    "purpose": "architecture reference and attributed private demo",
+    "size": [
+      1550,
+      1168
+    ]
+  },
+  {
+    "id": "esb_open",
+    "file": "full-film-v2/research/esb_open.jpg",
+    "url": "https://empirestatebuilding2prod.prod.acquia-sites.com/sites/default/files/2026-09/e461165ce5147b8d4a160f03db2a5ccefc83c5a8.png",
+    "page": "https://www.esbnyc.com/about/history",
+    "note": "Official page assigns this historical image to 1931",
+    "rights": "Empire State Building official site; rights retained by source.",
+    "purpose": "architecture reference and attributed private demo",
+    "size": [
+      1556,
+      746
+    ]
+  },
+  {
+    "id": "esb_photo",
+    "file": "full-film-v2/research/esb_photo.jpg",
+    "url": "https://empirestatebuilding2prod.prod.acquia-sites.com/sites/default/files/2026-09/landmark.jpg",
+    "page": "https://www.esbnyc.com/about/history",
+    "note": "Modern whole-building reference; not a 1931 or 1981 archive photo.",
+    "rights": "Empire State Building official site; rights retained by source.",
+    "purpose": "architecture reference and attributed private demo",
+    "size": [
+      682,
+      454
+    ]
+  },
+  {
+    "id": "burj_photo",
+    "file": "full-film-v2/research/burj_photo.jpg",
+    "url": "https://www.som.com/wp-content/uploads/2021/08/203188_000_N2590_large-scaled.jpg",
+    "page": "https://www.som.com/projects/burj-khalifa/",
+    "note": "Whole-tower project photograph from architect SOM; appearance reference, not a dated opening archive.",
+    "rights": "SOM project photography; rights retained by source.",
+    "purpose": "architecture reference and attributed private demo",
+    "size": [
+      2200,
+      1719
+    ]
+  },
+  {
+    "id": "petronas_photo",
+    "file": "full-film-v2/research/petronas_photo.jpg",
+    "url": "https://pcparch.com/media/pages/work/petronas-towers/08c09f3e51-1737997319/petronas-towers-hero-shot-nighttime-1440x-q80.jpg",
+    "page": "https://pcparch.com/work/petronas-towers/",
+    "note": "Whole twin towers and skybridge photograph from architect; not a 1992 archive image.",
+    "rights": "Pelli Clarke & Partners project photography; rights retained by source.",
+    "purpose": "architecture reference and attributed private demo",
+    "size": [
+      1440,
+      1018
+    ]
+  }
+]

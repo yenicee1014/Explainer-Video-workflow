@@ -1,0 +1,228 @@
+{
+  "release_tag": "skyscraper-crisis-v2-2026-10-25",
+  "archive": "skyscraper-crisis-v2-render-assets.zip",
+  "archive_bytes": 227472944,
+  "archive_sha256": "a00b292e3381123b307063270789b03826c0e604bfe7cfa71f4d5f40d94fb6e0",
+  "files": [
+    {
+      "file": "full-film-v2/assets/factory_close/motion.mp4",
+      "bytes": 12710003,
+      "sha256": "d9bf88f940ad6a0b4371db5ad5fa7f3688278c70f2a01d3062ea7db91417aeb9"
+    },
+    {
+      "file": "full-film-v2/assets/bank_queue/motion.mp4",
+      "bytes": 10681220,
+      "sha256": "d9e9a41e819b19da4d131428603c89df588a8bfa9dcd76fd05e368953692c212"
+    },
+    {
+      "file": "full-film-v2/assets/exchange/motion.mp4",
+      "bytes": 14716172,
+      "sha256": "3c64fbcfe7fe96348abc1aa010558ba5df0100a0e3df36211ce0dcd7baf2359a"
+    },
+    {
+      "file": "full-film-v2/assets/planning/motion.mp4",
+      "bytes": 6706144,
+      "sha256": "3b4b4a0559dcbdeba30e25e6e389b1c047997cb8c94ea039015819765f9fbe18"
+    },
+    {
+      "file": "full-film-v2/assets/budget/motion.mp4",
+      "bytes": 5124277,
+      "sha256": "35a71eb3b6ecb910eb85eae6a12b4a221dcd5ff7a85764ff397fa96c0f58ee4b"
+    },
+    {
+      "file": "full-film-v2/assets/signature/motion.mp4",
+      "bytes": 7472311,
+      "sha256": "b67271db95e3db6672cf1796008da44bbd1aa4f723afcf2f6d62f16cc825f177"
+    },
+    {
+      "file": "full-film-v2/assets/tenant_visit/motion.mp4",
+      "bytes": 7933626,
+      "sha256": "2c94fe4573b437e0c8384ac0e25a96085ad1ed62ba946d61659fa00339da1222"
+    },
+    {
+      "file": "full-film-v2/assets/growth/motion.mp4",
+      "bytes": 7756657,
+      "sha256": "6b4bea53a9bc62be8f847f14569d088bb46dc5656523453ef6919d9addd34297"
+    },
+    {
+      "file": "full-film-v2/assets/sites/motion.mp4",
+      "bytes": 8760583,
+      "sha256": "4be04b6c4e47ceabf079a28872fbe38450562eae031ee45877b7acd7e171f25e"
+    },
+    {
+      "file": "full-film-v2/assets/lease_competition/motion.mp4",
+      "bytes": 6424550,
+      "sha256": "bf55ee68b4bf76f0203578e903f4b568b52d2d3703b21e54312ac2ee454c1a6a"
+    },
+    {
+      "file": "full-film-v2/assets/tourism/motion.mp4",
+      "bytes": 8018746,
+      "sha256": "f501b60dae2a3cc03bd7f326ff2b61d76f35ca8f03ffb629749173862089cd41"
+    },
+    {
+      "file": "full-film-v2/assets/investors/motion.mp4",
+      "bytes": 4877160,
+      "sha256": "0cce1483ebae71130d03deb3f87b676034b741e6ce3d02fd03860a4496843ed5"
+    },
+    {
+      "file": "full-film-v2/assets/cancel_order/motion.mp4",
+      "bytes": 4874868,
+      "sha256": "4a7edf5b4838233ae59f7b2d2257abe6de13bd68dc0ae92f30a40d4f7fe89bc1"
+    },
+    {
+      "file": "full-film-v2/assets/contraction/motion.mp4",
+      "bytes": 7125179,
+      "sha256": "0e47775549334d075b0104df27da4622f1a11aa6070b2dca9c63321a4fe1d671"
+    },
+    {
+      "file": "full-film-v2/assets/departure/motion.mp4",
+      "bytes": 4116384,
+      "sha256": "41396d461a414109644a3f9ddd71c92eda9b25c2557171f7f5390497c2cd2f6f"
+    },
+    {
+      "file": "full-film-v2/assets/vacancy/motion.mp4",
+      "bytes": 5612012,
+      "sha256": "23e3ecde196f14bad6bd9538fb72dafa0cf040d7d176ab11e52110e3d97dad43"
+    },
+    {
+      "file": "full-film-v2/assets/refinance/motion.mp4",
+      "bytes": 5107730,
+      "sha256": "66ac46608599b4aec4db2bd64ab8ea7e061ecba28dbd4898a47465ff80ddd30f"
+    },
+    {
+      "file": "full-film-v2/assets/valuation/motion.mp4",
+      "bytes": 5113187,
+      "sha256": "12a2787ea9f949cf5847bade39edb2447fb330259641af8c6dba9214639e3ca5"
+    },
+    {
+      "file": "full-film-v2/assets/credit/motion.mp4",
+      "bytes": 3916170,
+      "sha256": "4a3156071e05fbf4821e46d1cccee79706bb3fae01f04de151231ffe9c5a8f25"
+    },
+    {
+      "file": "full-film-v2/assets/sample/motion.mp4",
+      "bytes": 8322518,
+      "sha256": "85f4956bd26c66c9b6d82a2c553401cd80d95a936a3aefc66cccba8751966a82"
+    },
+    {
+      "file": "full-film-v2/assets/precommit/motion.mp4",
+      "bytes": 5029326,
+      "sha256": "019a6207e063e51ea4b1d88559e09050dcab14bf1a55974b9e55b3acfc972fdf"
+    },
+    {
+      "file": "full-film-v2/assets/stress/motion.mp4",
+      "bytes": 3272287,
+      "sha256": "d5c3f5b4ec5ede90dcb7659ec63b202ad05e19c23bc282a5991d8d0c927038d0"
+    },
+    {
+      "file": "full-film-v2/assets/ledger/motion.mp4",
+      "bytes": 10044090,
+      "sha256": "b5da0cc4771fa1ce04bcab86ebf82192655ef45320416dd2e6bcb6c73de46337"
+    },
+    {
+      "file": "full-film/01/motion.mp4",
+      "bytes": 2796660,
+      "sha256": "57f526c4f035d16676151237ad9bffb27296669f7ec0fbc3189a0db0e8b74ef7"
+    },
+    {
+      "file": "full-film/01/narration.wav",
+      "bytes": 7273004,
+      "sha256": "62bfe2700917143991672302e949e8ae59fe2d641140affa40aa1eff319bb3f1"
+    },
+    {
+      "file": "full-film/02/motion.mp4",
+      "bytes": 1848132,
+      "sha256": "8cc265dd1c2c11ca8ba4162a6360b0bb3f526ae0a86fd2c5479a488a58a8ed9f"
+    },
+    {
+      "file": "full-film/02/narration.wav",
+      "bytes": 5164844,
+      "sha256": "8572c8bc2a2fb6d99eb5ca9efbc3bc8096dafc9c629c51ca31b57262fc452e81"
+    },
+    {
+      "file": "full-film/03/motion.mp4",
+      "bytes": 2197477,
+      "sha256": "96b746a5c75eefd09873171d7bbf163b36f1908330ced8cbce6a3bbf4cd0b15c"
+    },
+    {
+      "file": "full-film/03/narration.wav",
+      "bytes": 9031724,
+      "sha256": "b2f8be5e267e44fecba15968168cc3208868c73bffc9ba8c096c1223655a1042"
+    },
+    {
+      "file": "full-film/04/motion.mp4",
+      "bytes": 2290692,
+      "sha256": "e575ba6cb6eab15766f2edeca1a8b1194470ac5c84d9758ebad1c0e981d005ed"
+    },
+    {
+      "file": "full-film/04/narration.wav",
+      "bytes": 8298284,
+      "sha256": "da3a674ccc4fe54b362acf1604bde8b6d2d7dcd93066913cccdf7fc04183d092"
+    },
+    {
+      "file": "full-film/05/motion.mp4",
+      "bytes": 3368585,
+      "sha256": "d9813e57f1df00b33db55f497936b8dd86537ad372f3c6218b7d2f01617b8b01"
+    },
+    {
+      "file": "full-film/05/narration.wav",
+      "bytes": 7127084,
+      "sha256": "169044428138d8753fcb29ee91c33f8076324800e825f95f55eef7ab06dc5000"
+    },
+    {
+      "file": "full-film/06/motion.mp4",
+      "bytes": 1380809,
+      "sha256": "cd8ce1707f24cbb475b4f1549d901fb4d90fd4528586fad692cb395cbc08db25"
+    },
+    {
+      "file": "full-film/06/narration.wav",
+      "bytes": 10471724,
+      "sha256": "ad7dabdcc6a982b5133ac582deeee3be6fc71b9a379f1b6d32f6d5942f3d385a"
+    },
+    {
+      "file": "full-film/07/motion.mp4",
+      "bytes": 2901866,
+      "sha256": "c584abdd8261eacc56265c33c92bcc13d54ea798b56ac2841e7034e31f68ab5d"
+    },
+    {
+      "file": "full-film/07/narration.wav",
+      "bytes": 9688364,
+      "sha256": "5923319afbb8c1691bf50df9e7b3edb0595d6796101ff139ec50e483ca74ccc3"
+    },
+    {
+      "file": "full-film/08/motion.mp4",
+      "bytes": 2245354,
+      "sha256": "c1cebaa2ccedff5ce46174e6995a241fa4f16c08390df1d6249d218a6195a088"
+    },
+    {
+      "file": "full-film/08/narration.wav",
+      "bytes": 6935084,
+      "sha256": "8340d44089bfa2fbd0079b0960596be2c3d39942f1977e3493caa7ed01565cc9"
+    },
+    {
+      "file": "full-film-v2/research/esb_open.jpg",
+      "bytes": 328014,
+      "sha256": "ef38f2b82d29bfb32c47d95aaf48be6c757a39f7177685268c31a7e669235837"
+    },
+    {
+      "file": "full-film-v2/research/esb_build.jpg",
+      "bytes": 304573,
+      "sha256": "973de84cced654c8c7e8d2016e8260e97492cd8ef3f5c02b0120176a729d1936"
+    },
+    {
+      "file": "full-film-v2/research/esb_photo.jpg",
+      "bytes": 183041,
+      "sha256": "a69958d8a04375e014563f528aa28ef53e1209e530b9f8e1c3a9af79407c39a6"
+    },
+    {
+      "file": "full-film-v2/research/burj_photo.jpg",
+      "bytes": 660862,
+      "sha256": "d7efa2d235cdfa8b6acb3489d19636af48fb2aa2bb6ff8e0660a577356b26944"
+    },
+    {
+      "file": "full-film-v2/research/petronas_photo.jpg",
+      "bytes": 409082,
+      "sha256": "95a5c9b74421da2c90f03c5dd132ca78ad8315598648884812ffc8d8bbaba2c6"
+    }
+  ]
+}

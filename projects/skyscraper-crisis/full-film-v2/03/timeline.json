@@ -1,0 +1,314 @@
+[
+  {
+    "scene": 1,
+    "narration": "假设你是一家开发商，准备建一栋办公楼。",
+    "mode": "photo",
+    "title": "你是一家开发商",
+    "detail": "虚构项目 · 从一张办公楼图纸开始",
+    "assets": [
+      "planning"
+    ],
+    "visible_evidence": [
+      "开发商在办公楼模型和地块图上做决策"
+    ],
+    "start": 0,
+    "end": 4.726,
+    "beats": [
+      {
+        "asset": "planning",
+        "start": 0,
+        "end": 4.726
+      }
+    ]
+  },
+  {
+    "scene": 2,
+    "narration": "开工之前，你首先要做的，不是挑选玻璃幕墙，而是算一笔账。",
+    "mode": "ledger",
+    "title": "先算账，再开工",
+    "detail": "成本 / 收入 / 偿债",
+    "assets": [
+      "budget"
+    ],
+    "visible_evidence": [
+      "计算器、成本文件与项目模型一起入镜"
+    ],
+    "start": 4.726,
+    "end": 10.994000000000002,
+    "beats": [
+      {
+        "asset": "budget",
+        "start": 4.726,
+        "end": 10.994000000000002
+      }
+    ]
+  },
+  {
+    "scene": 3,
+    "narration": "拿地要多少钱？建造要多少钱？楼盖好之后，能租给谁？每年收回的租金，够不够支付运营、利息和债务？",
+    "mode": "costs",
+    "title": "这栋楼，怎样收回钱？",
+    "detail": "拿地 → 建造 → 出租 → 还款",
+    "assets": [
+      "planning",
+      "budget",
+      "tenant_visit"
+    ],
+    "visible_evidence": [
+      "开发商在办公楼模型和地块图上做决策",
+      "计算器、成本文件与项目模型一起入镜",
+      "真实可见的租户看房与可用办公面积"
+    ],
+    "start": 10.994000000000002,
+    "end": 22.877999999999997,
+    "beats": [
+      {
+        "asset": "planning",
+        "start": 10.994000000000002,
+        "end": 13.014000000000001
+      },
+      {
+        "asset": "budget",
+        "start": 13.014000000000001,
+        "end": 14.9015
+      },
+      {
+        "asset": "tenant_visit",
+        "start": 14.9015,
+        "end": 22.877999999999997
+      }
+    ]
+  },
+  {
+    "scene": 4,
+    "narration": "我们把事情简化。假设你借了六亿元，年利率百分之四，每年需要支付两千四百万元利息。",
+    "mode": "loan",
+    "title": "借款 6 亿元",
+    "detail": "年利率 4% → 年利息 2400 万元",
+    "assets": [
+      "signature"
+    ],
+    "visible_evidence": [
+      "贷款人递笔，开发商签署借款合同"
+    ],
+    "start": 22.877999999999997,
+    "end": 31.473999999999993,
+    "beats": [
+      {
+        "asset": "signature",
+        "start": 22.877999999999997,
+        "end": 31.473999999999993
+      }
+    ]
+  },
+  {
+    "scene": 5,
+    "narration": "按照你的预测，这栋楼出租后，扣除日常运营费用，每年还能剩下五千万元。",
+    "mode": "income",
+    "title": "预期净运营收入",
+    "detail": "每年 5000 万元 · 扣除日常运营费用",
+    "assets": [
+      "tenant_visit",
+      "growth"
+    ],
+    "visible_evidence": [
+      "真实可见的租户看房与可用办公面积",
+      "新员工与新增工位说明企业扩张"
+    ],
+    "start": 31.473999999999993,
+    "end": 38.846,
+    "beats": [
+      {
+        "asset": "tenant_visit",
+        "start": 31.473999999999993,
+        "end": 35.16
+      },
+      {
+        "asset": "growth",
+        "start": 35.16,
+        "end": 38.846
+      }
+    ]
+  },
+  {
+    "scene": 6,
+    "narration": "五千万进来，两千四百万付息。暂时不考虑税费和归还本金，这个项目看上去还有余地。",
+    "mode": "cash_good",
+    "title": "5000 万进来，2400 万付息",
+    "detail": "简化示例：暂不计税费与本金偿还",
+    "assets": [
+      "budget",
+      "old_signing"
+    ],
+    "visible_evidence": [
+      "计算器、成本文件与项目模型一起入镜",
+      "上一版已生成、只在相应情境使用的 old_signing"
+    ],
+    "start": 38.846,
+    "end": 47.562,
+    "beats": [
+      {
+        "asset": "budget",
+        "start": 38.846,
+        "end": 43.20399999999999
+      },
+      {
+        "asset": "old_signing",
+        "start": 43.20399999999999,
+        "end": 47.562
+      }
+    ]
+  },
+  {
+    "scene": 7,
+    "narration": "但请注意，合同上的借款是真的，账本里的租金，现在还只是预测。",
+    "mode": "certainty",
+    "title": "借款是合同，租金是预测",
+    "detail": "确定的义务 / 尚未兑现的收入",
+    "assets": [
+      "signature",
+      "tenant_visit"
+    ],
+    "visible_evidence": [
+      "贷款人递笔，开发商签署借款合同",
+      "真实可见的租户看房与可用办公面积"
+    ],
+    "start": 47.562,
+    "end": 54.022,
+    "beats": [
+      {
+        "asset": "signature",
+        "start": 47.562,
+        "end": 50.657
+      },
+      {
+        "asset": "tenant_visit",
+        "start": 50.657,
+        "end": 54.022
+      }
+    ]
+  },
+  {
+    "scene": 8,
+    "narration": "工地上的第一铲土还没挖下去，项目就已经把未来几年能不能租出去、能收到多少租金，押进了今天的决定里。",
+    "mode": "blueprint",
+    "title": "第一铲土之前",
+    "detail": "未来的租户，已经写进今天的决定",
+    "assets": [
+      "planning",
+      "signature"
+    ],
+    "visible_evidence": [
+      "开发商在办公楼模型和地块图上做决策",
+      "贷款人递笔，开发商签署借款合同"
+    ],
+    "start": 54.022,
+    "end": 63.50599999999999,
+    "beats": [
+      {
+        "asset": "planning",
+        "start": 54.022,
+        "end": 61.1795
+      },
+      {
+        "asset": "signature",
+        "start": 61.1795,
+        "end": 63.50599999999999
+      }
+    ]
+  },
+  {
+    "scene": 9,
+    "narration": "如果融资条件更宽松，利息负担更轻，同一份租金预测就更容易撑起项目。",
+    "mode": "financing",
+    "title": "融资变轻，项目更容易成立",
+    "detail": "其他条件相同的示意",
+    "assets": [
+      "old_signing",
+      "budget"
+    ],
+    "visible_evidence": [
+      "上一版已生成、只在相应情境使用的 old_signing",
+      "计算器、成本文件与项目模型一起入镜"
+    ],
+    "start": 63.50599999999999,
+    "end": 70.56599999999999,
+    "beats": [
+      {
+        "asset": "old_signing",
+        "start": 63.50599999999999,
+        "end": 67.03599999999999
+      },
+      {
+        "asset": "budget",
+        "start": 67.03599999999999,
+        "end": 70.56599999999999
+      }
+    ]
+  },
+  {
+    "scene": 10,
+    "narration": "如果你又相信未来租金会涨、地价会涨、企业还会继续扩张，那么，更贵的地、更大的体量，甚至更高的楼，都可能变得“算得过来”。",
+    "mode": "expect_growth",
+    "title": "每一项，都假设继续上涨",
+    "detail": "租金 / 地价 / 企业需求",
+    "assets": [
+      "growth",
+      "sites"
+    ],
+    "visible_evidence": [
+      "新员工与新增工位说明企业扩张",
+      "四个独立工地和塔吊同时建设"
+    ],
+    "start": 70.56599999999999,
+    "end": 81.94599999999998,
+    "beats": [
+      {
+        "asset": "growth",
+        "start": 70.56599999999999,
+        "end": 76.1985
+      },
+      {
+        "asset": "sites",
+        "start": 76.1985,
+        "end": 81.94599999999998
+      }
+    ]
+  },
+  {
+    "scene": 11,
+    "narration": "当然，便宜的钱也能支持有真实需求的建设。问题出现在另一种情况下：越来越多的项目，都要靠未来持续变好才能成立。",
+    "mode": "dependency",
+    "title": "关键是承受能力",
+    "detail": "真实需求 ≠ 永远增长的假设",
+    "assets": [
+      "growth",
+      "investors",
+      "vacancy"
+    ],
+    "visible_evidence": [
+      "新员工与新增工位说明企业扩张",
+      "开发商、银行与投资者共同讨论同一组预测",
+      "空工位和让步中的租约谈判"
+    ],
+    "start": 81.94599999999998,
+    "end": 94.08,
+    "beats": [
+      {
+        "asset": "growth",
+        "start": 81.94599999999998,
+        "end": 86.49099999999999
+      },
+      {
+        "asset": "investors",
+        "start": 86.49099999999999,
+        "end": 90.72849999999998
+      },
+      {
+        "asset": "vacancy",
+        "start": 90.72849999999998,
+        "end": 94.08
+      }
+    ]
+  }
+]

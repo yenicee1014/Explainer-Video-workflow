@@ -1,0 +1,63 @@
+{
+  "chapter": 5,
+  "title": "楼盖的是过去，市场活在现在",
+  "generation_prompt": "A five-second black-and-white historical editorial documentary shot. Fine silver-gelatin photographic grain, neutral grayscale, soft natural light, restrained realistic human gestures, physically coherent surroundings. Locked wide shot, gentle natural motion, crisp photographic detail. No text, no subtitles, no letters, no numerals, no logos, no watermark, no split screen, no graphics, no montage, no shot changes. This is an original illustrative reconstruction, not authentic archive footage. A construction manager in a hard hat stands beside an unfinished concrete office building core. He holds architectural plans while a crane slowly hoists a steel beam. Unfinished open floors, workers at a safe distance. Construction activity is slow and deliberate, showing long physical commitment. Daytime, no completed landmark.",
+  "scenes": [
+    {
+      "scene": 1,
+      "narration": "接下来，时间开始发挥作用。",
+      "visual": "clock",
+      "title": "时间，开始发挥作用",
+      "detail": "建筑进度与市场速度"
+    },
+    {
+      "scene": 2,
+      "narration": "从规划、审批、融资，到施工和交付，大型项目需要经过一连串环节。以双子塔为例，吉隆坡国家石油公司双子塔从1992年开始规划，到1999年正式开幕，跨过了好几年。",
+      "visual": "petronas",
+      "title": "规划到开幕，跨过多年",
+      "detail": "双子塔：1992 开始规划 → 1999 正式开幕"
+    },
+    {
+      "scene": 3,
+      "narration": "可金融市场不会等施工队。",
+      "visual": "speed",
+      "title": "市场不会等施工队",
+      "detail": "金融预期可以迅速改变"
+    },
+    {
+      "scene": 4,
+      "narration": "一张订单可以取消，一笔贷款可以到期，一家公司可以停止扩张。建到一半的核心筒，却无法跟着市场消息立即变回现金。",
+      "visual": "commitment",
+      "title": "订单能取消，核心筒不能变现",
+      "detail": "施工中的资本，被锁在项目里"
+    },
+    {
+      "scene": 5,
+      "narration": "假设开工那年，企业还在增加员工，写字楼租金也在上涨。几年后，项目准备交付，企业却开始压缩成本，减少办公面积。",
+      "visual": "demand_shift",
+      "title": "开工时扩张，交付时收缩",
+      "detail": "企业需求前后对照 · 虚构示例"
+    },
+    {
+      "scene": 6,
+      "narration": "开发商当年画在图纸上的需求，和今天真正来签租约的客户，就出现了差距。",
+      "visual": "mismatch",
+      "title": "图纸上的需求 ≠ 实际租约",
+      "detail": "预测客户 / 签约客户"
+    },
+    {
+      "scene": 7,
+      "narration": "这也解释了为什么，高楼竣工和经济下行，有时会出现在相近的时间：施工计划还在兑现过去的决定，市场已经在交易新的现实。",
+      "visual": "lag",
+      "title": "建设兑现旧决定，市场面对新现实",
+      "detail": "时间差示意，不是统计曲线"
+    },
+    {
+      "scene": 8,
+      "narration": "这个时间差能解释一些现象，却不能证明每座高楼都遵循同一条规律。",
+      "visual": "limit",
+      "title": "能解释现象，不能包办规律",
+      "detail": "并非每座高楼都会遇到经济下行"
+    }
+  ]
+}

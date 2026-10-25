@@ -1,0 +1,227 @@
+[
+  {
+    "scene": 1,
+    "narration": "1931年5月1日，纽约帝国大厦正式开幕。",
+    "mode": "opening",
+    "title": "1931.05.01",
+    "detail": "帝国大厦开幕",
+    "assets": [
+      "esb_open"
+    ],
+    "visible_evidence": [
+      "帝国大厦官网标注1931年的开幕仪式历史照片"
+    ],
+    "start": 0,
+    "end": 5.2059999999999995,
+    "beats": [
+      {
+        "asset": "esb_open",
+        "start": 0,
+        "end": 5.2059999999999995
+      }
+    ]
+  },
+  {
+    "scene": 2,
+    "narration": "一座超过一百层的建筑，把人类能够向上建造的高度，又推进了一步。",
+    "mode": "height",
+    "title": "超过一百层",
+    "detail": "建筑技术向上突破",
+    "assets": [
+      "esb_motion"
+    ],
+    "visible_evidence": [
+      "帝国大厦实景照片的黑白动态编排，保持真实轮廓"
+    ],
+    "start": 5.2059999999999995,
+    "end": 11.546000000000001,
+    "beats": [
+      {
+        "asset": "esb_motion",
+        "start": 5.2059999999999995,
+        "end": 11.546000000000001
+      }
+    ]
+  },
+  {
+    "scene": 3,
+    "narration": "但在街道另一头，经济已经是另一番景象。美国正陷在大萧条之中：企业收缩，工人失业，银行体系不断承受压力。",
+    "mode": "photo",
+    "title": "街道另一头",
+    "detail": "工厂收缩 · 工人失业 · 银行承压",
+    "assets": [
+      "factory_close",
+      "old_worker",
+      "bank_queue"
+    ],
+    "visible_evidence": [
+      "锁上停工工厂的大门，工人提着饭盒离开",
+      "上一版已生成、只在相应情境使用的 old_worker",
+      "储户沿银行门口排队，呈现银行承压"
+    ],
+    "start": 11.546000000000001,
+    "end": 23.31,
+    "beats": [
+      {
+        "asset": "factory_close",
+        "start": 11.546000000000001,
+        "end": 19.1785
+      },
+      {
+        "asset": "old_worker",
+        "start": 19.1785,
+        "end": 20.391
+      },
+      {
+        "asset": "bank_queue",
+        "start": 20.391,
+        "end": 23.31
+      }
+    ]
+  },
+  {
+    "scene": 4,
+    "narration": "一边是刷新纪录的高楼，一边是不断下沉的经济。把它们放在同一张照片里，很容易产生一个疑问：为什么人类最宏大的建筑，有时偏偏出现在经济最难看的年份？",
+    "mode": "contrast",
+    "title": "同一座城市",
+    "detail": "建筑纪录与经济下行",
+    "assets": [
+      "esb_motion",
+      "factory_close"
+    ],
+    "visible_evidence": [
+      "帝国大厦实景照片的黑白动态编排，保持真实轮廓",
+      "锁上停工工厂的大门，工人提着饭盒离开"
+    ],
+    "start": 23.31,
+    "end": 37.882,
+    "beats": [
+      {
+        "asset": "esb_motion",
+        "start": 23.31,
+        "end": 30.595999999999997
+      },
+      {
+        "asset": "factory_close",
+        "start": 30.595999999999997,
+        "end": 37.882
+      }
+    ]
+  },
+  {
+    "scene": 5,
+    "narration": "类似的画面，也出现在后来的迪拜。2009年11月，迪拜世界及其子公司的债务延期偿付风波震动市场。2010年1月4日，哈利法塔正式开幕。",
+    "mode": "dubai",
+    "title": "迪拜的两条消息",
+    "detail": "2009.11 债务风波 / 2010.01 哈利法塔开幕",
+    "assets": [
+      "dubai_notice",
+      "burj_motion"
+    ],
+    "visible_evidence": [
+      "迪拜世界债务事件与哈利法塔开发商分开标注",
+      "SOM哈利法塔实景照片的黑白动态编排，保持真实轮廓"
+    ],
+    "start": 37.882,
+    "end": 52.358,
+    "beats": [
+      {
+        "asset": "dubai_notice",
+        "start": 37.882,
+        "end": 48.0145
+      },
+      {
+        "asset": "burj_motion",
+        "start": 48.0145,
+        "end": 52.358
+      }
+    ]
+  },
+  {
+    "scene": 6,
+    "narration": "于是，这类故事被串成了一个颇有吸引力的说法：摩天大楼指数。仿佛只要世界最高楼准备亮灯，经济危机就已经在门外排队。",
+    "mode": "index",
+    "title": "摩天大楼指数",
+    "detail": "引人注意的关联，等于可靠预测吗？",
+    "assets": [
+      "esb_motion",
+      "burj_motion",
+      "sample"
+    ],
+    "visible_evidence": [
+      "帝国大厦实景照片的黑白动态编排，保持真实轮廓",
+      "SOM哈利法塔实景照片的黑白动态编排，保持真实轮廓",
+      "从两个被选中的案例扩展到完整案例集合"
+    ],
+    "start": 52.358,
+    "end": 64.16999999999999,
+    "beats": [
+      {
+        "asset": "esb_motion",
+        "start": 52.358,
+        "end": 56.295333333333325
+      },
+      {
+        "asset": "burj_motion",
+        "start": 56.295333333333325,
+        "end": 60.23266666666666
+      },
+      {
+        "asset": "sample",
+        "start": 60.23266666666666,
+        "end": 64.16999999999999
+      }
+    ]
+  },
+  {
+    "scene": 7,
+    "narration": "但一栋楼，真的有这样的预言能力吗？",
+    "mode": "question",
+    "title": "一栋楼，能预言吗？",
+    "detail": "从现象走向检验",
+    "assets": [
+      "sample"
+    ],
+    "visible_evidence": [
+      "从两个被选中的案例扩展到完整案例集合"
+    ],
+    "start": 64.16999999999999,
+    "end": 67.98999999999998,
+    "beats": [
+      {
+        "asset": "sample",
+        "start": 64.16999999999999,
+        "end": 67.98999999999998
+      }
+    ]
+  },
+  {
+    "scene": 8,
+    "narration": "要回答这个问题，我们得把目光从楼顶，移到银行的合同和开发商的账本上。",
+    "mode": "ledger",
+    "title": "把目光移到账本",
+    "detail": "借款合同 / 租金预测",
+    "assets": [
+      "signature",
+      "ledger"
+    ],
+    "visible_evidence": [
+      "贷款人递笔，开发商签署借款合同",
+      "账本、贷款还款表和到期日相互核对"
+    ],
+    "start": 67.98999999999998,
+    "end": 75.76,
+    "beats": [
+      {
+        "asset": "signature",
+        "start": 67.98999999999998,
+        "end": 72.99749999999999
+      },
+      {
+        "asset": "ledger",
+        "start": 72.99749999999999,
+        "end": 75.76
+      }
+    ]
+  }
+]

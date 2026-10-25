@@ -1,0 +1,84 @@
+{
+  "chapter": 3,
+  "title": "一栋楼，先在账本里建起来",
+  "generation_prompt": "A five-second black-and-white historical editorial documentary shot. Fine silver-gelatin photographic grain, neutral grayscale, soft natural light, restrained realistic human gestures, physically coherent surroundings. Locked wide shot, gentle natural motion, crisp photographic detail. No text, no subtitles, no letters, no numerals, no logos, no watermark, no split screen, no graphics, no montage, no shot changes. This is an original illustrative reconstruction, not authentic archive footage. A contemporary commercial property developer and a bank loan officer sit opposite each other at a plain desk. The developer wears a simple dark blazer. They review blank loan documents, a small architectural model, and a calculator. The officer hands over a pen and the developer signs one page. Medium wide composition, natural hands, human decision and contract are the main subject.",
+  "scenes": [
+    {
+      "scene": 1,
+      "narration": "假设你是一家开发商，准备建一栋办公楼。",
+      "visual": "photo",
+      "title": "你是一家开发商",
+      "detail": "虚构项目 · 从一张办公楼图纸开始"
+    },
+    {
+      "scene": 2,
+      "narration": "开工之前，你首先要做的，不是挑选玻璃幕墙，而是算一笔账。",
+      "visual": "ledger",
+      "title": "先算账，再开工",
+      "detail": "成本 / 收入 / 偿债"
+    },
+    {
+      "scene": 3,
+      "narration": "拿地要多少钱？建造要多少钱？楼盖好之后，能租给谁？每年收回的租金，够不够支付运营、利息和债务？",
+      "visual": "costs",
+      "title": "这栋楼，怎样收回钱？",
+      "detail": "拿地 → 建造 → 出租 → 还款"
+    },
+    {
+      "scene": 4,
+      "narration": "我们把事情简化。假设你借了六亿元，年利率百分之四，每年需要支付两千四百万元利息。",
+      "visual": "loan",
+      "title": "借款 6 亿元",
+      "detail": "年利率 4% → 年利息 2400 万元"
+    },
+    {
+      "scene": 5,
+      "narration": "按照你的预测，这栋楼出租后，扣除日常运营费用，每年还能剩下五千万元。",
+      "visual": "income",
+      "title": "预期净运营收入",
+      "detail": "每年 5000 万元 · 扣除日常运营费用"
+    },
+    {
+      "scene": 6,
+      "narration": "五千万进来，两千四百万付息。暂时不考虑税费和归还本金，这个项目看上去还有余地。",
+      "visual": "cash_good",
+      "title": "5000 万进来，2400 万付息",
+      "detail": "简化示例：暂不计税费与本金偿还"
+    },
+    {
+      "scene": 7,
+      "narration": "但请注意，合同上的借款是真的，账本里的租金，现在还只是预测。",
+      "visual": "certainty",
+      "title": "借款是合同，租金是预测",
+      "detail": "确定的义务 / 尚未兑现的收入"
+    },
+    {
+      "scene": 8,
+      "narration": "工地上的第一铲土还没挖下去，项目就已经把未来几年能不能租出去、能收到多少租金，押进了今天的决定里。",
+      "visual": "blueprint",
+      "title": "第一铲土之前",
+      "detail": "未来的租户，已经写进今天的决定"
+    },
+    {
+      "scene": 9,
+      "narration": "如果融资条件更宽松，利息负担更轻，同一份租金预测就更容易撑起项目。",
+      "visual": "financing",
+      "title": "融资变轻，项目更容易成立",
+      "detail": "其他条件相同的示意"
+    },
+    {
+      "scene": 10,
+      "narration": "如果你又相信未来租金会涨、地价会涨、企业还会继续扩张，那么，更贵的地、更大的体量，甚至更高的楼，都可能变得“算得过来”。",
+      "visual": "expect_growth",
+      "title": "每一项，都假设继续上涨",
+      "detail": "租金 / 地价 / 企业需求"
+    },
+    {
+      "scene": 11,
+      "narration": "当然，便宜的钱也能支持有真实需求的建设。问题出现在另一种情况下：越来越多的项目，都要靠未来持续变好才能成立。",
+      "visual": "dependency",
+      "title": "关键是承受能力",
+      "detail": "真实需求 ≠ 永远增长的假设"
+    }
+  ]
+}

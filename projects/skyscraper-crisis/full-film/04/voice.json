@@ -1,0 +1,1258 @@
+{
+  "chapter": 4,
+  "provider": "Microsoft Edge zh-CN-YunxiNeural",
+  "duration": 86.44,
+  "mix": "full-film/04/narration.wav",
+  "paragraphs": [
+    {
+      "text": "你看好这个片区，旁边的开发商也看好。",
+      "file": "full-film/04/voice/01-5583c6803474f297.mp3",
+      "duration": 3.96,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 1875000,
+          "text": "你"
+        },
+        {
+          "offset": 2875000,
+          "duration": 2625000,
+          "text": "看好"
+        },
+        {
+          "offset": 5750000,
+          "duration": 1500000,
+          "text": "这个"
+        },
+        {
+          "offset": 7375000,
+          "duration": 6000000,
+          "text": "片区"
+        },
+        {
+          "offset": 16625000,
+          "duration": 2750000,
+          "text": "旁边"
+        },
+        {
+          "offset": 19375000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 20125000,
+          "duration": 4750000,
+          "text": "开发商"
+        },
+        {
+          "offset": 25125000,
+          "duration": 1000000,
+          "text": "也"
+        },
+        {
+          "offset": 26125000,
+          "duration": 4750000,
+          "text": "看好"
+        }
+      ],
+      "start": 0.45,
+      "end": 4.41,
+      "wav": "full-film/04/voice/01-5583c6803474f297.wav"
+    },
+    {
+      "text": "你预计三年后会有更多企业搬进来，他也预计三年后会有更多企业搬进来。",
+      "file": "full-film/04/voice/02-9cb8d428175d40bd.mp3",
+      "duration": 7.248,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 1375000,
+          "text": "你"
+        },
+        {
+          "offset": 2500000,
+          "duration": 3125000,
+          "text": "预计"
+        },
+        {
+          "offset": 5875000,
+          "duration": 1750000,
+          "text": "三"
+        },
+        {
+          "offset": 7625000,
+          "duration": 1500000,
+          "text": "年"
+        },
+        {
+          "offset": 9125000,
+          "duration": 3500000,
+          "text": "后"
+        },
+        {
+          "offset": 13750000,
+          "duration": 1625000,
+          "text": "会"
+        },
+        {
+          "offset": 15375000,
+          "duration": 1375000,
+          "text": "有"
+        },
+        {
+          "offset": 16875000,
+          "duration": 3000000,
+          "text": "更多"
+        },
+        {
+          "offset": 20000000,
+          "duration": 2750000,
+          "text": "企业"
+        },
+        {
+          "offset": 23000000,
+          "duration": 1750000,
+          "text": "搬"
+        },
+        {
+          "offset": 24750000,
+          "duration": 3875000,
+          "text": "进来"
+        },
+        {
+          "offset": 32875000,
+          "duration": 1500000,
+          "text": "他"
+        },
+        {
+          "offset": 34500000,
+          "duration": 875000,
+          "text": "也"
+        },
+        {
+          "offset": 35500000,
+          "duration": 4750000,
+          "text": "预计"
+        },
+        {
+          "offset": 41375000,
+          "duration": 2625000,
+          "text": "三"
+        },
+        {
+          "offset": 44000000,
+          "duration": 1500000,
+          "text": "年"
+        },
+        {
+          "offset": 45500000,
+          "duration": 3000000,
+          "text": "后"
+        },
+        {
+          "offset": 49625000,
+          "duration": 1750000,
+          "text": "会"
+        },
+        {
+          "offset": 51375000,
+          "duration": 1125000,
+          "text": "有"
+        },
+        {
+          "offset": 52625000,
+          "duration": 3125000,
+          "text": "更多"
+        },
+        {
+          "offset": 55875000,
+          "duration": 2750000,
+          "text": "企业"
+        },
+        {
+          "offset": 58875000,
+          "duration": 1500000,
+          "text": "搬"
+        },
+        {
+          "offset": 60375000,
+          "duration": 3375000,
+          "text": "进来"
+        }
+      ],
+      "start": 4.63,
+      "end": 11.878,
+      "wav": "full-film/04/voice/02-9cb8d428175d40bd.wav"
+    },
+    {
+      "text": "于是，两个人都拿着未来的需求，向银行申请今天的贷款。",
+      "file": "full-film/04/voice/03-02dd9e518f2e22b5.mp3",
+      "duration": 5.712,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 5625000,
+          "text": "于是"
+        },
+        {
+          "offset": 10875000,
+          "duration": 2625000,
+          "text": "两"
+        },
+        {
+          "offset": 13500000,
+          "duration": 875000,
+          "text": "个"
+        },
+        {
+          "offset": 14375000,
+          "duration": 1625000,
+          "text": "人"
+        },
+        {
+          "offset": 16250000,
+          "duration": 1000000,
+          "text": "都"
+        },
+        {
+          "offset": 17250000,
+          "duration": 1250000,
+          "text": "拿"
+        },
+        {
+          "offset": 18500000,
+          "duration": 875000,
+          "text": "着"
+        },
+        {
+          "offset": 19625000,
+          "duration": 2625000,
+          "text": "未来"
+        },
+        {
+          "offset": 22250000,
+          "duration": 875000,
+          "text": "的"
+        },
+        {
+          "offset": 23250000,
+          "duration": 6000000,
+          "text": "需求"
+        },
+        {
+          "offset": 31000000,
+          "duration": 2250000,
+          "text": "向"
+        },
+        {
+          "offset": 33375000,
+          "duration": 3250000,
+          "text": "银行"
+        },
+        {
+          "offset": 36750000,
+          "duration": 3875000,
+          "text": "申请"
+        },
+        {
+          "offset": 40875000,
+          "duration": 2500000,
+          "text": "今天"
+        },
+        {
+          "offset": 43375000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 44125000,
+          "duration": 4125000,
+          "text": "贷款"
+        }
+      ],
+      "start": 12.098,
+      "end": 17.810000000000002,
+      "wav": "full-film/04/voice/03-02dd9e518f2e22b5.wav"
+    },
+    {
+      "text": "再加上第三家、第四家，工地就连成了一片。",
+      "file": "full-film/04/voice/04-fd2dcacf43d47dd3.mp3",
+      "duration": 4.704,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 1750000,
+          "text": "再"
+        },
+        {
+          "offset": 2750000,
+          "duration": 3125000,
+          "text": "加上"
+        },
+        {
+          "offset": 6125000,
+          "duration": 3625000,
+          "text": "第三"
+        },
+        {
+          "offset": 9750000,
+          "duration": 3250000,
+          "text": "家"
+        },
+        {
+          "offset": 16500000,
+          "duration": 4125000,
+          "text": "第四"
+        },
+        {
+          "offset": 20625000,
+          "duration": 3250000,
+          "text": "家"
+        },
+        {
+          "offset": 26375000,
+          "duration": 3625000,
+          "text": "工地"
+        },
+        {
+          "offset": 30250000,
+          "duration": 1000000,
+          "text": "就"
+        },
+        {
+          "offset": 31250000,
+          "duration": 1000000,
+          "text": "连"
+        },
+        {
+          "offset": 32375000,
+          "duration": 1500000,
+          "text": "成"
+        },
+        {
+          "offset": 33875000,
+          "duration": 750000,
+          "text": "了"
+        },
+        {
+          "offset": 34750000,
+          "duration": 3375000,
+          "text": "一片"
+        }
+      ],
+      "start": 18.03,
+      "end": 22.734,
+      "wav": "full-film/04/voice/04-fd2dcacf43d47dd3.wav"
+    },
+    {
+      "text": "这里有一个容易被忽略的问题：每一家都在计算自己能拿到多少租户，却未必充分考虑，几年后会有多少栋新楼一起争抢这些租户。",
+      "file": "full-film/04/voice/05-5cbb2cea12c154e5.mp3",
+      "duration": 10.968,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 2500000,
+          "text": "这里"
+        },
+        {
+          "offset": 3625000,
+          "duration": 1125000,
+          "text": "有"
+        },
+        {
+          "offset": 4750000,
+          "duration": 2250000,
+          "text": "一个"
+        },
+        {
+          "offset": 7250000,
+          "duration": 2125000,
+          "text": "容易"
+        },
+        {
+          "offset": 9500000,
+          "duration": 1000000,
+          "text": "被"
+        },
+        {
+          "offset": 10625000,
+          "duration": 2875000,
+          "text": "忽略"
+        },
+        {
+          "offset": 13500000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 14375000,
+          "duration": 4500000,
+          "text": "问题"
+        },
+        {
+          "offset": 22750000,
+          "duration": 1750000,
+          "text": "每"
+        },
+        {
+          "offset": 24500000,
+          "duration": 2500000,
+          "text": "一家"
+        },
+        {
+          "offset": 27250000,
+          "duration": 1000000,
+          "text": "都"
+        },
+        {
+          "offset": 28250000,
+          "duration": 1375000,
+          "text": "在"
+        },
+        {
+          "offset": 29750000,
+          "duration": 4750000,
+          "text": "计算"
+        },
+        {
+          "offset": 35500000,
+          "duration": 2875000,
+          "text": "自己"
+        },
+        {
+          "offset": 38500000,
+          "duration": 1125000,
+          "text": "能"
+        },
+        {
+          "offset": 39625000,
+          "duration": 2375000,
+          "text": "拿到"
+        },
+        {
+          "offset": 42250000,
+          "duration": 3250000,
+          "text": "多少"
+        },
+        {
+          "offset": 45625000,
+          "duration": 2000000,
+          "text": "租"
+        },
+        {
+          "offset": 47625000,
+          "duration": 2375000,
+          "text": "户"
+        },
+        {
+          "offset": 51750000,
+          "duration": 1500000,
+          "text": "却"
+        },
+        {
+          "offset": 53375000,
+          "duration": 3125000,
+          "text": "未必"
+        },
+        {
+          "offset": 56750000,
+          "duration": 3375000,
+          "text": "充分"
+        },
+        {
+          "offset": 60250000,
+          "duration": 4250000,
+          "text": "考虑"
+        },
+        {
+          "offset": 69250000,
+          "duration": 3500000,
+          "text": "几年"
+        },
+        {
+          "offset": 72750000,
+          "duration": 3000000,
+          "text": "后"
+        },
+        {
+          "offset": 76000000,
+          "duration": 1375000,
+          "text": "会"
+        },
+        {
+          "offset": 77375000,
+          "duration": 1000000,
+          "text": "有"
+        },
+        {
+          "offset": 78500000,
+          "duration": 3250000,
+          "text": "多少"
+        },
+        {
+          "offset": 81750000,
+          "duration": 1125000,
+          "text": "栋"
+        },
+        {
+          "offset": 83000000,
+          "duration": 2000000,
+          "text": "新"
+        },
+        {
+          "offset": 85000000,
+          "duration": 2750000,
+          "text": "楼"
+        },
+        {
+          "offset": 88750000,
+          "duration": 2625000,
+          "text": "一起"
+        },
+        {
+          "offset": 91500000,
+          "duration": 3000000,
+          "text": "争抢"
+        },
+        {
+          "offset": 94750000,
+          "duration": 1875000,
+          "text": "这些"
+        },
+        {
+          "offset": 96750000,
+          "duration": 1875000,
+          "text": "租"
+        },
+        {
+          "offset": 98625000,
+          "duration": 2250000,
+          "text": "户"
+        }
+      ],
+      "start": 22.954,
+      "end": 33.922,
+      "wav": "full-film/04/voice/05-5cbb2cea12c154e5.wav"
+    },
+    {
+      "text": "一栋楼的预测可能说得通，整座城市的预测加在一起，却未必装得下。",
+      "file": "full-film/04/voice/06-f30f5758efe2c49d.mp3",
+      "duration": 6.264,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 1750000,
+          "text": "一"
+        },
+        {
+          "offset": 2750000,
+          "duration": 1375000,
+          "text": "栋"
+        },
+        {
+          "offset": 4250000,
+          "duration": 1375000,
+          "text": "楼"
+        },
+        {
+          "offset": 5625000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 6375000,
+          "duration": 4125000,
+          "text": "预测"
+        },
+        {
+          "offset": 10750000,
+          "duration": 2375000,
+          "text": "可能"
+        },
+        {
+          "offset": 13250000,
+          "duration": 1125000,
+          "text": "说"
+        },
+        {
+          "offset": 14375000,
+          "duration": 1000000,
+          "text": "得"
+        },
+        {
+          "offset": 15375000,
+          "duration": 3625000,
+          "text": "通"
+        },
+        {
+          "offset": 22250000,
+          "duration": 2500000,
+          "text": "整"
+        },
+        {
+          "offset": 24750000,
+          "duration": 1125000,
+          "text": "座"
+        },
+        {
+          "offset": 26000000,
+          "duration": 3500000,
+          "text": "城市"
+        },
+        {
+          "offset": 29500000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 30375000,
+          "duration": 3250000,
+          "text": "预测"
+        },
+        {
+          "offset": 33875000,
+          "duration": 1500000,
+          "text": "加"
+        },
+        {
+          "offset": 35375000,
+          "duration": 1000000,
+          "text": "在"
+        },
+        {
+          "offset": 36500000,
+          "duration": 3875000,
+          "text": "一起"
+        },
+        {
+          "offset": 44125000,
+          "duration": 1625000,
+          "text": "却"
+        },
+        {
+          "offset": 45875000,
+          "duration": 2875000,
+          "text": "未必"
+        },
+        {
+          "offset": 48875000,
+          "duration": 1750000,
+          "text": "装"
+        },
+        {
+          "offset": 50625000,
+          "duration": 750000,
+          "text": "得"
+        },
+        {
+          "offset": 51375000,
+          "duration": 2500000,
+          "text": "下"
+        }
+      ],
+      "start": 34.141999999999996,
+      "end": 40.406,
+      "wav": "full-film/04/voice/06-f30f5758efe2c49d.wav"
+    },
+    {
+      "text": "高度还可能带来办公面积之外的回报：地标的知名度、观光收入，以及周边土地的吸引力，都可能进入投资者的计算。",
+      "file": "full-film/04/voice/07-cc543065e0565548.mp3",
+      "duration": 9.6,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 4125000,
+          "text": "高度"
+        },
+        {
+          "offset": 5375000,
+          "duration": 1500000,
+          "text": "还"
+        },
+        {
+          "offset": 6875000,
+          "duration": 2250000,
+          "text": "可能"
+        },
+        {
+          "offset": 9250000,
+          "duration": 2000000,
+          "text": "带来"
+        },
+        {
+          "offset": 11500000,
+          "duration": 3000000,
+          "text": "办公"
+        },
+        {
+          "offset": 14625000,
+          "duration": 3000000,
+          "text": "面积"
+        },
+        {
+          "offset": 17750000,
+          "duration": 2250000,
+          "text": "之外"
+        },
+        {
+          "offset": 20000000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 20875000,
+          "duration": 4375000,
+          "text": "回报"
+        },
+        {
+          "offset": 29125000,
+          "duration": 3000000,
+          "text": "地标"
+        },
+        {
+          "offset": 32125000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 33000000,
+          "duration": 6125000,
+          "text": "知名度"
+        },
+        {
+          "offset": 40875000,
+          "duration": 4000000,
+          "text": "观光"
+        },
+        {
+          "offset": 45000000,
+          "duration": 4375000,
+          "text": "收入"
+        },
+        {
+          "offset": 52750000,
+          "duration": 1750000,
+          "text": "以"
+        },
+        {
+          "offset": 54625000,
+          "duration": 4875000,
+          "text": "及周边"
+        },
+        {
+          "offset": 59625000,
+          "duration": 2875000,
+          "text": "土地"
+        },
+        {
+          "offset": 62500000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 63375000,
+          "duration": 5500000,
+          "text": "吸引力"
+        },
+        {
+          "offset": 71125000,
+          "duration": 1625000,
+          "text": "都"
+        },
+        {
+          "offset": 72875000,
+          "duration": 2625000,
+          "text": "可能"
+        },
+        {
+          "offset": 75625000,
+          "duration": 2625000,
+          "text": "进入"
+        },
+        {
+          "offset": 78500000,
+          "duration": 4125000,
+          "text": "投资者"
+        },
+        {
+          "offset": 82625000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 83500000,
+          "duration": 3750000,
+          "text": "计算"
+        }
+      ],
+      "start": 40.626,
+      "end": 50.226,
+      "wav": "full-film/04/voice/07-cc543065e0565548.wav"
+    },
+    {
+      "text": "这些回报有时确实存在。因此，不能看到一栋超高层，就直接认定它是虚荣工程。",
+      "file": "full-film/04/voice/08-27f1296e88b9fecd.mp3",
+      "duration": 8.784,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 2875000,
+          "text": "这些"
+        },
+        {
+          "offset": 4000000,
+          "duration": 5750000,
+          "text": "回报"
+        },
+        {
+          "offset": 10750000,
+          "duration": 3500000,
+          "text": "有时"
+        },
+        {
+          "offset": 14500000,
+          "duration": 4625000,
+          "text": "确实"
+        },
+        {
+          "offset": 19250000,
+          "duration": 4375000,
+          "text": "存在"
+        },
+        {
+          "offset": 29375000,
+          "duration": 5250000,
+          "text": "因此"
+        },
+        {
+          "offset": 38750000,
+          "duration": 2750000,
+          "text": "不能"
+        },
+        {
+          "offset": 41625000,
+          "duration": 2500000,
+          "text": "看到"
+        },
+        {
+          "offset": 44250000,
+          "duration": 875000,
+          "text": "一"
+        },
+        {
+          "offset": 45125000,
+          "duration": 1250000,
+          "text": "栋"
+        },
+        {
+          "offset": 46625000,
+          "duration": 7625000,
+          "text": "超高层"
+        },
+        {
+          "offset": 56625000,
+          "duration": 1750000,
+          "text": "就"
+        },
+        {
+          "offset": 58500000,
+          "duration": 3750000,
+          "text": "直接"
+        },
+        {
+          "offset": 62375000,
+          "duration": 4125000,
+          "text": "认定"
+        },
+        {
+          "offset": 67625000,
+          "duration": 1875000,
+          "text": "它"
+        },
+        {
+          "offset": 69500000,
+          "duration": 1000000,
+          "text": "是"
+        },
+        {
+          "offset": 70750000,
+          "duration": 3875000,
+          "text": "虚荣"
+        },
+        {
+          "offset": 74750000,
+          "duration": 4500000,
+          "text": "工程"
+        }
+      ],
+      "start": 50.446,
+      "end": 59.23,
+      "wav": "full-film/04/voice/08-27f1296e88b9fecd.wav"
+    },
+    {
+      "text": "但在过度乐观的情形里，开发商、贷款人和投资者，也可能把同一种期待，当成了彼此的保证。",
+      "file": "full-film/04/voice/09-83cda5029c6b0dd2.mp3",
+      "duration": 8.232,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 1875000,
+          "text": "但"
+        },
+        {
+          "offset": 2875000,
+          "duration": 1125000,
+          "text": "在"
+        },
+        {
+          "offset": 4250000,
+          "duration": 2750000,
+          "text": "过度"
+        },
+        {
+          "offset": 7125000,
+          "duration": 3000000,
+          "text": "乐观"
+        },
+        {
+          "offset": 10125000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 11000000,
+          "duration": 3500000,
+          "text": "情形"
+        },
+        {
+          "offset": 14500000,
+          "duration": 2750000,
+          "text": "里"
+        },
+        {
+          "offset": 20250000,
+          "duration": 7375000,
+          "text": "开发商"
+        },
+        {
+          "offset": 31250000,
+          "duration": 4000000,
+          "text": "贷款"
+        },
+        {
+          "offset": 35250000,
+          "duration": 2375000,
+          "text": "人和"
+        },
+        {
+          "offset": 37750000,
+          "duration": 6000000,
+          "text": "投资者"
+        },
+        {
+          "offset": 46000000,
+          "duration": 1625000,
+          "text": "也"
+        },
+        {
+          "offset": 47625000,
+          "duration": 2125000,
+          "text": "可能"
+        },
+        {
+          "offset": 49875000,
+          "duration": 1000000,
+          "text": "把"
+        },
+        {
+          "offset": 51125000,
+          "duration": 2250000,
+          "text": "同"
+        },
+        {
+          "offset": 53375000,
+          "duration": 2000000,
+          "text": "一种"
+        },
+        {
+          "offset": 55500000,
+          "duration": 4250000,
+          "text": "期待"
+        },
+        {
+          "offset": 62125000,
+          "duration": 3125000,
+          "text": "当成"
+        },
+        {
+          "offset": 65250000,
+          "duration": 750000,
+          "text": "了"
+        },
+        {
+          "offset": 66250000,
+          "duration": 3125000,
+          "text": "彼此"
+        },
+        {
+          "offset": 69375000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 70125000,
+          "duration": 3250000,
+          "text": "保证"
+        }
+      ],
+      "start": 59.449999999999996,
+      "end": 67.68199999999999,
+      "wav": "full-film/04/voice/09-83cda5029c6b0dd2.wav"
+    },
+    {
+      "text": "开发商相信企业会来，银行相信抵押物值钱，投资者相信未来有人愿意出更高的价格。",
+      "file": "full-film/04/voice/10-8226fddeaea20e36.mp3",
+      "duration": 7.992,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 5000000,
+          "text": "开发商"
+        },
+        {
+          "offset": 6125000,
+          "duration": 3500000,
+          "text": "相信"
+        },
+        {
+          "offset": 9875000,
+          "duration": 2625000,
+          "text": "企业"
+        },
+        {
+          "offset": 12625000,
+          "duration": 1750000,
+          "text": "会"
+        },
+        {
+          "offset": 14375000,
+          "duration": 3000000,
+          "text": "来"
+        },
+        {
+          "offset": 21125000,
+          "duration": 3250000,
+          "text": "银行"
+        },
+        {
+          "offset": 24500000,
+          "duration": 4250000,
+          "text": "相信"
+        },
+        {
+          "offset": 29000000,
+          "duration": 3875000,
+          "text": "抵押物"
+        },
+        {
+          "offset": 33000000,
+          "duration": 5125000,
+          "text": "值钱"
+        },
+        {
+          "offset": 41625000,
+          "duration": 4875000,
+          "text": "投资者"
+        },
+        {
+          "offset": 46625000,
+          "duration": 7875000,
+          "text": "相信未来"
+        },
+        {
+          "offset": 55500000,
+          "duration": 2625000,
+          "text": "有人"
+        },
+        {
+          "offset": 58250000,
+          "duration": 2375000,
+          "text": "愿意"
+        },
+        {
+          "offset": 60625000,
+          "duration": 1875000,
+          "text": "出"
+        },
+        {
+          "offset": 62750000,
+          "duration": 1750000,
+          "text": "更"
+        },
+        {
+          "offset": 64500000,
+          "duration": 1750000,
+          "text": "高"
+        },
+        {
+          "offset": 66250000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 67000000,
+          "duration": 4125000,
+          "text": "价格"
+        }
+      ],
+      "start": 67.90199999999999,
+      "end": 75.89399999999999,
+      "wav": "full-film/04/voice/10-8226fddeaea20e36.wav"
+    },
+    {
+      "text": "没有人需要在合同上写下“经济永远不会变差”。只要所有人的计算，都没有给变差留够空间，风险就已经埋下了。",
+      "file": "full-film/04/voice/11-4f0ea0ca198acab4.mp3",
+      "duration": 9.648,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 3000000,
+          "text": "没有"
+        },
+        {
+          "offset": 4000000,
+          "duration": 1750000,
+          "text": "人"
+        },
+        {
+          "offset": 6000000,
+          "duration": 2375000,
+          "text": "需要"
+        },
+        {
+          "offset": 8375000,
+          "duration": 1125000,
+          "text": "在"
+        },
+        {
+          "offset": 9625000,
+          "duration": 3375000,
+          "text": "合同"
+        },
+        {
+          "offset": 13000000,
+          "duration": 3250000,
+          "text": "上"
+        },
+        {
+          "offset": 16500000,
+          "duration": 2125000,
+          "text": "写"
+        },
+        {
+          "offset": 18625000,
+          "duration": 1500000,
+          "text": "下"
+        },
+        {
+          "offset": 20375000,
+          "duration": 4250000,
+          "text": "经济"
+        },
+        {
+          "offset": 24875000,
+          "duration": 8250000,
+          "text": "永远不会变"
+        },
+        {
+          "offset": 33125000,
+          "duration": 3125000,
+          "text": "差"
+        },
+        {
+          "offset": 41875000,
+          "duration": 2375000,
+          "text": "只要"
+        },
+        {
+          "offset": 44500000,
+          "duration": 3000000,
+          "text": "所有"
+        },
+        {
+          "offset": 47500000,
+          "duration": 1000000,
+          "text": "人"
+        },
+        {
+          "offset": 48500000,
+          "duration": 875000,
+          "text": "的"
+        },
+        {
+          "offset": 49500000,
+          "duration": 4750000,
+          "text": "计算"
+        },
+        {
+          "offset": 57250000,
+          "duration": 1625000,
+          "text": "都"
+        },
+        {
+          "offset": 59000000,
+          "duration": 2000000,
+          "text": "没有"
+        },
+        {
+          "offset": 61250000,
+          "duration": 875000,
+          "text": "给"
+        },
+        {
+          "offset": 62250000,
+          "duration": 3000000,
+          "text": "变差"
+        },
+        {
+          "offset": 65250000,
+          "duration": 2500000,
+          "text": "留够"
+        },
+        {
+          "offset": 67875000,
+          "duration": 4250000,
+          "text": "空间"
+        },
+        {
+          "offset": 75625000,
+          "duration": 3750000,
+          "text": "风险"
+        },
+        {
+          "offset": 79625000,
+          "duration": 875000,
+          "text": "就"
+        },
+        {
+          "offset": 80625000,
+          "duration": 1750000,
+          "text": "已经"
+        },
+        {
+          "offset": 82500000,
+          "duration": 4000000,
+          "text": "埋下"
+        },
+        {
+          "offset": 86500000,
+          "duration": 1375000,
+          "text": "了"
+        }
+      ],
+      "start": 76.11399999999999,
+      "end": 85.76199999999999,
+      "wav": "full-film/04/voice/11-4f0ea0ca198acab4.wav"
+    }
+  ]
+}

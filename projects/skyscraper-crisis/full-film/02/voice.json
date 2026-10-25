@@ -1,0 +1,703 @@
+{
+  "chapter": 2,
+  "provider": "Microsoft Edge zh-CN-YunxiNeural",
+  "duration": 53.8,
+  "mix": "full-film/02/narration.wav",
+  "paragraphs": [
+    {
+      "text": "先纠正一个经常被讲反的细节。",
+      "file": "full-film/02/voice/01-2a8e81c0b21fac70.mp3",
+      "duration": 3.576,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 2875000,
+          "text": "先"
+        },
+        {
+          "offset": 3875000,
+          "duration": 3125000,
+          "text": "纠正"
+        },
+        {
+          "offset": 7125000,
+          "duration": 4625000,
+          "text": "一个"
+        },
+        {
+          "offset": 12750000,
+          "duration": 3875000,
+          "text": "经常"
+        },
+        {
+          "offset": 16625000,
+          "duration": 1125000,
+          "text": "被"
+        },
+        {
+          "offset": 17875000,
+          "duration": 2125000,
+          "text": "讲"
+        },
+        {
+          "offset": 20000000,
+          "duration": 1375000,
+          "text": "反"
+        },
+        {
+          "offset": 21375000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 22125000,
+          "duration": 4875000,
+          "text": "细节"
+        }
+      ],
+      "start": 0.45,
+      "end": 4.026,
+      "wav": "full-film/02/voice/01-2a8e81c0b21fac70.wav"
+    },
+    {
+      "text": "美国股市的那场著名崩盘，发生在1929年10月。帝国大厦正式开工，却是在1930年3月。",
+      "file": "full-film/02/voice/02-b7b7463ad911c368.mp3",
+      "duration": 9.48,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 4000000,
+          "text": "美国"
+        },
+        {
+          "offset": 5125000,
+          "duration": 2875000,
+          "text": "股市"
+        },
+        {
+          "offset": 8000000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 8875000,
+          "duration": 1250000,
+          "text": "那"
+        },
+        {
+          "offset": 10125000,
+          "duration": 2750000,
+          "text": "场"
+        },
+        {
+          "offset": 13125000,
+          "duration": 3125000,
+          "text": "著名"
+        },
+        {
+          "offset": 16375000,
+          "duration": 5625000,
+          "text": "崩盘"
+        },
+        {
+          "offset": 24250000,
+          "duration": 3750000,
+          "text": "发生"
+        },
+        {
+          "offset": 28000000,
+          "duration": 2000000,
+          "text": "在"
+        },
+        {
+          "offset": 30250000,
+          "duration": 13250000,
+          "text": "1929年10月"
+        },
+        {
+          "offset": 49250000,
+          "duration": 3250000,
+          "text": "帝国"
+        },
+        {
+          "offset": 52625000,
+          "duration": 4000000,
+          "text": "大厦"
+        },
+        {
+          "offset": 56875000,
+          "duration": 3000000,
+          "text": "正式"
+        },
+        {
+          "offset": 60000000,
+          "duration": 5000000,
+          "text": "开工"
+        },
+        {
+          "offset": 67625000,
+          "duration": 1875000,
+          "text": "却"
+        },
+        {
+          "offset": 69500000,
+          "duration": 1250000,
+          "text": "是"
+        },
+        {
+          "offset": 70750000,
+          "duration": 1750000,
+          "text": "在"
+        },
+        {
+          "offset": 72750000,
+          "duration": 13125000,
+          "text": "1930年3月"
+        }
+      ],
+      "start": 4.2459999999999996,
+      "end": 13.725999999999999,
+      "wav": "full-film/02/voice/02-b7b7463ad911c368.wav"
+    },
+    {
+      "text": "也就是说，这个最常被拿来证明“高楼预告危机”的例子，甚至是在股灾之后才开始施工。",
+      "file": "full-film/02/voice/03-01cfd10a7f6ebfd9.mp3",
+      "duration": 7.848,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 7750000,
+          "text": "也就是说"
+        },
+        {
+          "offset": 12750000,
+          "duration": 2500000,
+          "text": "这个"
+        },
+        {
+          "offset": 15500000,
+          "duration": 2125000,
+          "text": "最"
+        },
+        {
+          "offset": 17625000,
+          "duration": 2625000,
+          "text": "常"
+        },
+        {
+          "offset": 20500000,
+          "duration": 1000000,
+          "text": "被"
+        },
+        {
+          "offset": 21625000,
+          "duration": 2250000,
+          "text": "拿来"
+        },
+        {
+          "offset": 24000000,
+          "duration": 3125000,
+          "text": "证明"
+        },
+        {
+          "offset": 27375000,
+          "duration": 3125000,
+          "text": "高楼"
+        },
+        {
+          "offset": 30750000,
+          "duration": 2000000,
+          "text": "预告"
+        },
+        {
+          "offset": 32875000,
+          "duration": 3125000,
+          "text": "危机"
+        },
+        {
+          "offset": 36250000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 37125000,
+          "duration": 3875000,
+          "text": "例子"
+        },
+        {
+          "offset": 45500000,
+          "duration": 3625000,
+          "text": "甚至"
+        },
+        {
+          "offset": 49250000,
+          "duration": 1250000,
+          "text": "是"
+        },
+        {
+          "offset": 50500000,
+          "duration": 1125000,
+          "text": "在"
+        },
+        {
+          "offset": 51875000,
+          "duration": 3375000,
+          "text": "股灾"
+        },
+        {
+          "offset": 55375000,
+          "duration": 4375000,
+          "text": "之后"
+        },
+        {
+          "offset": 60875000,
+          "duration": 2000000,
+          "text": "才"
+        },
+        {
+          "offset": 63000000,
+          "duration": 2125000,
+          "text": "开始"
+        },
+        {
+          "offset": 65250000,
+          "duration": 4500000,
+          "text": "施工"
+        }
+      ],
+      "start": 13.946,
+      "end": 21.794,
+      "wav": "full-film/02/voice/03-01cfd10a7f6ebfd9.wav"
+    },
+    {
+      "text": "它提醒我们：宣布要建、正式开工、主体封顶和开门营业，是四个不同的时刻。",
+      "file": "full-film/02/voice/04-d3dfb85ced2acbae.mp3",
+      "duration": 7.896,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 1750000,
+          "text": "它"
+        },
+        {
+          "offset": 2875000,
+          "duration": 2375000,
+          "text": "提醒"
+        },
+        {
+          "offset": 5375000,
+          "duration": 3500000,
+          "text": "我们"
+        },
+        {
+          "offset": 11375000,
+          "duration": 3375000,
+          "text": "宣布"
+        },
+        {
+          "offset": 14875000,
+          "duration": 1750000,
+          "text": "要"
+        },
+        {
+          "offset": 16625000,
+          "duration": 3000000,
+          "text": "建"
+        },
+        {
+          "offset": 21500000,
+          "duration": 3500000,
+          "text": "正式"
+        },
+        {
+          "offset": 25125000,
+          "duration": 5000000,
+          "text": "开工"
+        },
+        {
+          "offset": 33875000,
+          "duration": 3625000,
+          "text": "主体"
+        },
+        {
+          "offset": 37625000,
+          "duration": 5250000,
+          "text": "封顶"
+        },
+        {
+          "offset": 44000000,
+          "duration": 1750000,
+          "text": "和"
+        },
+        {
+          "offset": 45875000,
+          "duration": 3500000,
+          "text": "开门"
+        },
+        {
+          "offset": 49500000,
+          "duration": 4125000,
+          "text": "营业"
+        },
+        {
+          "offset": 57250000,
+          "duration": 1625000,
+          "text": "是"
+        },
+        {
+          "offset": 59000000,
+          "duration": 2750000,
+          "text": "四个"
+        },
+        {
+          "offset": 62000000,
+          "duration": 3125000,
+          "text": "不同"
+        },
+        {
+          "offset": 65125000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 65875000,
+          "duration": 4250000,
+          "text": "时刻"
+        }
+      ],
+      "start": 22.014,
+      "end": 29.91,
+      "wav": "full-film/02/voice/04-d3dfb85ced2acbae.wav"
+    },
+    {
+      "text": "如果需要的时候用开工日期，不方便的时候改用竣工日期，再把危机发生的前后几年都算进去，很多故事都会显得格外准确。",
+      "file": "full-film/02/voice/05-5978051e875453bd.mp3",
+      "duration": 10.872,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 2500000,
+          "text": "如果"
+        },
+        {
+          "offset": 3750000,
+          "duration": 2750000,
+          "text": "需要"
+        },
+        {
+          "offset": 6500000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 7375000,
+          "duration": 5125000,
+          "text": "时候"
+        },
+        {
+          "offset": 12750000,
+          "duration": 1500000,
+          "text": "用"
+        },
+        {
+          "offset": 14375000,
+          "duration": 4000000,
+          "text": "开工"
+        },
+        {
+          "offset": 18500000,
+          "duration": 4375000,
+          "text": "日期"
+        },
+        {
+          "offset": 26375000,
+          "duration": 1375000,
+          "text": "不"
+        },
+        {
+          "offset": 27750000,
+          "duration": 2500000,
+          "text": "方便"
+        },
+        {
+          "offset": 30250000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 31000000,
+          "duration": 5000000,
+          "text": "时候"
+        },
+        {
+          "offset": 37125000,
+          "duration": 2875000,
+          "text": "改用"
+        },
+        {
+          "offset": 40250000,
+          "duration": 3625000,
+          "text": "竣工"
+        },
+        {
+          "offset": 44000000,
+          "duration": 4375000,
+          "text": "日期"
+        },
+        {
+          "offset": 51125000,
+          "duration": 1625000,
+          "text": "再"
+        },
+        {
+          "offset": 52750000,
+          "duration": 1000000,
+          "text": "把"
+        },
+        {
+          "offset": 53875000,
+          "duration": 3000000,
+          "text": "危机"
+        },
+        {
+          "offset": 57000000,
+          "duration": 2625000,
+          "text": "发生"
+        },
+        {
+          "offset": 59625000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 60625000,
+          "duration": 3125000,
+          "text": "前后"
+        },
+        {
+          "offset": 63875000,
+          "duration": 2875000,
+          "text": "几年"
+        },
+        {
+          "offset": 67000000,
+          "duration": 1500000,
+          "text": "都"
+        },
+        {
+          "offset": 68500000,
+          "duration": 1500000,
+          "text": "算"
+        },
+        {
+          "offset": 70125000,
+          "duration": 4375000,
+          "text": "进去"
+        },
+        {
+          "offset": 78375000,
+          "duration": 3625000,
+          "text": "很多"
+        },
+        {
+          "offset": 82125000,
+          "duration": 5125000,
+          "text": "故事"
+        },
+        {
+          "offset": 87500000,
+          "duration": 1125000,
+          "text": "都"
+        },
+        {
+          "offset": 88625000,
+          "duration": 1125000,
+          "text": "会"
+        },
+        {
+          "offset": 89875000,
+          "duration": 2375000,
+          "text": "显得"
+        },
+        {
+          "offset": 92500000,
+          "duration": 3250000,
+          "text": "格外"
+        },
+        {
+          "offset": 95875000,
+          "duration": 4125000,
+          "text": "准确"
+        }
+      ],
+      "start": 30.13,
+      "end": 41.001999999999995,
+      "wav": "full-film/02/voice/05-5978051e875453bd.wav"
+    },
+    {
+      "text": "所以，先别急着把高楼当成预言。我们真正要解释的，是一个项目为什么会被启动，又为什么会在交付时遇到完全不同的市场。",
+      "file": "full-film/02/voice/06-c06683c9682dbb71.mp3",
+      "duration": 11.88,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 5625000,
+          "text": "所以"
+        },
+        {
+          "offset": 11250000,
+          "duration": 2750000,
+          "text": "先"
+        },
+        {
+          "offset": 14125000,
+          "duration": 1750000,
+          "text": "别"
+        },
+        {
+          "offset": 15875000,
+          "duration": 4875000,
+          "text": "急着"
+        },
+        {
+          "offset": 21875000,
+          "duration": 1750000,
+          "text": "把"
+        },
+        {
+          "offset": 23750000,
+          "duration": 3875000,
+          "text": "高楼"
+        },
+        {
+          "offset": 27875000,
+          "duration": 3875000,
+          "text": "当成"
+        },
+        {
+          "offset": 31875000,
+          "duration": 4375000,
+          "text": "预言"
+        },
+        {
+          "offset": 42000000,
+          "duration": 2375000,
+          "text": "我们"
+        },
+        {
+          "offset": 44500000,
+          "duration": 2750000,
+          "text": "真正"
+        },
+        {
+          "offset": 47375000,
+          "duration": 1375000,
+          "text": "要"
+        },
+        {
+          "offset": 48875000,
+          "duration": 3375000,
+          "text": "解释"
+        },
+        {
+          "offset": 52250000,
+          "duration": 2750000,
+          "text": "的"
+        },
+        {
+          "offset": 57500000,
+          "duration": 2250000,
+          "text": "是"
+        },
+        {
+          "offset": 59750000,
+          "duration": 1500000,
+          "text": "一个"
+        },
+        {
+          "offset": 61375000,
+          "duration": 5250000,
+          "text": "项目"
+        },
+        {
+          "offset": 67625000,
+          "duration": 3875000,
+          "text": "为什么"
+        },
+        {
+          "offset": 71625000,
+          "duration": 875000,
+          "text": "会"
+        },
+        {
+          "offset": 72500000,
+          "duration": 1125000,
+          "text": "被"
+        },
+        {
+          "offset": 73750000,
+          "duration": 4125000,
+          "text": "启动"
+        },
+        {
+          "offset": 81625000,
+          "duration": 1375000,
+          "text": "又"
+        },
+        {
+          "offset": 83125000,
+          "duration": 2875000,
+          "text": "为什么"
+        },
+        {
+          "offset": 86125000,
+          "duration": 1125000,
+          "text": "会"
+        },
+        {
+          "offset": 87250000,
+          "duration": 1125000,
+          "text": "在"
+        },
+        {
+          "offset": 88500000,
+          "duration": 3750000,
+          "text": "交付"
+        },
+        {
+          "offset": 92250000,
+          "duration": 3750000,
+          "text": "时"
+        },
+        {
+          "offset": 97125000,
+          "duration": 2000000,
+          "text": "遇到"
+        },
+        {
+          "offset": 99375000,
+          "duration": 3125000,
+          "text": "完全"
+        },
+        {
+          "offset": 102625000,
+          "duration": 2875000,
+          "text": "不同"
+        },
+        {
+          "offset": 105500000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 106250000,
+          "duration": 3750000,
+          "text": "市场"
+        }
+      ],
+      "start": 41.221999999999994,
+      "end": 53.102,
+      "wav": "full-film/02/voice/06-c06683c9682dbb71.wav"
+    }
+  ]
+}

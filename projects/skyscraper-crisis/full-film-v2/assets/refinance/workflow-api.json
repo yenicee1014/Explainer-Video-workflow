@@ -1,0 +1,24 @@
+{
+  "1": {
+    "class_type": "AutoDLWorkflow",
+    "inputs": {
+      "workflow_id": "minimax_h3_lightx2v_no_pic",
+      "ad_text_01": "Black-and-white observational documentary footage for a serious economics explainer. Neutral grayscale silver-gelatin photography, detailed faces and material textures, soft daylight, moderate contrast, clear readable composition. Original illustrative reconstruction. Natural restrained gestures, physically coherent objects and hands. Landscape 16:9. One continuous shot, gentle camera movement only. No subtitles, no readable lettering, no logos, no watermark, no graphic overlays. Medium shot in a bank meeting room. An East Asian developer brings an old loan folder to a female bank credit officer. She sets a new loan proposal next to the old contract and points at its repayment schedule. The developer compares the two pages with a calculator and looks concerned. Show old contract versus new proposal clearly as two folders.",
+      "ad_text_02": "768p横",
+      "ad_int_01": 8,
+      "ad_int_02": 2026107145,
+      "timeout_seconds": 1800,
+      "poll_interval_seconds": 5,
+      "schema_json": "{\"version\": 6, \"workflow_id\": \"minimax_h3_lightx2v_no_pic\", \"fields\": [{\"name\": \"prompt\", \"type\": \"prompt\", \"slot\": \"ad_text_01\", \"required\": true}, {\"name\": \"resolution\", \"type\": \"enum\", \"slot\": \"ad_text_02\"}, {\"name\": \"duration\", \"type\": \"integer\", \"slot\": \"ad_int_01\"}, {\"name\": \"seed\", \"type\": \"integer\", \"slot\": \"ad_int_02\"}], \"outputs\": [{\"name\": \"video\", \"kind\": \"video\"}]}"
+    }
+  },
+  "2": {
+    "class_type": "AutoDLPreviewVideo",
+    "inputs": {
+      "video": [
+        "1",
+        0
+      ]
+    }
+  }
+}

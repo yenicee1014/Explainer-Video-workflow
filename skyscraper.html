@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>繁荣的高度 · 完整科普视频</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #e6e6e4; color: #1c1c1d; font-family: system-ui, -apple-system, "PingFang SC", sans-serif; }
+    main { max-width: 1180px; margin: auto; padding: 24px 20px 40px; }
+    header { border-top: 3px solid #1c1c1d; padding: 20px 0 16px; }
+    h1 { margin: 0 0 8px; font-size: 30px; line-height: 1.4; }
+    p { line-height: 1.7; margin: 8px 0; }
+    .meta { color: #606063; font-size: 14px; }
+    a { color: #a42427; text-underline-offset: 4px; }
+    a:focus-visible { outline: 3px solid #a42427; outline-offset: 4px; }
+    video { display: block; width: 100%; aspect-ratio: 16 / 9; background: #1c1c1d; }
+    nav { display: flex; flex-wrap: wrap; gap: 16px; padding: 18px 0; border-bottom: 1px solid #aaa; }
+    h2 { font-size: 20px; margin: 24px 0 12px; }
+    ol { padding: 0; margin: 0; list-style: none; display: grid; grid-template-columns: 1fr 1fr; gap: 0 28px; }
+    li { border-bottom: 1px solid #c7c7c6; }
+    li a { display: block; padding: 12px 0; color: #1c1c1d; line-height: 1.6; text-decoration: none; }
+    li a:hover { color: #a42427; }
+    time { color: #a42427; display: inline-block; min-width: 50px; font-variant-numeric: tabular-nums; }
+    footer { border-top: 1px solid #aaa; margin-top: 28px; padding-top: 16px; font-size: 13px; color: #606063; line-height: 1.8; }
+    @media (max-width: 640px) { main { padding: 18px 14px 30px; } ol { grid-template-columns: 1fr; } h1 { font-size: 26px; } }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>繁荣的高度</h1>
+      <p>摩天大楼、现金流与经济周期</p>
+      <p class="meta">V2 情节重制版 · 2026-10-25 · 11:06.58 · 1280×720 · 普通话旁白 / 中文字幕</p>
+    </header>
+    <video id="film" controls playsinline preload="metadata" poster="projects/skyscraper-crisis/poster.jpg" aria-label="繁荣的高度完整科普视频">
+      <source src="video/skyscraper-crisis-v2-full.mp4" type="video/mp4">
+      <track kind="subtitles" src="projects/skyscraper-crisis/captions.vtt" srclang="zh" label="中文（画面已含字幕）">
+      当前浏览器不能播放视频，请使用下方的 MP4 下载链接。
+    </video>
+    <nav aria-label="视频与工作流">
+      <a href="video/skyscraper-crisis-v2-full.mp4" download>下载完整 MP4</a>
+      <a href="video/skyscraper-crisis-v2-highlights.mp4">六类经济现象核对片</a>
+      <a href="https://github.com/yenicee1014/Explainer-Video-workflow/tree/main/projects/skyscraper-crisis">工作流、提示词与对话</a>
+      <a href="index.html">天气科普项目</a>
+    </nav>
+    <h2>章节</h2>
+    <ol aria-label="视频章节">
+      <li><a href="video/skyscraper-crisis-v2-full.mp4#t=0" data-time="0"><time>00:00</time> 01 同一座城市，两种消息</a></li>
+      <li><a href="video/skyscraper-crisis-v2-full.mp4#t=75.76" data-time="75.76"><time>01:15</time> 02 先把时间摆对</a></li>
+      <li><a href="video/skyscraper-crisis-v2-full.mp4#t=129.56" data-time="129.56"><time>02:09</time> 03 一栋楼，先在账本里建起来</a></li>
+      <li><a href="video/skyscraper-crisis-v2-full.mp4#t=223.64" data-time="223.64"><time>03:43</time> 04 每个人的算盘，都指向了同一个未来</a></li>
+      <li><a href="video/skyscraper-crisis-v2-full.mp4#t=310.08" data-time="310.08"><time>05:10</time> 05 楼盖的是过去，市场活在现在</a></li>
+      <li><a href="video/skyscraper-crisis-v2-full.mp4#t=384.32" data-time="384.32"><time>06:24</time> 06 楼没有倒，账却可能撑不住</a></li>
+      <li><a href="video/skyscraper-crisis-v2-full.mp4#t=493.4" data-time="493.4"><time>08:13</time> 07 为什么这个“指数”总让人印象深刻</a></li>
+      <li><a href="video/skyscraper-crisis-v2-full.mp4#t=594.32" data-time="594.32"><time>09:54</time> 08 真正值得看的，是哪几个问题</a></li>
+    </ol>
+    <footer>人物经济情节为 AI 情境重建；数字与日期为后期教学排版。具名建筑采用带来源的照片。版本过程、来源、许可状态与复用范围见仓库文档。</footer>
+  </main>
+  <script>
+    const film = document.getElementById("film");
+    document.querySelectorAll("[data-time]").forEach((link) => {
+      link.addEventListener("click", async (event) => {
+        event.preventDefault();
+        if (film.readyState === 0) {
+          await new Promise((resolve) => {
+            film.addEventListener("loadedmetadata", resolve, { once: true });
+            film.load();
+          });
+        }
+        film.currentTime = Number(link.dataset.time);
+        film.scrollIntoView({ behavior: "smooth", block: "center" });
+        try { await film.play(); } catch (_) { film.focus(); }
+      });
+    });
+  </script>
+</body>
+</html>

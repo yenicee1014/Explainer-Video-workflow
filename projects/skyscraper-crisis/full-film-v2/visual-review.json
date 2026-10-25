@@ -1,0 +1,114 @@
+{
+  "review_method": "Early, middle and late contact frames; composed frame inspections; moving excerpts checked after final render.",
+  "reviewed_assets": {
+    "factory_close": {
+      "accepted": true,
+      "observed": "Foreman at locked factory gate; three workers carrying lunch pails walk away."
+    },
+    "bank_queue": {
+      "accepted": true,
+      "observed": "Orderly queue of period-dressed depositors outside a bank-like stone entrance. Generated sign lettering is indistinct and is not evidence."
+    },
+    "exchange": {
+      "accepted": true,
+      "observed": "Period trading floor, desk telephones, paper records and brokers; no modern digital displays."
+    },
+    "planning": {
+      "accepted": true,
+      "observed": "Two developers reviewing an office plan beside calculator and an ordinary office building model."
+    },
+    "budget": {
+      "accepted": true,
+      "observed": "Finance analyst checking folders, calculator, site drawings, material samples and a model."
+    },
+    "signature": {
+      "accepted": true,
+      "observed": "Bank desk pen handover, contract signature and document return. Clear signing action."
+    },
+    "tenant_visit": {
+      "accepted": true,
+      "observed": "Letting representative with folder and two prospective business tenants inspect a usable office and desk layout."
+    },
+    "growth": {
+      "accepted": true,
+      "observed": "Active company office with manager welcoming new employees among occupied desks."
+    },
+    "lease_competition": {
+      "accepted": true,
+      "observed": "Two corporate visitors compare office models and brochures while agents present competing offers in the same showroom."
+    },
+    "sites": {
+      "accepted": true,
+      "observed": "Four distinct mid-rise concrete office projects, separate crane groups and access areas in one district; full source frame retained to keep cranes visible."
+    },
+    "investors": {
+      "accepted": true,
+      "observed": "Three business participants discuss one site model and several finance folders, with each participant responding to the same project assumptions."
+    },
+    "tourism": {
+      "accepted": true,
+      "observed": "Visitors taking photographs and using binoculars on an observation deck, illustrating actual tourist use distinct from office leasing."
+    },
+    "cancel_order": {
+      "accepted": true,
+      "observed": "Manager ends a desk-phone call, puts down the handset and closes the expansion-plan folder beside unopened equipment boxes."
+    },
+    "contraction": {
+      "accepted": true,
+      "observed": "Office staff remove computers and chairs; a smaller floor plan is carried through the increasingly empty desk area."
+    },
+    "departure": {
+      "accepted": true,
+      "observed": "Employees carry boxes out of the leased office; the property representative remains holding the returned keys beside the vacated room."
+    },
+    "vacancy": {
+      "accepted": true,
+      "observed": "Many unused desk positions remain around a small group of occupants, while two representatives compare a lease folder. This is reduced occupancy, not an entirely abandoned floor."
+    },
+    "refinance": {
+      "accepted": true,
+      "observed": "Developer compares separate old and new loan folders with a calculator as the bank officer points to the proposal. Exact rates and cash amounts are supplied by the compositor."
+    },
+    "valuation": {
+      "accepted": true,
+      "observed": "Two inspectors check an unoccupied office using a handheld measuring device, floor records and photographs of the units."
+    },
+    "credit": {
+      "accepted": true,
+      "observed": "Bank employee returns the application papers across the desk; the workshop owner collects the folder and listens with concern."
+    },
+    "sample": {
+      "accepted": true,
+      "observed": "Overhead view clearly expands two selected building photographs into a broad grid of additional cases and records."
+    },
+    "precommit": {
+      "accepted": true,
+      "observed": "Researchers write and set aside the checklist before opening the separate case-record folder. Printed marks remain illustrative rather than claimed statistical evidence."
+    },
+    "stress": {
+      "accepted": true,
+      "observed": "Financial reviewer sets aside one sheet, recalculates with a desk calculator and points to the revised budget while the developer follows."
+    },
+    "ledger": {
+      "accepted": true,
+      "observed": "Overhead view links rental records, a paper calendar and the calculator; the accountant circles calendar cells and checks the ledger. Generated calendar lettering is not treated as factual data."
+    },
+    "esb_motion": {
+      "accepted": false,
+      "observed": "Generated architecture and skyline diverge from supplied photograph.",
+      "final_replacement": "Verified Empire State Building whole-building photograph, animated by compositor."
+    },
+    "burj_motion": {
+      "accepted": false,
+      "observed": "Generated tower lacks accurate complete taper and full-building framing.",
+      "final_replacement": "Verified SOM Burj Khalifa whole-building photograph, animated by compositor."
+    }
+  },
+  "reviewed_compositions": [
+    "Factory departure full photographic frame with charcoal paper surround.",
+    "Loan signing and exact 600-million / 4-percent / 24-million annual-interest annotations.",
+    "Burj Khalifa real silhouette and Dubai World event date separated.",
+    "PETRONAS true twin towers and skybridge, 1992-to-1999 planning timeline.",
+    "Research bibliographic record using verified title, authors, DOI and publication details."
+  ]
+}

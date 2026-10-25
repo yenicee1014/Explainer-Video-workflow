@@ -1,0 +1,63 @@
+{
+  "chapter": 1,
+  "title": "同一座城市，两种消息",
+  "generation_prompt": "A five-second black-and-white historical editorial documentary shot. Fine silver-gelatin photographic grain, neutral grayscale, soft natural light, restrained realistic human gestures, physically coherent surroundings. Locked wide shot, gentle natural motion, crisp photographic detail. No text, no subtitles, no letters, no numerals, no logos, no watermark, no split screen, no graphics, no montage, no shot changes. This is an original illustrative reconstruction, not authentic archive footage. A 1930s American industrial street. Six unemployed workers in worn wool coats and flat caps wait quietly in line beside a closed factory gate. A worker looks down at an empty lunch pail, another folds his hands. Human figures and factory entrance dominate the frame. No skyscraper hero shot, no visible signs.",
+  "scenes": [
+    {
+      "scene": 1,
+      "narration": "1931年5月1日，纽约帝国大厦正式开幕。",
+      "visual": "opening",
+      "title": "1931.05.01",
+      "detail": "帝国大厦开幕"
+    },
+    {
+      "scene": 2,
+      "narration": "一座超过一百层的建筑，把人类能够向上建造的高度，又推进了一步。",
+      "visual": "height",
+      "title": "超过一百层",
+      "detail": "建筑技术向上突破"
+    },
+    {
+      "scene": 3,
+      "narration": "但在街道另一头，经济已经是另一番景象。美国正陷在大萧条之中：企业收缩，工人失业，银行体系不断承受压力。",
+      "visual": "photo",
+      "title": "街道另一头",
+      "detail": "工厂收缩 · 工人失业 · 银行承压"
+    },
+    {
+      "scene": 4,
+      "narration": "一边是刷新纪录的高楼，一边是不断下沉的经济。把它们放在同一张照片里，很容易产生一个疑问：为什么人类最宏大的建筑，有时偏偏出现在经济最难看的年份？",
+      "visual": "contrast",
+      "title": "同一座城市",
+      "detail": "建筑纪录与经济下行"
+    },
+    {
+      "scene": 5,
+      "narration": "类似的画面，也出现在后来的迪拜。2009年11月，迪拜世界及其子公司的债务延期偿付风波震动市场。2010年1月4日，哈利法塔正式开幕。",
+      "visual": "dubai",
+      "title": "迪拜的两条消息",
+      "detail": "2009.11 债务风波 / 2010.01 哈利法塔开幕"
+    },
+    {
+      "scene": 6,
+      "narration": "于是，这类故事被串成了一个颇有吸引力的说法：摩天大楼指数。仿佛只要世界最高楼准备亮灯，经济危机就已经在门外排队。",
+      "visual": "index",
+      "title": "摩天大楼指数",
+      "detail": "引人注意的关联，等于可靠预测吗？"
+    },
+    {
+      "scene": 7,
+      "narration": "但一栋楼，真的有这样的预言能力吗？",
+      "visual": "question",
+      "title": "一栋楼，能预言吗？",
+      "detail": "从现象走向检验"
+    },
+    {
+      "scene": 8,
+      "narration": "要回答这个问题，我们得把目光从楼顶，移到银行的合同和开发商的账本上。",
+      "visual": "ledger",
+      "title": "把目光移到账本",
+      "detail": "借款合同 / 租金预测"
+    }
+  ]
+}

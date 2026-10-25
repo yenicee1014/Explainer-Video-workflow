@@ -1,0 +1,223 @@
+{
+  "id": "79db8f57-fea1-4c49-aeed-9af339bc592e",
+  "revision": 0,
+  "last_node_id": 6,
+  "last_link_id": 4,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "LoadVideo",
+      "pos": [
+        40,
+        220
+      ],
+      "size": [
+        420,
+        320
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "VIDEO",
+          "type": "VIDEO",
+          "links": [
+            2
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadVideo"
+      },
+      "widgets_values": [
+        "skyscraper-h3-source.mp4"
+      ],
+      "title": "01 H3 原创动态建筑 · 本地缓存"
+    },
+    {
+      "id": 2,
+      "type": "SCNarration",
+      "pos": [
+        640,
+        60
+      ],
+      "size": [
+        340,
+        100
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "voice_manifest",
+          "type": "STRING",
+          "links": [
+            3
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SCNarration"
+      },
+      "widgets_values": [
+        1
+      ],
+      "title": "SCNarration"
+    },
+    {
+      "id": 4,
+      "type": "SCMotionEditorialRender",
+      "pos": [
+        1090,
+        220
+      ],
+      "size": [
+        400,
+        180
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "motion",
+          "type": "VIDEO",
+          "link": 2
+        },
+        {
+          "name": "voice_manifest",
+          "type": "STRING",
+          "link": 3
+        }
+      ],
+      "outputs": [
+        {
+          "name": "video",
+          "type": "VIDEO",
+          "links": [
+            4
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "file_path",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SCMotionEditorialRender"
+      },
+      "widgets_values": [
+        1
+      ],
+      "title": "SCEditorialRender"
+    },
+    {
+      "id": 5,
+      "type": "SaveVideo",
+      "pos": [
+        1580,
+        220
+      ],
+      "size": [
+        400,
+        400
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "video",
+          "type": "VIDEO",
+          "link": 4
+        }
+      ],
+      "outputs": [
+        {
+          "name": "video",
+          "type": "VIDEO",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SaveVideo"
+      },
+      "widgets_values": [
+        "skyscraper_editorial/skyscraper-demo",
+        "auto",
+        "auto"
+      ],
+      "title": "SaveVideo"
+    },
+    {
+      "id": 6,
+      "type": "Note",
+      "pos": [
+        40,
+        20
+      ],
+      "size": [
+        530,
+        155
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "Note"
+      },
+      "widgets_values": [
+        "原创试片《繁荣的高度》 · 10秒 · 1280×720 · 25fps\nH3 文生视频建筑素材 → 本机纸纹剪贴 → 中文旁白 → MP4。\n当前工作流只读取已保存的素材，点击运行不会再次调用云端生成。"
+      ],
+      "title": "Note"
+    }
+  ],
+  "links": [
+    [
+      2,
+      1,
+      0,
+      4,
+      0,
+      "VIDEO"
+    ],
+    [
+      3,
+      2,
+      0,
+      4,
+      1,
+      "STRING"
+    ],
+    [
+      4,
+      4,
+      0,
+      5,
+      0,
+      "VIDEO"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.65,
+      "offset": [
+        0,
+        30
+      ]
+    }
+  },
+  "version": 0.4
+}

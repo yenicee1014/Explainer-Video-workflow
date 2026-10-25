@@ -1,0 +1,25 @@
+{
+  "1": {
+    "class_type": "AutoDLWorkflow",
+    "inputs": {
+      "workflow_id": "minimax_h3_lightx2v_v5",
+      "ad_text_01": "Use the supplied photograph as the strict architecture reference for the Burj Khalifa. Preserve the exact number of towers, the entire recognizable silhouette, spire, stepped setbacks, proportions and any skybridge. A neutral black-and-white photographic architectural shot in soft daylight, restrained silver-gelatin print texture. A very slow gentle camera push, the whole building remains visible with no silhouette morphing. Architecture is static and coherent, no extra towers, no imaginary structures. No text, no titles, no logos, no watermark, no annotations. This is an architectural reconstruction, not historical archival footage.",
+      "ad_text_02": "768p横",
+      "ad_int_01": 8,
+      "ad_int_02": 2026109697,
+      "timeout_seconds": 1800,
+      "poll_interval_seconds": 5,
+      "ad_image_01": "full-film-v2/research/burj_photo.jpg",
+      "schema_json": "{\"version\": 6, \"workflow_id\": \"minimax_h3_lightx2v_v5\", \"fields\": [{\"name\": \"prompt\", \"type\": \"prompt\", \"slot\": \"ad_text_01\", \"required\": true}, {\"name\": \"resolution\", \"type\": \"enum\", \"slot\": \"ad_text_02\"}, {\"name\": \"duration\", \"type\": \"integer\", \"slot\": \"ad_int_01\"}, {\"name\": \"seed\", \"type\": \"integer\", \"slot\": \"ad_int_02\"}, {\"name\": \"ref_image_0\", \"type\": \"image\", \"slot\": \"ad_image_01\", \"required\": true}], \"outputs\": [{\"name\": \"video\", \"kind\": \"video\"}]}"
+    }
+  },
+  "2": {
+    "class_type": "AutoDLPreviewVideo",
+    "inputs": {
+      "video": [
+        "1",
+        0
+      ]
+    }
+  }
+}

@@ -1,0 +1,1448 @@
+{
+  "chapter": 7,
+  "provider": "Microsoft Edge zh-CN-YunxiNeural",
+  "duration": 100.92,
+  "mix": "full-film/07/narration.wav",
+  "paragraphs": [
+    {
+      "text": "讲到这里，再回头看那些“最高楼遇上危机”的故事，含义就不一样了。",
+      "file": "full-film/07/voice/01-24f26379f932d729.mp3",
+      "duration": 6.024,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 3000000,
+          "text": "讲到"
+        },
+        {
+          "offset": 4125000,
+          "duration": 5125000,
+          "text": "这里"
+        },
+        {
+          "offset": 12750000,
+          "duration": 5250000,
+          "text": "再回头"
+        },
+        {
+          "offset": 18000000,
+          "duration": 1375000,
+          "text": "看"
+        },
+        {
+          "offset": 19500000,
+          "duration": 2375000,
+          "text": "那些"
+        },
+        {
+          "offset": 22125000,
+          "duration": 3375000,
+          "text": "最高"
+        },
+        {
+          "offset": 25500000,
+          "duration": 1375000,
+          "text": "楼"
+        },
+        {
+          "offset": 26875000,
+          "duration": 2625000,
+          "text": "遇上"
+        },
+        {
+          "offset": 29625000,
+          "duration": 2750000,
+          "text": "危机"
+        },
+        {
+          "offset": 32625000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 33500000,
+          "duration": 4500000,
+          "text": "故事"
+        },
+        {
+          "offset": 41875000,
+          "duration": 3375000,
+          "text": "含义"
+        },
+        {
+          "offset": 45500000,
+          "duration": 625000,
+          "text": "就"
+        },
+        {
+          "offset": 46250000,
+          "duration": 1250000,
+          "text": "不"
+        },
+        {
+          "offset": 47500000,
+          "duration": 2625000,
+          "text": "一样"
+        },
+        {
+          "offset": 50125000,
+          "duration": 1500000,
+          "text": "了"
+        }
+      ],
+      "start": 0.45,
+      "end": 6.474,
+      "wav": "full-film/07/voice/01-24f26379f932d729.wav"
+    },
+    {
+      "text": "高楼可能体现了真实增长，也可能包含过高的预期。它能帮助我们提出问题，却不能替我们完成判断。",
+      "file": "full-film/07/voice/02-4ecd039d50ed49eb.mp3",
+      "duration": 8.88,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 3875000,
+          "text": "高楼"
+        },
+        {
+          "offset": 5125000,
+          "duration": 2500000,
+          "text": "可能"
+        },
+        {
+          "offset": 7750000,
+          "duration": 3000000,
+          "text": "体现"
+        },
+        {
+          "offset": 10750000,
+          "duration": 1000000,
+          "text": "了"
+        },
+        {
+          "offset": 12000000,
+          "duration": 3500000,
+          "text": "真实"
+        },
+        {
+          "offset": 15625000,
+          "duration": 4250000,
+          "text": "增长"
+        },
+        {
+          "offset": 23250000,
+          "duration": 1500000,
+          "text": "也"
+        },
+        {
+          "offset": 24875000,
+          "duration": 2500000,
+          "text": "可能"
+        },
+        {
+          "offset": 27500000,
+          "duration": 3500000,
+          "text": "包含"
+        },
+        {
+          "offset": 31250000,
+          "duration": 3125000,
+          "text": "过高"
+        },
+        {
+          "offset": 34375000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 35125000,
+          "duration": 4625000,
+          "text": "预期"
+        },
+        {
+          "offset": 45500000,
+          "duration": 1750000,
+          "text": "它"
+        },
+        {
+          "offset": 47250000,
+          "duration": 1125000,
+          "text": "能"
+        },
+        {
+          "offset": 48500000,
+          "duration": 2750000,
+          "text": "帮助"
+        },
+        {
+          "offset": 51375000,
+          "duration": 1750000,
+          "text": "我们"
+        },
+        {
+          "offset": 53375000,
+          "duration": 2500000,
+          "text": "提出"
+        },
+        {
+          "offset": 56000000,
+          "duration": 5125000,
+          "text": "问题"
+        },
+        {
+          "offset": 64625000,
+          "duration": 2000000,
+          "text": "却"
+        },
+        {
+          "offset": 66625000,
+          "duration": 2250000,
+          "text": "不能"
+        },
+        {
+          "offset": 69000000,
+          "duration": 1625000,
+          "text": "替"
+        },
+        {
+          "offset": 70625000,
+          "duration": 1750000,
+          "text": "我们"
+        },
+        {
+          "offset": 72625000,
+          "duration": 2500000,
+          "text": "完成"
+        },
+        {
+          "offset": 75250000,
+          "duration": 4625000,
+          "text": "判断"
+        }
+      ],
+      "start": 6.694,
+      "end": 15.574000000000002,
+      "wav": "full-film/07/voice/02-4ecd039d50ed49eb.wav"
+    },
+    {
+      "text": "那么，为什么“摩天大楼指数”听起来仍然这么神？",
+      "file": "full-film/07/voice/03-b4531f1e6d6ea2ed.mp3",
+      "duration": 4.584,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 4500000,
+          "text": "那么"
+        },
+        {
+          "offset": 9750000,
+          "duration": 3625000,
+          "text": "为什么"
+        },
+        {
+          "offset": 13625000,
+          "duration": 5875000,
+          "text": "摩天大楼"
+        },
+        {
+          "offset": 19625000,
+          "duration": 5125000,
+          "text": "指数"
+        },
+        {
+          "offset": 25000000,
+          "duration": 2125000,
+          "text": "听"
+        },
+        {
+          "offset": 27125000,
+          "duration": 2000000,
+          "text": "起来"
+        },
+        {
+          "offset": 29375000,
+          "duration": 3000000,
+          "text": "仍然"
+        },
+        {
+          "offset": 32500000,
+          "duration": 1625000,
+          "text": "这么"
+        },
+        {
+          "offset": 34125000,
+          "duration": 3000000,
+          "text": "神"
+        }
+      ],
+      "start": 15.794000000000002,
+      "end": 20.378,
+      "wav": "full-film/07/voice/03-b4531f1e6d6ea2ed.wav"
+    },
+    {
+      "text": "因为纪录和危机都足够醒目。一座刷新纪录的建筑，加上一场重大经济动荡，很容易组成一个让人记住的故事。",
+      "file": "full-film/07/voice/04-366ce27e76b50804.mp3",
+      "duration": 10.176,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 3125000,
+          "text": "因为"
+        },
+        {
+          "offset": 4375000,
+          "duration": 3250000,
+          "text": "纪录"
+        },
+        {
+          "offset": 7875000,
+          "duration": 1000000,
+          "text": "和"
+        },
+        {
+          "offset": 9000000,
+          "duration": 4750000,
+          "text": "危机"
+        },
+        {
+          "offset": 14875000,
+          "duration": 2250000,
+          "text": "都"
+        },
+        {
+          "offset": 17250000,
+          "duration": 2625000,
+          "text": "足够"
+        },
+        {
+          "offset": 20000000,
+          "duration": 4000000,
+          "text": "醒目"
+        },
+        {
+          "offset": 29750000,
+          "duration": 1750000,
+          "text": "一"
+        },
+        {
+          "offset": 31500000,
+          "duration": 1125000,
+          "text": "座"
+        },
+        {
+          "offset": 32875000,
+          "duration": 4250000,
+          "text": "刷新"
+        },
+        {
+          "offset": 37250000,
+          "duration": 2500000,
+          "text": "纪录"
+        },
+        {
+          "offset": 39750000,
+          "duration": 875000,
+          "text": "的"
+        },
+        {
+          "offset": 40750000,
+          "duration": 5250000,
+          "text": "建筑"
+        },
+        {
+          "offset": 48000000,
+          "duration": 3250000,
+          "text": "加上"
+        },
+        {
+          "offset": 51375000,
+          "duration": 1000000,
+          "text": "一"
+        },
+        {
+          "offset": 52375000,
+          "duration": 2125000,
+          "text": "场"
+        },
+        {
+          "offset": 54750000,
+          "duration": 3625000,
+          "text": "重大"
+        },
+        {
+          "offset": 58500000,
+          "duration": 2875000,
+          "text": "经济"
+        },
+        {
+          "offset": 61500000,
+          "duration": 4000000,
+          "text": "动荡"
+        },
+        {
+          "offset": 69000000,
+          "duration": 2125000,
+          "text": "很"
+        },
+        {
+          "offset": 71125000,
+          "duration": 2375000,
+          "text": "容易"
+        },
+        {
+          "offset": 73625000,
+          "duration": 3250000,
+          "text": "组成"
+        },
+        {
+          "offset": 77000000,
+          "duration": 4000000,
+          "text": "一个"
+        },
+        {
+          "offset": 82125000,
+          "duration": 1875000,
+          "text": "让"
+        },
+        {
+          "offset": 84000000,
+          "duration": 1250000,
+          "text": "人"
+        },
+        {
+          "offset": 85375000,
+          "duration": 3125000,
+          "text": "记住"
+        },
+        {
+          "offset": 88500000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 89375000,
+          "duration": 3625000,
+          "text": "故事"
+        }
+      ],
+      "start": 20.598,
+      "end": 30.774,
+      "wav": "full-film/07/voice/04-366ce27e76b50804.wav"
+    },
+    {
+      "text": "但要证明它能预测，还需要回答几个不那么好讲的问题。",
+      "file": "full-film/07/voice/05-90e10f57ec021eea.mp3",
+      "duration": 5.16,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 1375000,
+          "text": "但"
+        },
+        {
+          "offset": 2375000,
+          "duration": 1000000,
+          "text": "要"
+        },
+        {
+          "offset": 3500000,
+          "duration": 2375000,
+          "text": "证明"
+        },
+        {
+          "offset": 6125000,
+          "duration": 1125000,
+          "text": "它"
+        },
+        {
+          "offset": 7250000,
+          "duration": 1000000,
+          "text": "能"
+        },
+        {
+          "offset": 8375000,
+          "duration": 5250000,
+          "text": "预测"
+        },
+        {
+          "offset": 17625000,
+          "duration": 2125000,
+          "text": "还"
+        },
+        {
+          "offset": 19750000,
+          "duration": 1875000,
+          "text": "需要"
+        },
+        {
+          "offset": 21750000,
+          "duration": 3125000,
+          "text": "回答"
+        },
+        {
+          "offset": 25000000,
+          "duration": 4875000,
+          "text": "几个"
+        },
+        {
+          "offset": 31000000,
+          "duration": 1750000,
+          "text": "不"
+        },
+        {
+          "offset": 32750000,
+          "duration": 1625000,
+          "text": "那么"
+        },
+        {
+          "offset": 34500000,
+          "duration": 2500000,
+          "text": "好"
+        },
+        {
+          "offset": 37000000,
+          "duration": 1500000,
+          "text": "讲"
+        },
+        {
+          "offset": 38500000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 39375000,
+          "duration": 3500000,
+          "text": "问题"
+        }
+      ],
+      "start": 30.994,
+      "end": 36.153999999999996,
+      "wav": "full-film/07/voice/05-90e10f57ec021eea.wav"
+    },
+    {
+      "text": "应该提前多久算预测成功？没发生危机的高楼算不算？没有刷新高度纪录，却发生的危机，又怎么算？",
+      "file": "full-film/07/voice/06-9d15ffe7bac7443b.mp3",
+      "duration": 9.792,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 4000000,
+          "text": "应该"
+        },
+        {
+          "offset": 5250000,
+          "duration": 3250000,
+          "text": "提前"
+        },
+        {
+          "offset": 8625000,
+          "duration": 3125000,
+          "text": "多久"
+        },
+        {
+          "offset": 11750000,
+          "duration": 2250000,
+          "text": "算"
+        },
+        {
+          "offset": 14125000,
+          "duration": 2250000,
+          "text": "预测"
+        },
+        {
+          "offset": 16500000,
+          "duration": 5375000,
+          "text": "成功"
+        },
+        {
+          "offset": 27625000,
+          "duration": 2250000,
+          "text": "没"
+        },
+        {
+          "offset": 29875000,
+          "duration": 2625000,
+          "text": "发生"
+        },
+        {
+          "offset": 32750000,
+          "duration": 2625000,
+          "text": "危机"
+        },
+        {
+          "offset": 35375000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 36250000,
+          "duration": 3375000,
+          "text": "高楼"
+        },
+        {
+          "offset": 39875000,
+          "duration": 1750000,
+          "text": "算"
+        },
+        {
+          "offset": 41625000,
+          "duration": 750000,
+          "text": "不"
+        },
+        {
+          "offset": 42375000,
+          "duration": 3125000,
+          "text": "算"
+        },
+        {
+          "offset": 51125000,
+          "duration": 3000000,
+          "text": "没有"
+        },
+        {
+          "offset": 54250000,
+          "duration": 3625000,
+          "text": "刷新"
+        },
+        {
+          "offset": 58125000,
+          "duration": 2750000,
+          "text": "高度"
+        },
+        {
+          "offset": 61000000,
+          "duration": 5625000,
+          "text": "纪录"
+        },
+        {
+          "offset": 69250000,
+          "duration": 1625000,
+          "text": "却"
+        },
+        {
+          "offset": 71000000,
+          "duration": 3000000,
+          "text": "发生"
+        },
+        {
+          "offset": 74000000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 74875000,
+          "duration": 5500000,
+          "text": "危机"
+        },
+        {
+          "offset": 83000000,
+          "duration": 1375000,
+          "text": "又"
+        },
+        {
+          "offset": 84500000,
+          "duration": 1875000,
+          "text": "怎么"
+        },
+        {
+          "offset": 86375000,
+          "duration": 2750000,
+          "text": "算"
+        }
+      ],
+      "start": 36.373999999999995,
+      "end": 46.166,
+      "wav": "full-film/07/voice/06-9d15ffe7bac7443b.wav"
+    },
+    {
+      "text": "如果只挑相符的案例，就像只展示考试答对的题目，却不公布整张试卷。",
+      "file": "full-film/07/voice/07-f22a5b7e39bfe2c5.mp3",
+      "duration": 6.576,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 2875000,
+          "text": "如果"
+        },
+        {
+          "offset": 4125000,
+          "duration": 1375000,
+          "text": "只"
+        },
+        {
+          "offset": 5500000,
+          "duration": 4750000,
+          "text": "挑相符"
+        },
+        {
+          "offset": 10250000,
+          "duration": 875000,
+          "text": "的"
+        },
+        {
+          "offset": 11250000,
+          "duration": 5000000,
+          "text": "案例"
+        },
+        {
+          "offset": 18500000,
+          "duration": 1625000,
+          "text": "就"
+        },
+        {
+          "offset": 20125000,
+          "duration": 1625000,
+          "text": "像"
+        },
+        {
+          "offset": 21875000,
+          "duration": 1750000,
+          "text": "只"
+        },
+        {
+          "offset": 23625000,
+          "duration": 3250000,
+          "text": "展示"
+        },
+        {
+          "offset": 27125000,
+          "duration": 3500000,
+          "text": "考试"
+        },
+        {
+          "offset": 30750000,
+          "duration": 3125000,
+          "text": "答对"
+        },
+        {
+          "offset": 33875000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 34625000,
+          "duration": 4375000,
+          "text": "题目"
+        },
+        {
+          "offset": 42000000,
+          "duration": 2000000,
+          "text": "却"
+        },
+        {
+          "offset": 44000000,
+          "duration": 1250000,
+          "text": "不"
+        },
+        {
+          "offset": 45375000,
+          "duration": 3125000,
+          "text": "公布"
+        },
+        {
+          "offset": 48750000,
+          "duration": 3875000,
+          "text": "整张"
+        },
+        {
+          "offset": 52625000,
+          "duration": 4375000,
+          "text": "试卷"
+        }
+      ],
+      "start": 46.385999999999996,
+      "end": 52.961999999999996,
+      "wav": "full-film/07/voice/07-f22a5b7e39bfe2c5.wav"
+    },
+    {
+      "text": "刊载于2015年《应用经济学》的一项研究，检验了破纪录建筑的宣布、完工日期与经济周期的关系，并分析了美国、加拿大、中国及香港地区的数据。",
+      "file": "full-film/07/voice/08-ad582fdfd0e0364f.mp3",
+      "duration": 12.528,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 3625000,
+          "text": "刊载"
+        },
+        {
+          "offset": 4625000,
+          "duration": 1500000,
+          "text": "于"
+        },
+        {
+          "offset": 6375000,
+          "duration": 4875000,
+          "text": "2015"
+        },
+        {
+          "offset": 11250000,
+          "duration": 3625000,
+          "text": "年"
+        },
+        {
+          "offset": 15500000,
+          "duration": 3250000,
+          "text": "应用"
+        },
+        {
+          "offset": 18875000,
+          "duration": 5500000,
+          "text": "经济学"
+        },
+        {
+          "offset": 24375000,
+          "duration": 875000,
+          "text": "的"
+        },
+        {
+          "offset": 25500000,
+          "duration": 625000,
+          "text": "一"
+        },
+        {
+          "offset": 26125000,
+          "duration": 1125000,
+          "text": "项"
+        },
+        {
+          "offset": 27375000,
+          "duration": 4750000,
+          "text": "研究"
+        },
+        {
+          "offset": 34125000,
+          "duration": 3375000,
+          "text": "检验"
+        },
+        {
+          "offset": 37500000,
+          "duration": 1500000,
+          "text": "了"
+        },
+        {
+          "offset": 39250000,
+          "duration": 2250000,
+          "text": "破"
+        },
+        {
+          "offset": 41500000,
+          "duration": 2375000,
+          "text": "纪录"
+        },
+        {
+          "offset": 44000000,
+          "duration": 2500000,
+          "text": "建筑"
+        },
+        {
+          "offset": 46500000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 47250000,
+          "duration": 4125000,
+          "text": "宣布"
+        },
+        {
+          "offset": 54250000,
+          "duration": 4000000,
+          "text": "完工"
+        },
+        {
+          "offset": 58375000,
+          "duration": 4250000,
+          "text": "日期"
+        },
+        {
+          "offset": 63625000,
+          "duration": 1625000,
+          "text": "与"
+        },
+        {
+          "offset": 65375000,
+          "duration": 2750000,
+          "text": "经济"
+        },
+        {
+          "offset": 68250000,
+          "duration": 3000000,
+          "text": "周期"
+        },
+        {
+          "offset": 71250000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 72125000,
+          "duration": 4625000,
+          "text": "关系"
+        },
+        {
+          "offset": 78750000,
+          "duration": 1625000,
+          "text": "并"
+        },
+        {
+          "offset": 80500000,
+          "duration": 3125000,
+          "text": "分析"
+        },
+        {
+          "offset": 83625000,
+          "duration": 875000,
+          "text": "了"
+        },
+        {
+          "offset": 84750000,
+          "duration": 4750000,
+          "text": "美国"
+        },
+        {
+          "offset": 91250000,
+          "duration": 6000000,
+          "text": "加拿大"
+        },
+        {
+          "offset": 99875000,
+          "duration": 4750000,
+          "text": "中国"
+        },
+        {
+          "offset": 104875000,
+          "duration": 1250000,
+          "text": "及"
+        },
+        {
+          "offset": 106250000,
+          "duration": 3125000,
+          "text": "香港"
+        },
+        {
+          "offset": 109500000,
+          "duration": 2375000,
+          "text": "地区"
+        },
+        {
+          "offset": 111875000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 112625000,
+          "duration": 3750000,
+          "text": "数据"
+        }
+      ],
+      "start": 53.181999999999995,
+      "end": 65.71,
+      "wav": "full-film/07/voice/08-ad582fdfd0e0364f.wav"
+    },
+    {
+      "text": "研究没有发现，破纪录日期与经济周期存在很强的对应关系；其检验也不支持把建筑高度当作经济产出的可靠领先指标。",
+      "file": "full-film/07/voice/09-8d9ecf5bfe329ff2.mp3",
+      "duration": 11.04,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 3000000,
+          "text": "研究"
+        },
+        {
+          "offset": 4250000,
+          "duration": 1875000,
+          "text": "没有"
+        },
+        {
+          "offset": 6250000,
+          "duration": 4875000,
+          "text": "发现"
+        },
+        {
+          "offset": 14750000,
+          "duration": 2125000,
+          "text": "破"
+        },
+        {
+          "offset": 16875000,
+          "duration": 2375000,
+          "text": "纪录"
+        },
+        {
+          "offset": 19375000,
+          "duration": 4750000,
+          "text": "日期"
+        },
+        {
+          "offset": 25125000,
+          "duration": 1500000,
+          "text": "与"
+        },
+        {
+          "offset": 26750000,
+          "duration": 2750000,
+          "text": "经济"
+        },
+        {
+          "offset": 29625000,
+          "duration": 4750000,
+          "text": "周期"
+        },
+        {
+          "offset": 35500000,
+          "duration": 3500000,
+          "text": "存在"
+        },
+        {
+          "offset": 39125000,
+          "duration": 2000000,
+          "text": "很"
+        },
+        {
+          "offset": 41125000,
+          "duration": 2000000,
+          "text": "强"
+        },
+        {
+          "offset": 43125000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 44125000,
+          "duration": 2375000,
+          "text": "对应"
+        },
+        {
+          "offset": 46625000,
+          "duration": 4625000,
+          "text": "关系"
+        },
+        {
+          "offset": 55375000,
+          "duration": 2125000,
+          "text": "其"
+        },
+        {
+          "offset": 57625000,
+          "duration": 4500000,
+          "text": "检验"
+        },
+        {
+          "offset": 62375000,
+          "duration": 1125000,
+          "text": "也"
+        },
+        {
+          "offset": 63625000,
+          "duration": 1250000,
+          "text": "不"
+        },
+        {
+          "offset": 64875000,
+          "duration": 3500000,
+          "text": "支持"
+        },
+        {
+          "offset": 68625000,
+          "duration": 1125000,
+          "text": "把"
+        },
+        {
+          "offset": 69875000,
+          "duration": 3000000,
+          "text": "建筑"
+        },
+        {
+          "offset": 73000000,
+          "duration": 4250000,
+          "text": "高度"
+        },
+        {
+          "offset": 78375000,
+          "duration": 3125000,
+          "text": "当作"
+        },
+        {
+          "offset": 81750000,
+          "duration": 2875000,
+          "text": "经济"
+        },
+        {
+          "offset": 84750000,
+          "duration": 3375000,
+          "text": "产出"
+        },
+        {
+          "offset": 88125000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 89125000,
+          "duration": 4750000,
+          "text": "可靠"
+        },
+        {
+          "offset": 94000000,
+          "duration": 3375000,
+          "text": "领先"
+        },
+        {
+          "offset": 97500000,
+          "duration": 4125000,
+          "text": "指标"
+        }
+      ],
+      "start": 65.92999999999999,
+      "end": 76.97,
+      "wav": "full-film/07/voice/09-8d9ecf5bfe329ff2.wav"
+    },
+    {
+      "text": "也有支持者对同一组证据提出不同解释，认为它仍能支持高楼作为危机信号的理论。",
+      "file": "full-film/07/voice/10-6a023058684ff97e.mp3",
+      "duration": 7.848,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 3000000,
+          "text": "也有"
+        },
+        {
+          "offset": 4125000,
+          "duration": 5625000,
+          "text": "支持者"
+        },
+        {
+          "offset": 10000000,
+          "duration": 1375000,
+          "text": "对"
+        },
+        {
+          "offset": 11500000,
+          "duration": 2875000,
+          "text": "同一"
+        },
+        {
+          "offset": 14375000,
+          "duration": 1375000,
+          "text": "组"
+        },
+        {
+          "offset": 15875000,
+          "duration": 4375000,
+          "text": "证据"
+        },
+        {
+          "offset": 21375000,
+          "duration": 2750000,
+          "text": "提出"
+        },
+        {
+          "offset": 24375000,
+          "duration": 2625000,
+          "text": "不同"
+        },
+        {
+          "offset": 27125000,
+          "duration": 4000000,
+          "text": "解释"
+        },
+        {
+          "offset": 35125000,
+          "duration": 5125000,
+          "text": "认为"
+        },
+        {
+          "offset": 41375000,
+          "duration": 3250000,
+          "text": "它"
+        },
+        {
+          "offset": 44750000,
+          "duration": 2125000,
+          "text": "仍"
+        },
+        {
+          "offset": 46875000,
+          "duration": 1375000,
+          "text": "能"
+        },
+        {
+          "offset": 48375000,
+          "duration": 2750000,
+          "text": "支持"
+        },
+        {
+          "offset": 51375000,
+          "duration": 4375000,
+          "text": "高楼"
+        },
+        {
+          "offset": 55875000,
+          "duration": 3125000,
+          "text": "作为"
+        },
+        {
+          "offset": 59250000,
+          "duration": 3125000,
+          "text": "危机"
+        },
+        {
+          "offset": 62500000,
+          "duration": 3125000,
+          "text": "信号"
+        },
+        {
+          "offset": 65625000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 66500000,
+          "duration": 3125000,
+          "text": "理论"
+        }
+      ],
+      "start": 77.19,
+      "end": 85.038,
+      "wav": "full-film/07/voice/10-6a023058684ff97e.wav"
+    },
+    {
+      "text": "但如果要把一个说法用来预测，就应该先说明怎么算成功、怎么算失败，再接受后续数据的检验。",
+      "file": "full-film/07/voice/11-47d8ccb14b346903.mp3",
+      "duration": 8.256,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 1625000,
+          "text": "但"
+        },
+        {
+          "offset": 2750000,
+          "duration": 1625000,
+          "text": "如果"
+        },
+        {
+          "offset": 4625000,
+          "duration": 1125000,
+          "text": "要"
+        },
+        {
+          "offset": 5750000,
+          "duration": 1250000,
+          "text": "把"
+        },
+        {
+          "offset": 7125000,
+          "duration": 1375000,
+          "text": "一个"
+        },
+        {
+          "offset": 8625000,
+          "duration": 4125000,
+          "text": "说法"
+        },
+        {
+          "offset": 13000000,
+          "duration": 2125000,
+          "text": "用来"
+        },
+        {
+          "offset": 15250000,
+          "duration": 5500000,
+          "text": "预测"
+        },
+        {
+          "offset": 23250000,
+          "duration": 1625000,
+          "text": "就"
+        },
+        {
+          "offset": 24875000,
+          "duration": 2000000,
+          "text": "应该"
+        },
+        {
+          "offset": 27000000,
+          "duration": 2125000,
+          "text": "先"
+        },
+        {
+          "offset": 29125000,
+          "duration": 4750000,
+          "text": "说明"
+        },
+        {
+          "offset": 34875000,
+          "duration": 2875000,
+          "text": "怎么"
+        },
+        {
+          "offset": 37750000,
+          "duration": 1500000,
+          "text": "算"
+        },
+        {
+          "offset": 39375000,
+          "duration": 4250000,
+          "text": "成功"
+        },
+        {
+          "offset": 47125000,
+          "duration": 2250000,
+          "text": "怎么"
+        },
+        {
+          "offset": 49500000,
+          "duration": 1500000,
+          "text": "算"
+        },
+        {
+          "offset": 51125000,
+          "duration": 4750000,
+          "text": "失败"
+        },
+        {
+          "offset": 58625000,
+          "duration": 1875000,
+          "text": "再"
+        },
+        {
+          "offset": 60500000,
+          "duration": 2875000,
+          "text": "接受"
+        },
+        {
+          "offset": 63625000,
+          "duration": 2875000,
+          "text": "后续"
+        },
+        {
+          "offset": 66625000,
+          "duration": 2625000,
+          "text": "数据"
+        },
+        {
+          "offset": 69250000,
+          "duration": 875000,
+          "text": "的"
+        },
+        {
+          "offset": 70250000,
+          "duration": 3500000,
+          "text": "检验"
+        }
+      ],
+      "start": 85.258,
+      "end": 93.514,
+      "wav": "full-film/07/voice/11-47d8ccb14b346903.wav"
+    },
+    {
+      "text": "在此之前，仅凭“又有一栋楼刷新纪录”，还不足以判断危机什么时候会来。",
+      "file": "full-film/07/voice/12-606a72034affb553.mp3",
+      "duration": 6.504,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 3000000,
+          "text": "在此"
+        },
+        {
+          "offset": 4125000,
+          "duration": 5125000,
+          "text": "之前"
+        },
+        {
+          "offset": 12625000,
+          "duration": 2500000,
+          "text": "仅"
+        },
+        {
+          "offset": 15125000,
+          "duration": 1375000,
+          "text": "凭"
+        },
+        {
+          "offset": 16750000,
+          "duration": 1125000,
+          "text": "又"
+        },
+        {
+          "offset": 17875000,
+          "duration": 875000,
+          "text": "有"
+        },
+        {
+          "offset": 18875000,
+          "duration": 875000,
+          "text": "一"
+        },
+        {
+          "offset": 19750000,
+          "duration": 1375000,
+          "text": "栋"
+        },
+        {
+          "offset": 21125000,
+          "duration": 1625000,
+          "text": "楼"
+        },
+        {
+          "offset": 23000000,
+          "duration": 3625000,
+          "text": "刷新"
+        },
+        {
+          "offset": 26750000,
+          "duration": 3375000,
+          "text": "纪录"
+        },
+        {
+          "offset": 33500000,
+          "duration": 1750000,
+          "text": "还"
+        },
+        {
+          "offset": 35375000,
+          "duration": 1625000,
+          "text": "不"
+        },
+        {
+          "offset": 37000000,
+          "duration": 1625000,
+          "text": "足以"
+        },
+        {
+          "offset": 38750000,
+          "duration": 5375000,
+          "text": "判断"
+        },
+        {
+          "offset": 45125000,
+          "duration": 3250000,
+          "text": "危机"
+        },
+        {
+          "offset": 48625000,
+          "duration": 3875000,
+          "text": "什么时候"
+        },
+        {
+          "offset": 52625000,
+          "duration": 1375000,
+          "text": "会"
+        },
+        {
+          "offset": 54000000,
+          "duration": 2375000,
+          "text": "来"
+        }
+      ],
+      "start": 93.734,
+      "end": 100.238,
+      "wav": "full-film/07/voice/12-606a72034affb553.wav"
+    }
+  ]
+}

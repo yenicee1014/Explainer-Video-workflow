@@ -1,0 +1,22 @@
+{
+  "recorded_at": "2026-10-25",
+  "comfyui": {
+    "project_nodes": [
+      "SCSceneBatch",
+      "SCFullChapter"
+    ],
+    "third_party_nodes": [
+      "ComfyUI-AutoDL-API"
+    ],
+    "workflow_ids": [
+      "minimax_h3_lightx2v_no_pic"
+    ],
+    "note": "Third-party node code, account settings, tokens, and model weights are intentionally not included."
+  },
+  "render": {
+    "resolution": "1280x720",
+    "fps": 25,
+    "revision": 20,
+    "asset_generation": "8-second 768p horizontal clips, one prompt per mechanism asset"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "chapter": 4,
+  "title": "每个人的算盘，都指向了同一个未来",
+  "generation_prompt": "A five-second black-and-white historical editorial documentary shot. Fine silver-gelatin photographic grain, neutral grayscale, soft natural light, restrained realistic human gestures, physically coherent surroundings. Locked wide shot, gentle natural motion, crisp photographic detail. No text, no subtitles, no letters, no numerals, no logos, no watermark, no split screen, no graphics, no montage, no shot changes. This is an original illustrative reconstruction, not authentic archive footage. A realistic wide view of a commercial construction district. Four separate mid-rise concrete office buildings are under construction at once, several tower cranes moving gently. In the foreground two property developers in plain suits stand on separate sides of a paper site plan and look toward the same district. Show many competing building sites, not one single tower.",
+  "scenes": [
+    {
+      "scene": 1,
+      "narration": "你看好这个片区，旁边的开发商也看好。",
+      "visual": "competition",
+      "title": "不止你一个人看好",
+      "detail": "开发商 A / 开发商 B"
+    },
+    {
+      "scene": 2,
+      "narration": "你预计三年后会有更多企业搬进来，他也预计三年后会有更多企业搬进来。",
+      "visual": "forecast",
+      "title": "大家都在预测同一批企业",
+      "detail": "三年后的需求 · 示意"
+    },
+    {
+      "scene": 3,
+      "narration": "于是，两个人都拿着未来的需求，向银行申请今天的贷款。",
+      "visual": "bank",
+      "title": "拿着未来，申请今天的贷款",
+      "detail": "多家开发商 → 银行"
+    },
+    {
+      "scene": 4,
+      "narration": "再加上第三家、第四家，工地就连成了一片。",
+      "visual": "photo",
+      "title": "工地连成一片",
+      "detail": "第三家、第四家，也加入建设"
+    },
+    {
+      "scene": 5,
+      "narration": "这里有一个容易被忽略的问题：每一家都在计算自己能拿到多少租户，却未必充分考虑，几年后会有多少栋新楼一起争抢这些租户。",
+      "visual": "tenants",
+      "title": "新楼都在等租户",
+      "detail": "同一批客户，被多次写进预测"
+    },
+    {
+      "scene": 6,
+      "narration": "一栋楼的预测可能说得通，整座城市的预测加在一起，却未必装得下。",
+      "visual": "capacity",
+      "title": "单栋合理，合计未必合理",
+      "detail": "分别预测 / 汇总供需"
+    },
+    {
+      "scene": 7,
+      "narration": "高度还可能带来办公面积之外的回报：地标的知名度、观光收入，以及周边土地的吸引力，都可能进入投资者的计算。",
+      "visual": "benefits",
+      "title": "高度之外，也有收益",
+      "detail": "知名度 / 观光 / 周边土地吸引力"
+    },
+    {
+      "scene": 8,
+      "narration": "这些回报有时确实存在。因此，不能看到一栋超高层，就直接认定它是虚荣工程。",
+      "visual": "benefits_real",
+      "title": "不能一概称为虚荣工程",
+      "detail": "收益存在，但仍需核实和测算"
+    },
+    {
+      "scene": 9,
+      "narration": "但在过度乐观的情形里，开发商、贷款人和投资者，也可能把同一种期待，当成了彼此的保证。",
+      "visual": "expectations",
+      "title": "同一种期待，互相作保证",
+      "detail": "开发商 / 银行 / 投资者"
+    },
+    {
+      "scene": 10,
+      "narration": "开发商相信企业会来，银行相信抵押物值钱，投资者相信未来有人愿意出更高的价格。",
+      "visual": "beliefs",
+      "title": "三个人的算盘",
+      "detail": "企业会来 / 抵押物值钱 / 有人接手"
+    },
+    {
+      "scene": 11,
+      "narration": "没有人需要在合同上写下“经济永远不会变差”。只要所有人的计算，都没有给变差留够空间，风险就已经埋下了。",
+      "visual": "no_margin",
+      "title": "如果没有给变差留空间",
+      "detail": "增长一放慢，所有计划一起承压"
+    }
+  ]
+}

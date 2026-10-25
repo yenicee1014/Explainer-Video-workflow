@@ -1,0 +1,77 @@
+{
+  "chapter": 8,
+  "title": "真正值得看的，是哪几个问题",
+  "generation_prompt": "A five-second black-and-white historical editorial documentary shot. Fine silver-gelatin photographic grain, neutral grayscale, soft natural light, restrained realistic human gestures, physically coherent surroundings. Locked wide shot, gentle natural motion, crisp photographic detail. No text, no subtitles, no letters, no numerals, no logos, no watermark, no split screen, no graphics, no montage, no shot changes. This is an original illustrative reconstruction, not authentic archive footage. A commercial tenant, a property manager, and a financial reviewer inspect a modest office space together. They sit at a simple table with a lease folder, a calendar and a calculator, review actual documents, then look around the usable workspace. Practical business discussion, natural gestures, balanced composition, no glamour skyscraper shot.",
+  "scenes": [
+    {
+      "scene": 1,
+      "narration": "所以，下次看到一座新的超高层，不妨先问四件事。",
+      "visual": "four",
+      "title": "换成四个实际问题",
+      "detail": "需求 / 资金 / 到期 / 承受能力"
+    },
+    {
+      "scene": 2,
+      "narration": "第一，谁来使用它？需求来自已经存在的企业和租约，还是来自一份过于乐观的增长预测？",
+      "visual": "check_demand",
+      "title": "01 谁来使用它？",
+      "detail": "真实企业与租约 / 乐观的增长预测"
+    },
+    {
+      "scene": 3,
+      "narration": "第二，钱从哪里来？出资的人能承担多少损失，项目又借了多少债？",
+      "visual": "check_funding",
+      "title": "02 钱从哪里来？",
+      "detail": "自有资金 / 借款 / 可承担损失"
+    },
+    {
+      "scene": 4,
+      "narration": "第三，债务什么时候到期？如果还没稳定收租，贷款就需要续借，融资条件一变，计划能不能承受？",
+      "visual": "check_maturity",
+      "title": "03 债务什么时候到期？",
+      "detail": "稳定收租之前，是否就要续借？"
+    },
+    {
+      "scene": 5,
+      "narration": "第四，如果租金比预期低、利息比预期高，这栋楼还能不能正常运转？",
+      "visual": "check_stress",
+      "title": "04 变差之后，还能运行吗？",
+      "detail": "租金更低 / 利息更高"
+    },
+    {
+      "scene": 6,
+      "narration": "这些问题，不如“世界第一高”醒目，却更接近风险所在。",
+      "visual": "substance",
+      "title": "比高度更值得看的，是账本",
+      "detail": "从纪录，回到项目基本面"
+    },
+    {
+      "scene": 7,
+      "narration": "高楼可以是技术进步的成果，也可以是城市需求增长的结果。我们不能因为它高，就认定它危险。",
+      "visual": "photo",
+      "title": "高，不等于危险",
+      "detail": "技术进步和真实需求，也能支持高楼"
+    },
+    {
+      "scene": 8,
+      "narration": "需要警惕的，是一份只能在最好情况下成立的计划，却背上了无论情况好坏，都必须兑现的债务。",
+      "visual": "obligation",
+      "title": "最好情况，不能是唯一情况",
+      "detail": "乐观的预测 / 必须兑现的债务"
+    },
+    {
+      "scene": 9,
+      "narration": "庆祝高度的时候，别忘了翻一翻账本。",
+      "visual": "ledger",
+      "title": "庆祝高度，也翻一翻账本",
+      "detail": "收入、支出和到期日"
+    },
+    {
+      "scene": 10,
+      "narration": "未来的繁荣还需要时间验证，但下一笔利息，已经写好了日期。",
+      "visual": "closing",
+      "title": "未来需要验证，利息已有日期",
+      "detail": "繁荣的高度"
+    }
+  ]
+}

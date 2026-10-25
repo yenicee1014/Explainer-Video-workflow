@@ -1,0 +1,24 @@
+{
+  "1": {
+    "class_type": "AutoDLWorkflow",
+    "inputs": {
+      "workflow_id": "minimax_h3_lightx2v_no_pic",
+      "ad_text_01": "Black-and-white observational documentary footage for a serious economics explainer. Neutral grayscale silver-gelatin photography, detailed faces and material textures, soft daylight, moderate contrast, clear readable composition. Original illustrative reconstruction. Natural restrained gestures, physically coherent objects and hands. Landscape 16:9. One continuous shot, gentle camera movement only. No subtitles, no readable lettering, no logos, no watermark, no graphic overlays. Over-the-shoulder medium shot of two contemporary East Asian property developers at a plain planning table. They spread a large architectural floor plan beside a scale model of an ordinary twelve-storey rectangular office building and a calculator. One points at the land parcel and the other makes budget notes. Architectural plans and people dominate, not a skyscraper.",
+      "ad_text_02": "768p横",
+      "ad_int_01": 12,
+      "ad_int_02": 2026106333,
+      "timeout_seconds": 1800,
+      "poll_interval_seconds": 5,
+      "schema_json": "{\"version\": 6, \"workflow_id\": \"minimax_h3_lightx2v_no_pic\", \"fields\": [{\"name\": \"prompt\", \"type\": \"prompt\", \"slot\": \"ad_text_01\", \"required\": true}, {\"name\": \"resolution\", \"type\": \"enum\", \"slot\": \"ad_text_02\"}, {\"name\": \"duration\", \"type\": \"integer\", \"slot\": \"ad_int_01\"}, {\"name\": \"seed\", \"type\": \"integer\", \"slot\": \"ad_int_02\"}], \"outputs\": [{\"name\": \"video\", \"kind\": \"video\"}]}"
+    }
+  },
+  "2": {
+    "class_type": "AutoDLPreviewVideo",
+    "inputs": {
+      "video": [
+        "1",
+        0
+      ]
+    }
+  }
+}

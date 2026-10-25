@@ -21,3 +21,12 @@ node_modules/
 *.webm
 artifacts/
 output/
+
+# Explicitly published skyscraper V2 deliverables
+!/video/skyscraper-crisis-v2-full.mp4
+!/video/skyscraper-crisis-v2-highlights.mp4
+/projects/skyscraper-crisis/full-film/*/motion.mp4
+/projects/skyscraper-crisis/full-film/*/narration.wav
+/projects/skyscraper-crisis/full-film-v2/assets/*/motion.mp4
+/projects/skyscraper-crisis/full-film-v2/frame-cache/
+/projects/skyscraper-crisis/full-film-v2/research/*.jpg

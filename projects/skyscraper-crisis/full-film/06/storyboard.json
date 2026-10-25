@@ -1,0 +1,91 @@
+{
+  "chapter": 6,
+  "title": "楼没有倒，账却可能撑不住",
+  "generation_prompt": "A five-second black-and-white historical editorial documentary shot. Fine silver-gelatin photographic grain, neutral grayscale, soft natural light, restrained realistic human gestures, physically coherent surroundings. Locked wide shot, gentle natural motion, crisp photographic detail. No text, no subtitles, no letters, no numerals, no logos, no watermark, no split screen, no graphics, no montage, no shot changes. This is an original illustrative reconstruction, not authentic archive footage. Inside a contemporary nearly empty office floor, a property manager in a dark blazer walks past vacant desks and unused chairs, holding a thin rental folder. One remaining tenant packs a cardboard box at a desk in the distance. Large windows, subdued daylight, quiet restrained mood. Focus on vacant office space and rental difficulty, no collapsing buildings.",
+  "scenes": [
+    {
+      "scene": 1,
+      "narration": "现在，回到我们那栋借了六亿元的办公楼。",
+      "visual": "return",
+      "title": "回到那笔 6 亿元借款",
+      "detail": "同一个虚构项目"
+    },
+    {
+      "scene": 2,
+      "narration": "原本预计每年五千万元的净运营收入，因为租户减少、租金让步，变成了三千五百万元。",
+      "visual": "income_drop",
+      "title": "5000 万 → 3500 万",
+      "detail": "租户减少 · 租金让步 · 净运营收入下降"
+    },
+    {
+      "scene": 3,
+      "narration": "如果原有固定利率贷款还没到期，市场利率上涨，并不会让它立刻多付利息。",
+      "visual": "fixed",
+      "title": "固定利率未到期",
+      "detail": "市场加息 ≠ 旧合同立即加息"
+    },
+    {
+      "scene": 4,
+      "narration": "但假设贷款到期，需要把这六亿元重新借一遍，而新的年利率变成了百分之六，一年的利息，就从两千四百万元，涨到了三千六百万元。",
+      "visual": "refinance",
+      "title": "到期再融资：4% → 6%",
+      "detail": "年利息：2400 万 → 3600 万"
+    },
+    {
+      "scene": 5,
+      "narration": "三千五百万进来，三千六百万付息。这时，连利息都已经不够，更别说归还本金。",
+      "visual": "cash_bad",
+      "title": "3500 万进来，3600 万付息",
+      "detail": "年现金缺口 100 万元 · 尚未计还本"
+    },
+    {
+      "scene": 6,
+      "narration": "房子还在，玻璃幕墙也没有少一块。发生变化的，是这栋楼产生现金的能力，和债务要求它支付现金的速度。",
+      "visual": "photo",
+      "title": "楼还在，现金却不够了",
+      "detail": "产生现金的能力 / 支付债务的速度"
+    },
+    {
+      "scene": 7,
+      "narration": "开发商可能会说：再给我一点时间，等租户回来。",
+      "visual": "plea",
+      "title": "开发商：再给一点时间",
+      "detail": "等租户回来，谁先补上缺口？"
+    },
+    {
+      "scene": 8,
+      "narration": "银行却要问：这段时间谁来补钱？抵押物现在还值多少？如果卖掉，能收回多少贷款？",
+      "visual": "bank_questions",
+      "title": "银行：抵押物还值多少？",
+      "detail": "补充资金 / 估值 / 出售回收"
+    },
+    {
+      "scene": 9,
+      "narration": "如果收入下降，买家对回报的要求又提高，物业估值就可能下调。估值越低，想靠抵押继续融资，就可能越困难。",
+      "visual": "valuation",
+      "title": "收入下降，融资空间也可能缩小",
+      "detail": "收入↓ + 回报要求↑ → 估值承压"
+    },
+    {
+      "scene": 10,
+      "narration": "如果很多借款人同时遇到类似问题，贷款机构也遭受损失，并因此收紧放贷，压力就可能进一步传给其他企业。",
+      "visual": "credit",
+      "title": "贷款损失，传向下一位借款人",
+      "detail": "贷款机构受损 → 收紧放贷"
+    },
+    {
+      "scene": 11,
+      "narration": "这是一条可能的风险传导路径：收入变少，偿债变难，资产重估，融资收紧。",
+      "visual": "transmission",
+      "title": "一条可能的风险传导路径",
+      "detail": "收入变少 → 偿债变难 → 资产重估 → 融资收紧"
+    },
+    {
+      "scene": 12,
+      "narration": "它会不会扩大成金融危机，还取决于债务规模、银行承受能力、融资结构和政策应对。单独一栋楼亏钱，并不等于整个经济都会出事。",
+      "visual": "system",
+      "title": "单栋亏损 ≠ 整体危机",
+      "detail": "规模 / 银行承受能力 / 融资结构 / 政策应对"
+    }
+  ]
+}

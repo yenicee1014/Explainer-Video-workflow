@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-25",
+  "files": [
+    {
+      "file": "video/skyscraper-crisis-v2-full.mp4",
+      "original_filename": "繁荣的高度-V2-情节重制完整版.mp4",
+      "bytes": 84826881,
+      "sha256": "4906539cb22f784ccf02dfb5e026e779743b49d660c112b7b143d8c176010794",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "25/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "666.581333"
+        }
+      }
+    },
+    {
+      "file": "video/skyscraper-crisis-v2-highlights.mp4",
+      "original_filename": "六类经济现象-画面核对片.mp4",
+      "bytes": 6963501,
+      "sha256": "87e9b82113b77defc37c10620430e53365e14b72a9707c4dee88878fb4ed9dfc",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "25/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "58.021328"
+        }
+      }
+    },
+    {
+      "file": "projects/skyscraper-crisis/six-mechanisms.jpg",
+      "original_filename": "六类情节画面核对.jpg",
+      "bytes": 789953,
+      "sha256": "ba46b4ebd7566116a2c8538306a9a2c3158f0a9bd68cdbd9bd202947dfa20137"
+    }
+  ]
+}

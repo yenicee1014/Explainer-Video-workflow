@@ -1,0 +1,91 @@
+{
+  "chapter": 7,
+  "title": "为什么这个“指数”总让人印象深刻",
+  "generation_prompt": "A five-second black-and-white historical editorial documentary shot. Fine silver-gelatin photographic grain, neutral grayscale, soft natural light, restrained realistic human gestures, physically coherent surroundings. Locked wide shot, gentle natural motion, crisp photographic detail. No text, no subtitles, no letters, no numerals, no logos, no watermark, no split screen, no graphics, no montage, no shot changes. This is an original illustrative reconstruction, not authentic archive footage. An economic researcher at a plain desk compares several folders and printed sheets with charts whose marks are not readable. She moves a single selected clipping aside and spreads out a larger set of research pages, then checks another page with a pencil. Focus on evaluating evidence and examining counterexamples, realistic documentary observation.",
+  "scenes": [
+    {
+      "scene": 1,
+      "narration": "讲到这里，再回头看那些“最高楼遇上危机”的故事，含义就不一样了。",
+      "visual": "cases",
+      "title": "把故事放回完整样本",
+      "detail": "关联，不自动等于预测"
+    },
+    {
+      "scene": 2,
+      "narration": "高楼可能体现了真实增长，也可能包含过高的预期。它能帮助我们提出问题，却不能替我们完成判断。",
+      "visual": "two_sides",
+      "title": "真实增长，还是过高预期？",
+      "detail": "需要证据，不能只看高度"
+    },
+    {
+      "scene": 3,
+      "narration": "那么，为什么“摩天大楼指数”听起来仍然这么神？",
+      "visual": "question",
+      "title": "为什么听起来这么神？",
+      "detail": "故事如何进入记忆"
+    },
+    {
+      "scene": 4,
+      "narration": "因为纪录和危机都足够醒目。一座刷新纪录的建筑，加上一场重大经济动荡，很容易组成一个让人记住的故事。",
+      "visual": "headline",
+      "title": "纪录 + 危机 = 醒目的故事",
+      "detail": "醒目程度 ≠ 预测能力"
+    },
+    {
+      "scene": 5,
+      "narration": "但要证明它能预测，还需要回答几个不那么好讲的问题。",
+      "visual": "rules",
+      "title": "预测，必须先定标准",
+      "detail": "提前多久？怎么算成功？"
+    },
+    {
+      "scene": 6,
+      "narration": "应该提前多久算预测成功？没发生危机的高楼算不算？没有刷新高度纪录，却发生的危机，又怎么算？",
+      "visual": "counterexamples",
+      "title": "未发生危机的楼，也要算",
+      "detail": "有高楼无危机 / 有危机无纪录"
+    },
+    {
+      "scene": 7,
+      "narration": "如果只挑相符的案例，就像只展示考试答对的题目，却不公布整张试卷。",
+      "visual": "selection",
+      "title": "不能只展示答对的题",
+      "detail": "选中的案例 / 完整试卷 · 示意"
+    },
+    {
+      "scene": 8,
+      "narration": "刊载于2015年《应用经济学》的一项研究，检验了破纪录建筑的宣布、完工日期与经济周期的关系，并分析了美国、加拿大、中国及香港地区的数据。",
+      "visual": "study",
+      "title": "2015 ·《应用经济学》",
+      "detail": "美国 / 加拿大 / 中国 / 香港地区"
+    },
+    {
+      "scene": 9,
+      "narration": "研究没有发现，破纪录日期与经济周期存在很强的对应关系；其检验也不支持把建筑高度当作经济产出的可靠领先指标。",
+      "visual": "finding",
+      "title": "检验未支持可靠领先预测",
+      "detail": "纪录日期与周期对应较弱"
+    },
+    {
+      "scene": 10,
+      "narration": "也有支持者对同一组证据提出不同解释，认为它仍能支持高楼作为危机信号的理论。",
+      "visual": "debate",
+      "title": "也有不同的研究解释",
+      "detail": "理论争论不等于预测已被验证"
+    },
+    {
+      "scene": 11,
+      "narration": "但如果要把一个说法用来预测，就应该先说明怎么算成功、怎么算失败，再接受后续数据的检验。",
+      "visual": "test",
+      "title": "标准先定，再接受新数据检验",
+      "detail": "公布成功，也公布失败"
+    },
+    {
+      "scene": 12,
+      "narration": "在此之前，仅凭“又有一栋楼刷新纪录”，还不足以判断危机什么时候会来。",
+      "visual": "no_prediction",
+      "title": "刷新高度纪录，不是危机倒计时",
+      "detail": "不能仅凭一座楼判断危机日期"
+    }
+  ]
+}

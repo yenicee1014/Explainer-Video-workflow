@@ -1,0 +1,24 @@
+{
+  "accessed": "2026-10-25",
+  "pages": {
+    "esb": "https://www.esbnyc.com/about/history",
+    "petronas": "https://www.petronastwintowers.com.my/the-towers/the-stories/",
+    "burj": "https://properties.emaar.com/",
+    "crash": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929",
+    "refinance": "https://www.occ.gov/news-issuances/bulletins/2024/bulletin-2024-29.html",
+    "cre": "https://www.stlouisfed.org/on-the-economy/2024/may/commercial-real-estate-focus"
+  },
+  "additional": [
+    "https://www.som.com/projects/burj-khalifa/",
+    "https://pcparch.com/work/petronas-towers/"
+  ],
+  "archival_claims": [
+    "esb_build:1930",
+    "esb_open:1931"
+  ],
+  "modern_architecture_references": [
+    "esb_photo",
+    "burj_photo",
+    "petronas_photo"
+  ]
+}

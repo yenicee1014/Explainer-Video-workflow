@@ -1,0 +1,973 @@
+{
+  "chapter": 1,
+  "provider": "Microsoft Edge zh-CN-YunxiNeural",
+  "duration": 75.76,
+  "mix": "full-film/01/narration.wav",
+  "paragraphs": [
+    {
+      "text": "1931年5月1日，纽约帝国大厦正式开幕。",
+      "file": "full-film/01/voice/01-9886dd4e7c85d778.mp3",
+      "duration": 4.656,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 15375000,
+          "text": "1931年5月1日"
+        },
+        {
+          "offset": 19750000,
+          "duration": 3500000,
+          "text": "纽约"
+        },
+        {
+          "offset": 23375000,
+          "duration": 2625000,
+          "text": "帝国"
+        },
+        {
+          "offset": 26125000,
+          "duration": 4000000,
+          "text": "大厦"
+        },
+        {
+          "offset": 30375000,
+          "duration": 3375000,
+          "text": "正式"
+        },
+        {
+          "offset": 33875000,
+          "duration": 3750000,
+          "text": "开幕"
+        }
+      ],
+      "start": 0.45,
+      "end": 5.106,
+      "wav": "full-film/01/voice/01-9886dd4e7c85d778.wav"
+    },
+    {
+      "text": "一座超过一百层的建筑，把人类能够向上建造的高度，又推进了一步。",
+      "file": "full-film/01/voice/02-df291b3f54f631c3.mp3",
+      "duration": 6.12,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 1750000,
+          "text": "一"
+        },
+        {
+          "offset": 2750000,
+          "duration": 1000000,
+          "text": "座"
+        },
+        {
+          "offset": 4000000,
+          "duration": 3125000,
+          "text": "超过"
+        },
+        {
+          "offset": 7375000,
+          "duration": 3000000,
+          "text": "一百"
+        },
+        {
+          "offset": 10375000,
+          "duration": 1500000,
+          "text": "层"
+        },
+        {
+          "offset": 11875000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 12750000,
+          "duration": 4375000,
+          "text": "建筑"
+        },
+        {
+          "offset": 21125000,
+          "duration": 1500000,
+          "text": "把"
+        },
+        {
+          "offset": 22750000,
+          "duration": 3000000,
+          "text": "人类"
+        },
+        {
+          "offset": 26000000,
+          "duration": 1875000,
+          "text": "能够"
+        },
+        {
+          "offset": 28000000,
+          "duration": 4000000,
+          "text": "向上"
+        },
+        {
+          "offset": 32125000,
+          "duration": 3000000,
+          "text": "建造"
+        },
+        {
+          "offset": 35125000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 36000000,
+          "duration": 3875000,
+          "text": "高度"
+        },
+        {
+          "offset": 42500000,
+          "duration": 2500000,
+          "text": "又"
+        },
+        {
+          "offset": 45125000,
+          "duration": 3500000,
+          "text": "推进"
+        },
+        {
+          "offset": 48625000,
+          "duration": 750000,
+          "text": "了"
+        },
+        {
+          "offset": 49500000,
+          "duration": 1125000,
+          "text": "一"
+        },
+        {
+          "offset": 50625000,
+          "duration": 1875000,
+          "text": "步"
+        }
+      ],
+      "start": 5.326,
+      "end": 11.446,
+      "wav": "full-film/01/voice/02-df291b3f54f631c3.wav"
+    },
+    {
+      "text": "但在街道另一头，经济已经是另一番景象。美国正陷在大萧条之中：企业收缩，工人失业，银行体系不断承受压力。",
+      "file": "full-film/01/voice/03-9ea42183e9b3a649.mp3",
+      "duration": 11.544,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 1750000,
+          "text": "但"
+        },
+        {
+          "offset": 2750000,
+          "duration": 1000000,
+          "text": "在"
+        },
+        {
+          "offset": 3875000,
+          "duration": 2250000,
+          "text": "街道"
+        },
+        {
+          "offset": 6250000,
+          "duration": 1500000,
+          "text": "另"
+        },
+        {
+          "offset": 7750000,
+          "duration": 1000000,
+          "text": "一"
+        },
+        {
+          "offset": 8750000,
+          "duration": 3875000,
+          "text": "头"
+        },
+        {
+          "offset": 15375000,
+          "duration": 6000000,
+          "text": "经济"
+        },
+        {
+          "offset": 21500000,
+          "duration": 2375000,
+          "text": "已经"
+        },
+        {
+          "offset": 23875000,
+          "duration": 1250000,
+          "text": "是"
+        },
+        {
+          "offset": 25375000,
+          "duration": 1375000,
+          "text": "另"
+        },
+        {
+          "offset": 26750000,
+          "duration": 2375000,
+          "text": "一番"
+        },
+        {
+          "offset": 29250000,
+          "duration": 4000000,
+          "text": "景象"
+        },
+        {
+          "offset": 39000000,
+          "duration": 5500000,
+          "text": "美国"
+        },
+        {
+          "offset": 45500000,
+          "duration": 2625000,
+          "text": "正"
+        },
+        {
+          "offset": 48125000,
+          "duration": 1750000,
+          "text": "陷"
+        },
+        {
+          "offset": 49875000,
+          "duration": 1250000,
+          "text": "在"
+        },
+        {
+          "offset": 51375000,
+          "duration": 1625000,
+          "text": "大"
+        },
+        {
+          "offset": 53000000,
+          "duration": 3125000,
+          "text": "萧条"
+        },
+        {
+          "offset": 56250000,
+          "duration": 4250000,
+          "text": "之中"
+        },
+        {
+          "offset": 64000000,
+          "duration": 3750000,
+          "text": "企业"
+        },
+        {
+          "offset": 67875000,
+          "duration": 5500000,
+          "text": "收缩"
+        },
+        {
+          "offset": 75125000,
+          "duration": 3625000,
+          "text": "工人"
+        },
+        {
+          "offset": 78875000,
+          "duration": 4750000,
+          "text": "失业"
+        },
+        {
+          "offset": 87250000,
+          "duration": 3500000,
+          "text": "银行"
+        },
+        {
+          "offset": 90875000,
+          "duration": 5125000,
+          "text": "体系"
+        },
+        {
+          "offset": 96250000,
+          "duration": 3125000,
+          "text": "不断"
+        },
+        {
+          "offset": 99500000,
+          "duration": 3375000,
+          "text": "承受"
+        },
+        {
+          "offset": 103000000,
+          "duration": 3625000,
+          "text": "压力"
+        }
+      ],
+      "start": 11.666,
+      "end": 23.21,
+      "wav": "full-film/01/voice/03-9ea42183e9b3a649.wav"
+    },
+    {
+      "text": "一边是刷新纪录的高楼，一边是不断下沉的经济。把它们放在同一张照片里，很容易产生一个疑问：为什么人类最宏大的建筑，有时偏偏出现在经济最难看的年份？",
+      "file": "full-film/01/voice/04-cc2dc32ca7b00e76.mp3",
+      "duration": 14.352,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 3000000,
+          "text": "一边"
+        },
+        {
+          "offset": 4000000,
+          "duration": 1000000,
+          "text": "是"
+        },
+        {
+          "offset": 5250000,
+          "duration": 4250000,
+          "text": "刷新"
+        },
+        {
+          "offset": 9625000,
+          "duration": 2375000,
+          "text": "纪录"
+        },
+        {
+          "offset": 12000000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 12875000,
+          "duration": 5750000,
+          "text": "高楼"
+        },
+        {
+          "offset": 21375000,
+          "duration": 2500000,
+          "text": "一边"
+        },
+        {
+          "offset": 23875000,
+          "duration": 1125000,
+          "text": "是"
+        },
+        {
+          "offset": 25250000,
+          "duration": 2750000,
+          "text": "不断"
+        },
+        {
+          "offset": 28125000,
+          "duration": 3375000,
+          "text": "下沉"
+        },
+        {
+          "offset": 31500000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 32375000,
+          "duration": 4000000,
+          "text": "经济"
+        },
+        {
+          "offset": 42125000,
+          "duration": 1625000,
+          "text": "把"
+        },
+        {
+          "offset": 43875000,
+          "duration": 4750000,
+          "text": "它们"
+        },
+        {
+          "offset": 49750000,
+          "duration": 2000000,
+          "text": "放"
+        },
+        {
+          "offset": 51750000,
+          "duration": 1125000,
+          "text": "在"
+        },
+        {
+          "offset": 53125000,
+          "duration": 2250000,
+          "text": "同"
+        },
+        {
+          "offset": 55375000,
+          "duration": 750000,
+          "text": "一"
+        },
+        {
+          "offset": 56125000,
+          "duration": 1375000,
+          "text": "张"
+        },
+        {
+          "offset": 57625000,
+          "duration": 4125000,
+          "text": "照片"
+        },
+        {
+          "offset": 61750000,
+          "duration": 2500000,
+          "text": "里"
+        },
+        {
+          "offset": 67000000,
+          "duration": 2000000,
+          "text": "很"
+        },
+        {
+          "offset": 69125000,
+          "duration": 2250000,
+          "text": "容易"
+        },
+        {
+          "offset": 71500000,
+          "duration": 5500000,
+          "text": "产生"
+        },
+        {
+          "offset": 78000000,
+          "duration": 2125000,
+          "text": "一个"
+        },
+        {
+          "offset": 80250000,
+          "duration": 3875000,
+          "text": "疑问"
+        },
+        {
+          "offset": 87875000,
+          "duration": 4875000,
+          "text": "为什么"
+        },
+        {
+          "offset": 92875000,
+          "duration": 2500000,
+          "text": "人类"
+        },
+        {
+          "offset": 95625000,
+          "duration": 1875000,
+          "text": "最"
+        },
+        {
+          "offset": 97500000,
+          "duration": 3000000,
+          "text": "宏大"
+        },
+        {
+          "offset": 100500000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 101375000,
+          "duration": 4750000,
+          "text": "建筑"
+        },
+        {
+          "offset": 109875000,
+          "duration": 2875000,
+          "text": "有时"
+        },
+        {
+          "offset": 113000000,
+          "duration": 2500000,
+          "text": "偏偏"
+        },
+        {
+          "offset": 115625000,
+          "duration": 3000000,
+          "text": "出现"
+        },
+        {
+          "offset": 118625000,
+          "duration": 1250000,
+          "text": "在"
+        },
+        {
+          "offset": 120125000,
+          "duration": 3500000,
+          "text": "经济"
+        },
+        {
+          "offset": 123875000,
+          "duration": 2375000,
+          "text": "最"
+        },
+        {
+          "offset": 126250000,
+          "duration": 3750000,
+          "text": "难看"
+        },
+        {
+          "offset": 130000000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 130750000,
+          "duration": 4000000,
+          "text": "年份"
+        }
+      ],
+      "start": 23.43,
+      "end": 37.782,
+      "wav": "full-film/01/voice/04-cc2dc32ca7b00e76.wav"
+    },
+    {
+      "text": "类似的画面，也出现在后来的迪拜。2009年11月，迪拜世界及其子公司的债务延期偿付风波震动市场。2010年1月4日，哈利法塔正式开幕。",
+      "file": "full-film/01/voice/05-c34383cbad1b2a86.mp3",
+      "duration": 14.256,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 3125000,
+          "text": "类似"
+        },
+        {
+          "offset": 4125000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 5000000,
+          "duration": 5625000,
+          "text": "画面"
+        },
+        {
+          "offset": 12750000,
+          "duration": 1500000,
+          "text": "也"
+        },
+        {
+          "offset": 14375000,
+          "duration": 3375000,
+          "text": "出现"
+        },
+        {
+          "offset": 17750000,
+          "duration": 875000,
+          "text": "在"
+        },
+        {
+          "offset": 18875000,
+          "duration": 2375000,
+          "text": "后来"
+        },
+        {
+          "offset": 21250000,
+          "duration": 875000,
+          "text": "的"
+        },
+        {
+          "offset": 22250000,
+          "duration": 3625000,
+          "text": "迪拜"
+        },
+        {
+          "offset": 31625000,
+          "duration": 13875000,
+          "text": "2009年11月"
+        },
+        {
+          "offset": 48750000,
+          "duration": 2750000,
+          "text": "迪拜"
+        },
+        {
+          "offset": 51625000,
+          "duration": 4875000,
+          "text": "世界"
+        },
+        {
+          "offset": 56750000,
+          "duration": 3125000,
+          "text": "及其"
+        },
+        {
+          "offset": 60000000,
+          "duration": 4375000,
+          "text": "子公司"
+        },
+        {
+          "offset": 64375000,
+          "duration": 1500000,
+          "text": "的"
+        },
+        {
+          "offset": 66125000,
+          "duration": 3000000,
+          "text": "债务"
+        },
+        {
+          "offset": 69250000,
+          "duration": 5000000,
+          "text": "延期"
+        },
+        {
+          "offset": 75375000,
+          "duration": 4875000,
+          "text": "偿付"
+        },
+        {
+          "offset": 80375000,
+          "duration": 4750000,
+          "text": "风波"
+        },
+        {
+          "offset": 86125000,
+          "duration": 3500000,
+          "text": "震动"
+        },
+        {
+          "offset": 89750000,
+          "duration": 4625000,
+          "text": "市场"
+        },
+        {
+          "offset": 100125000,
+          "duration": 15750000,
+          "text": "2010年1月4日"
+        },
+        {
+          "offset": 118500000,
+          "duration": 7500000,
+          "text": "哈利法塔"
+        },
+        {
+          "offset": 126250000,
+          "duration": 3750000,
+          "text": "正式"
+        },
+        {
+          "offset": 130125000,
+          "duration": 3750000,
+          "text": "开幕"
+        }
+      ],
+      "start": 38.001999999999995,
+      "end": 52.257999999999996,
+      "wav": "full-film/01/voice/05-c34383cbad1b2a86.wav"
+    },
+    {
+      "text": "于是，这类故事被串成了一个颇有吸引力的说法：摩天大楼指数。仿佛只要世界最高楼准备亮灯，经济危机就已经在门外排队。",
+      "file": "full-film/01/voice/06-533a93e45e492e73.mp3",
+      "duration": 11.592,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 5625000,
+          "text": "于是"
+        },
+        {
+          "offset": 10750000,
+          "duration": 1875000,
+          "text": "这"
+        },
+        {
+          "offset": 12625000,
+          "duration": 1125000,
+          "text": "类"
+        },
+        {
+          "offset": 13875000,
+          "duration": 4625000,
+          "text": "故事"
+        },
+        {
+          "offset": 18750000,
+          "duration": 1125000,
+          "text": "被"
+        },
+        {
+          "offset": 20000000,
+          "duration": 3125000,
+          "text": "串成"
+        },
+        {
+          "offset": 23125000,
+          "duration": 750000,
+          "text": "了"
+        },
+        {
+          "offset": 24000000,
+          "duration": 1625000,
+          "text": "一个"
+        },
+        {
+          "offset": 25875000,
+          "duration": 3125000,
+          "text": "颇有"
+        },
+        {
+          "offset": 29125000,
+          "duration": 4125000,
+          "text": "吸引力"
+        },
+        {
+          "offset": 33250000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 34000000,
+          "duration": 4750000,
+          "text": "说法"
+        },
+        {
+          "offset": 41875000,
+          "duration": 8250000,
+          "text": "摩天大楼"
+        },
+        {
+          "offset": 50250000,
+          "duration": 4250000,
+          "text": "指数"
+        },
+        {
+          "offset": 60250000,
+          "duration": 4000000,
+          "text": "仿佛"
+        },
+        {
+          "offset": 64375000,
+          "duration": 2125000,
+          "text": "只要"
+        },
+        {
+          "offset": 66750000,
+          "duration": 3125000,
+          "text": "世界"
+        },
+        {
+          "offset": 70000000,
+          "duration": 3250000,
+          "text": "最高"
+        },
+        {
+          "offset": 73250000,
+          "duration": 1625000,
+          "text": "楼"
+        },
+        {
+          "offset": 75125000,
+          "duration": 2125000,
+          "text": "准备"
+        },
+        {
+          "offset": 77375000,
+          "duration": 4625000,
+          "text": "亮灯"
+        },
+        {
+          "offset": 85750000,
+          "duration": 8125000,
+          "text": "经济危机"
+        },
+        {
+          "offset": 94125000,
+          "duration": 1625000,
+          "text": "就"
+        },
+        {
+          "offset": 95875000,
+          "duration": 2125000,
+          "text": "已经"
+        },
+        {
+          "offset": 98000000,
+          "duration": 1375000,
+          "text": "在"
+        },
+        {
+          "offset": 99625000,
+          "duration": 3125000,
+          "text": "门外"
+        },
+        {
+          "offset": 102875000,
+          "duration": 4125000,
+          "text": "排队"
+        }
+      ],
+      "start": 52.477999999999994,
+      "end": 64.07,
+      "wav": "full-film/01/voice/06-533a93e45e492e73.wav"
+    },
+    {
+      "text": "但一栋楼，真的有这样的预言能力吗？",
+      "file": "full-film/01/voice/07-9e974ab948a6079b.mp3",
+      "duration": 3.6,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 1500000,
+          "text": "但"
+        },
+        {
+          "offset": 2625000,
+          "duration": 1250000,
+          "text": "一"
+        },
+        {
+          "offset": 3875000,
+          "duration": 1625000,
+          "text": "栋"
+        },
+        {
+          "offset": 5500000,
+          "duration": 3750000,
+          "text": "楼"
+        },
+        {
+          "offset": 13000000,
+          "duration": 3125000,
+          "text": "真的"
+        },
+        {
+          "offset": 16125000,
+          "duration": 1000000,
+          "text": "有"
+        },
+        {
+          "offset": 17375000,
+          "duration": 2000000,
+          "text": "这样"
+        },
+        {
+          "offset": 19375000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 20250000,
+          "duration": 2250000,
+          "text": "预言"
+        },
+        {
+          "offset": 22625000,
+          "duration": 2750000,
+          "text": "能力"
+        },
+        {
+          "offset": 25375000,
+          "duration": 1875000,
+          "text": "吗"
+        }
+      ],
+      "start": 64.28999999999999,
+      "end": 67.88999999999999,
+      "wav": "full-film/01/voice/07-9e974ab948a6079b.wav"
+    },
+    {
+      "text": "要回答这个问题，我们得把目光从楼顶，移到银行的合同和开发商的账本上。",
+      "file": "full-film/01/voice/08-9e2d736b541a287c.mp3",
+      "duration": 6.96,
+      "words": [
+        {
+          "offset": 1000000,
+          "duration": 1750000,
+          "text": "要"
+        },
+        {
+          "offset": 2875000,
+          "duration": 2750000,
+          "text": "回答"
+        },
+        {
+          "offset": 5875000,
+          "duration": 1625000,
+          "text": "这个"
+        },
+        {
+          "offset": 7625000,
+          "duration": 5375000,
+          "text": "问题"
+        },
+        {
+          "offset": 16500000,
+          "duration": 2250000,
+          "text": "我们"
+        },
+        {
+          "offset": 18750000,
+          "duration": 1000000,
+          "text": "得"
+        },
+        {
+          "offset": 19750000,
+          "duration": 1125000,
+          "text": "把"
+        },
+        {
+          "offset": 21000000,
+          "duration": 3500000,
+          "text": "目光"
+        },
+        {
+          "offset": 24750000,
+          "duration": 1750000,
+          "text": "从"
+        },
+        {
+          "offset": 26625000,
+          "duration": 4250000,
+          "text": "楼顶"
+        },
+        {
+          "offset": 34250000,
+          "duration": 1250000,
+          "text": "移"
+        },
+        {
+          "offset": 35500000,
+          "duration": 1125000,
+          "text": "到"
+        },
+        {
+          "offset": 36875000,
+          "duration": 3375000,
+          "text": "银行"
+        },
+        {
+          "offset": 40250000,
+          "duration": 750000,
+          "text": "的"
+        },
+        {
+          "offset": 41125000,
+          "duration": 5000000,
+          "text": "合同"
+        },
+        {
+          "offset": 47250000,
+          "duration": 1500000,
+          "text": "和"
+        },
+        {
+          "offset": 48875000,
+          "duration": 5250000,
+          "text": "开发商"
+        },
+        {
+          "offset": 54125000,
+          "duration": 625000,
+          "text": "的"
+        },
+        {
+          "offset": 54875000,
+          "duration": 3625000,
+          "text": "账本"
+        },
+        {
+          "offset": 58500000,
+          "duration": 2500000,
+          "text": "上"
+        }
+      ],
+      "start": 68.10999999999999,
+      "end": 75.06999999999998,
+      "wav": "full-film/01/voice/08-9e2d736b541a287c.wav"
+    }
+  ]
+}

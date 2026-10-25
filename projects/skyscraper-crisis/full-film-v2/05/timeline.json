@@ -1,0 +1,234 @@
+[
+  {
+    "scene": 1,
+    "narration": "接下来，时间开始发挥作用。",
+    "mode": "clock",
+    "title": "时间，开始发挥作用",
+    "detail": "建筑进度与市场速度",
+    "assets": [
+      "old_core",
+      "ledger"
+    ],
+    "visible_evidence": [
+      "上一版已生成、只在相应情境使用的 old_core",
+      "账本、贷款还款表和到期日相互核对"
+    ],
+    "start": 0,
+    "end": 3.6460000000000004,
+    "beats": [
+      {
+        "asset": "old_core",
+        "start": 0,
+        "end": 1.8230000000000002
+      },
+      {
+        "asset": "ledger",
+        "start": 1.8230000000000002,
+        "end": 3.6460000000000004
+      }
+    ]
+  },
+  {
+    "scene": 2,
+    "narration": "从规划、审批、融资，到施工和交付，大型项目需要经过一连串环节。以双子塔为例，吉隆坡国家石油公司双子塔从1992年开始规划，到1999年正式开幕，跨过了好几年。",
+    "mode": "petronas",
+    "title": "规划到开幕，跨过多年",
+    "detail": "双子塔：1992 开始规划 → 1999 正式开幕",
+    "assets": [
+      "petronas_motion",
+      "petronas_photo"
+    ],
+    "visible_evidence": [
+      "双子塔设计事务所实景照片的动态编排，保留双塔与空中连桥",
+      "双子塔官方建筑照片与1992至1999年时间线"
+    ],
+    "start": 3.6460000000000004,
+    "end": 21.458,
+    "beats": [
+      {
+        "asset": "petronas_motion",
+        "start": 3.6460000000000004,
+        "end": 12.552
+      },
+      {
+        "asset": "petronas_photo",
+        "start": 12.552,
+        "end": 21.458
+      }
+    ]
+  },
+  {
+    "scene": 3,
+    "narration": "可金融市场不会等施工队。",
+    "mode": "speed",
+    "title": "市场不会等施工队",
+    "detail": "金融预期可以迅速改变",
+    "assets": [
+      "exchange",
+      "old_core"
+    ],
+    "visible_evidence": [
+      "1929年代交易员、纸带与交易所，区别于建筑工地",
+      "上一版已生成、只在相应情境使用的 old_core"
+    ],
+    "start": 21.458,
+    "end": 24.99,
+    "beats": [
+      {
+        "asset": "exchange",
+        "start": 21.458,
+        "end": 23.223999999999997
+      },
+      {
+        "asset": "old_core",
+        "start": 23.223999999999997,
+        "end": 24.99
+      }
+    ]
+  },
+  {
+    "scene": 4,
+    "narration": "一张订单可以取消，一笔贷款可以到期，一家公司可以停止扩张。建到一半的核心筒，却无法跟着市场消息立即变回现金。",
+    "mode": "commitment",
+    "title": "订单能取消，核心筒不能变现",
+    "detail": "施工中的资本，被锁在项目里",
+    "assets": [
+      "cancel_order",
+      "old_core"
+    ],
+    "visible_evidence": [
+      "企业把扩张计划从待执行文件中撤下",
+      "上一版已生成、只在相应情境使用的 old_core"
+    ],
+    "start": 24.99,
+    "end": 36.514,
+    "beats": [
+      {
+        "asset": "cancel_order",
+        "start": 24.99,
+        "end": 30.86
+      },
+      {
+        "asset": "old_core",
+        "start": 30.86,
+        "end": 36.514
+      }
+    ]
+  },
+  {
+    "scene": 5,
+    "narration": "假设开工那年，企业还在增加员工，写字楼租金也在上涨。几年后，项目准备交付，企业却开始压缩成本，减少办公面积。",
+    "mode": "demand_shift",
+    "title": "开工时扩张，交付时收缩",
+    "detail": "企业需求前后对照 · 虚构示例",
+    "assets": [
+      "growth",
+      "contraction"
+    ],
+    "visible_evidence": [
+      "新员工与新增工位说明企业扩张",
+      "撤走电脑、堆起椅子，缩减实际办公空间"
+    ],
+    "start": 36.514,
+    "end": 48.686,
+    "beats": [
+      {
+        "asset": "growth",
+        "start": 36.514,
+        "end": 41.8465
+      },
+      {
+        "asset": "contraction",
+        "start": 41.8465,
+        "end": 48.686
+      }
+    ]
+  },
+  {
+    "scene": 6,
+    "narration": "开发商当年画在图纸上的需求，和今天真正来签租约的客户，就出现了差距。",
+    "mode": "mismatch",
+    "title": "图纸上的需求 ≠ 实际租约",
+    "detail": "预测客户 / 签约客户",
+    "assets": [
+      "planning",
+      "vacancy"
+    ],
+    "visible_evidence": [
+      "开发商在办公楼模型和地块图上做决策",
+      "空工位和让步中的租约谈判"
+    ],
+    "start": 48.686,
+    "end": 55.53,
+    "beats": [
+      {
+        "asset": "planning",
+        "start": 48.686,
+        "end": 52.108000000000004
+      },
+      {
+        "asset": "vacancy",
+        "start": 52.108000000000004,
+        "end": 55.53
+      }
+    ]
+  },
+  {
+    "scene": 7,
+    "narration": "这也解释了为什么，高楼竣工和经济下行，有时会出现在相近的时间：施工计划还在兑现过去的决定，市场已经在交易新的现实。",
+    "mode": "lag",
+    "title": "建设兑现旧决定，市场面对新现实",
+    "detail": "时间差示意，不是统计曲线",
+    "assets": [
+      "old_core",
+      "contraction"
+    ],
+    "visible_evidence": [
+      "上一版已生成、只在相应情境使用的 old_core",
+      "撤走电脑、堆起椅子，缩减实际办公空间"
+    ],
+    "start": 55.53,
+    "end": 66.502,
+    "beats": [
+      {
+        "asset": "old_core",
+        "start": 55.53,
+        "end": 63.574999999999996
+      },
+      {
+        "asset": "contraction",
+        "start": 63.574999999999996,
+        "end": 66.502
+      }
+    ]
+  },
+  {
+    "scene": 8,
+    "narration": "这个时间差能解释一些现象，却不能证明每座高楼都遵循同一条规律。",
+    "mode": "limit",
+    "title": "能解释现象，不能包办规律",
+    "detail": "并非每座高楼都会遇到经济下行",
+    "assets": [
+      "petronas_motion",
+      "old_review"
+    ],
+    "visible_evidence": [
+      "双子塔设计事务所实景照片的动态编排，保留双塔与空中连桥",
+      "上一版已生成、只在相应情境使用的 old_review"
+    ],
+    "start": 66.502,
+    "end": 74.24,
+    "beats": [
+      {
+        "asset": "petronas_motion",
+        "start": 66.502,
+        "end": 70.371
+      },
+      {
+        "asset": "old_review",
+        "start": 70.371,
+        "end": 74.24
+      }
+    ]
+  }
+]
