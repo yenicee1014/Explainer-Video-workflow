@@ -1,0 +1,15 @@
+{
+  "name": "nasa-punk-code-rebuild",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-full.mjs",
+    "build:full": "node scripts/build-full.mjs",
+    "dev": "node scripts/hyperframes.mjs preview --background",
+    "check": "node scripts/hyperframes.mjs check --samples 24 --snapshots",
+    "render": "node scripts/hyperframes.mjs render --quality delivery --fps 30 --workers 2 --output renders/nasa-punk-full-rebuild.mp4"
+  },
+  "production": {
+    "hyperframes": "0.8.201"
+  }
+}

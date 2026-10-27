@@ -1,0 +1,21 @@
+<!doctype html><html><body><template>
+<style>
+@font-face{font-family:Archivo;src:url("../assets/fonts/Archivo.ttf");font-weight:100 900}
+@font-face{font-family:SpaceMono;src:url("../assets/fonts/SpaceMono-Regular.ttf");font-weight:400}
+@font-face{font-family:NotoSC;src:url("../assets/fonts/NotoSansSC-Regular.woff");font-weight:400}
+@font-face{font-family:NotoSC;src:url("../assets/fonts/NotoSansSC-Bold.woff");font-weight:700}
+#nasa-opening{position:absolute;inset:0;overflow:hidden}#nasa-opening svg.scene{width:100%;height:100%;display:block}#nasa-opening .latent{opacity:0}#nasa-opening .paper-shadow{filter:drop-shadow(5px 8px 6px #0005)}#nasa-opening text{font-family:Archivo,NotoSC,sans-serif;letter-spacing:0}#nasa-opening .mono{font-family:SpaceMono,NotoSC,monospace}#nasa-opening .cn{font-family:NotoSC,sans-serif}</style>
+<div id="nasa-opening" data-composition-id="nasa-opening" data-width="1280" data-height="720" data-duration="12">
+<svg class="scene" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720"><image href="../assets/rebuild/desk-texture.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none" /><g id="nasa-opening-camera"  ><image href="../assets/rebuild/hangar.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice" />
+        <g id="nasa-opening-brackets" class="latent" ><path d="M430 210v-22h28m304 0h28v22M430 323v22h28m304 0h28v-22" stroke="#20211d" fill="none" stroke-width="2"/><text x="434" y="175" font-size="10" fill="#20211d" class="mono" data-layout-ignore="" >NASA LOGOTYPE / WORM · 1975</text></g>
+        <g id="nasa-opening-void" class="latent" ><g transform="rotate(-5 620 275)" class="paper-shadow"><rect x="431" y="209" width="361" height="121" fill="#eeebdf"/><text x="476" y="277" font-size="25" fill="#5b5c51" class="mono"  >VOID · 1992</text></g></g>
+        <g id="nasa-opening-identity" class="latent" ><rect x="433" y="374" width="355" height="7" fill="#4c5a68"/><rect x="433" y="381" width="355" height="7" fill="#7a7f4e"/><rect x="433" y="388" width="355" height="7" fill="#d2a85e"/><rect x="433" y="395" width="355" height="7" fill="#a8432f"/><text x="433" y="435" font-size="28" fill="#20211d" class=""  font-weight="800">NASA-PUNK</text><text x="433" y="457" font-size="10" fill="#20211d" class="mono" data-layout-ignore="" >DESIGN VOCABULARY / 04</text></g></g><g data-layout-ignore><text x="24" y="702" font-size="7" fill="#888779" class="mono" data-layout-ignore="" >NASA-PUNK / CODE STUDY</text><text x="1016" y="702" font-size="7" fill="#888779" class="mono" data-layout-ignore="" >04 / 一个被废过的标志</text></g></svg></div>
+<script>(()=>{const tl=gsap.timeline({paused:true});const prefix="nasa-opening";
+const q=name=>'#'+prefix+'-'+name;
+const A={"red":0.65,"retired":4.033875,"future":6.767438};
+const R=(name,time,duration=.55)=>tl.fromTo(q(name),{opacity:0,y:12},{opacity:1,y:0,duration,ease:'power2.out',immediateRender:false},time);
+const F=(name,time,duration=.4)=>tl.to(q(name),{opacity:0,duration,ease:'power1.inOut'},time);
+const D=(name,time,duration=.7)=>tl.fromTo(q(name),{attr:{'stroke-dashoffset':1}},{attr:{'stroke-dashoffset':0},duration,ease:'power1.inOut',immediateRender:false},time);
+tl.fromTo(q('camera'),{scale:1.07,x:-20},{scale:1,x:0,duration:4.2,ease:'power1.inOut'},0);R('brackets',A.red+.8);R('void',A.retired+.5);F('void',A.future+.1);R('identity',A.future+.6);
+window.__timelines["nasa-opening"]=tl;})();</script>
+</template></body></html>

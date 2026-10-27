@@ -108,3 +108,35 @@ python3 -m http.server 3033 --bind 127.0.0.1
 - [本次 Release：完整视频与重渲染素材包](https://github.com/yenicee1014/Explainer-Video-workflow/releases/tag/skyscraper-crisis-v2-2026-10-25)
 
 ![六类具体情节核对](projects/skyscraper-crisis/six-mechanisms.jpg)
+
+---
+
+## 持续迭代：新增《NASA 朋克》（2026-10-27）
+
+这次从路北路陈的《设计风格小课 04》（Bilibili `BV1Tsps6kE6z`）出发，用 HTML、SVG、CSS、GSAP 和 HyperFrames 重建一支讲述 NASA 视觉系统与游戏美术的科普视频。**这是代码重建版，不是原片工程，也不是逐帧 1:1 复刻。** 天气项目与《繁荣的高度》的版本记录保持不变。
+
+- [在线播放：完整有声视频与章节跳转](https://yenicee1014.github.io/Explainer-Video-workflow/nasa-punk.html)
+- [仓库中的完整 MP4](video/nasa-punk-full-rebuild.mp4)
+- [项目说明、章节与交付清单](projects/nasa-punk/README.md)
+- [制作过程解析：从参考拆解到配音、动画、混音与验收](projects/nasa-punk/WORKFLOW.md)
+- [源码快照与复用边界](projects/nasa-punk/source/README.md)
+- [素材溯源与权利说明](projects/nasa-punk/SOURCES_AND_RIGHTS.md)
+
+成片 **5:58.47，1280×720，30fps，H.264 + AAC**，含 14 个代码场景、67 句重新合成的普通话旁白和程序生成的配乐。旁白使用 macOS Tingting，未复用原片完整音轨；文稿、节奏和部分版式与参考作品不同。文件大小、SHA-256 及媒体规格见 [交付清单](projects/nasa-punk/delivery-manifest.json)。
+
+### 这次是怎样做出来的
+
+| 环节 | 实际做法 | 产物与边界 |
+| --- | --- | --- |
+| 拆参考 | 提取联系表、用 OCR 辅助定位章节和画面对象 | 沿用讲述脉络，不声称取得原工程或逐帧还原 |
+| 建时间轴 | 逐句合成录音，检测静音，实测时长 | 67 句的局部与全局锚点；不是词级强制对齐 |
+| 做讲解动作 | 字标横杠移除、比例测量、姿态旋转、截图分层标注 | 14 个独立场景；句内动作按明确相对偏移编排 |
+| 做声音 | 程序合成音床、提示音和章节声标，旁白期间压低配乐 | 新配音、新配乐，非原片声音复制 |
+| 验证并导出 | 先做 31 秒样段，再自动检查、导出、解码与抽帧 | 自动检查和媒体核验已完成，完整人工听看未完成 |
+| 公开归档 | 发布 MP4、字幕、时间轴、源码快照和制作说明 | 不上传参考视频、素材包、字体、语音缓存或密钥 |
+
+部分游戏、电影和服装案例静帧取自参考作品，版权仍归原权利人；个别 ARC Raiders 静帧包含参考作品已有标注。系统语音及第三方图像的公开再分发许可尚未逐项确认，**本次归档不等于授权证明或可商用素材包**。源码快照为研究与复用参考，缺少外部素材，不能开箱即用重渲染。
+
+自动运行、布局及动作检查通过，成片完整解码无错，已检查关键帧及三段输出音轨的数值同步；另外保留了 **38 条 craft 节奏 / 设计启发式警告**（30 条静止时段、6 条文字尺寸、2 条线条阅读提示），不是“零警告”交付。**尚未完成全片正常速度人工听看、逐字校对和词级对齐**，不将自动检查描述为完整语义验收。详见 [检查范围](projects/nasa-punk/verification/README.md)。
+
+![NASA 朋克代码重建版实际成片联系表](projects/nasa-punk/contact-sheet.jpg)

@@ -1,0 +1,441 @@
+[
+  {
+    "file": "hangar.jpg",
+    "source": "reference/source.mp4",
+    "time": 0.1,
+    "crop": [
+      0,
+      85,
+      1280,
+      610
+    ],
+    "underlying_owner": "NASA / SpaceX"
+  },
+  {
+    "file": "saturn.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 25,
+    "crop": [
+      150,
+      85,
+      850,
+      540
+    ],
+    "use": "isolated illustrative still"
+  },
+  {
+    "file": "starfield-landscape.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 49,
+    "crop": [
+      0,
+      85,
+      1280,
+      432
+    ],
+    "use": "isolated illustrative still"
+  },
+  {
+    "file": "storage.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 57,
+    "crop": [
+      65,
+      78,
+      1130,
+      555
+    ],
+    "use": "isolated illustrative still"
+  },
+  {
+    "file": "astronaut.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 50,
+    "source_corners": [
+      [
+        751,
+        122
+      ],
+      [
+        1093,
+        137
+      ],
+      [
+        1077,
+        474
+      ],
+      [
+        736,
+        461
+      ]
+    ],
+    "use": "isolated illustrative still, perspective corrected"
+  },
+  {
+    "file": "apollo-detail.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 50,
+    "source_corners": [
+      [
+        195,
+        140
+      ],
+      [
+        532,
+        123
+      ],
+      [
+        552,
+        487
+      ],
+      [
+        212,
+        500
+      ]
+    ],
+    "use": "isolated illustrative still, perspective corrected"
+  },
+  {
+    "file": "ark.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 67,
+    "source_corners": [
+      [
+        112,
+        96
+      ],
+      [
+        1272,
+        111
+      ],
+      [
+        1269,
+        621
+      ],
+      [
+        98,
+        608
+      ]
+    ],
+    "use": "isolated illustrative still, perspective corrected"
+  },
+  {
+    "file": "ark-notice.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 70,
+    "source_corners": [
+      [
+        396,
+        181
+      ],
+      [
+        959,
+        205
+      ],
+      [
+        949,
+        307
+      ],
+      [
+        389,
+        286
+      ]
+    ],
+    "use": "isolated illustrative still, perspective corrected"
+  },
+  {
+    "file": "ark-rings.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 70,
+    "source_corners": [
+      [
+        736,
+        360
+      ],
+      [
+        990,
+        378
+      ],
+      [
+        972,
+        627
+      ],
+      [
+        717,
+        610
+      ]
+    ],
+    "use": "isolated illustrative still, perspective corrected"
+  },
+  {
+    "file": "ark-character.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 70,
+    "source_corners": [
+      [
+        82,
+        267
+      ],
+      [
+        271,
+        249
+      ],
+      [
+        300,
+        598
+      ],
+      [
+        115,
+        607
+      ]
+    ],
+    "use": "isolated illustrative still, perspective corrected"
+  },
+  {
+    "file": "martian.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 72,
+    "source_corners": [
+      [
+        403,
+        25
+      ],
+      [
+        875,
+        8
+      ],
+      [
+        888,
+        293
+      ],
+      [
+        407,
+        309
+      ]
+    ],
+    "use": "isolated illustrative still, perspective corrected"
+  },
+  {
+    "file": "preston.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 72,
+    "source_corners": [
+      [
+        401,
+        388
+      ],
+      [
+        847,
+        405
+      ],
+      [
+        833,
+        684
+      ],
+      [
+        398,
+        670
+      ]
+    ],
+    "use": "isolated illustrative still, perspective corrected"
+  },
+  {
+    "file": "arc-poster.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 75,
+    "source_corners": [
+      [
+        212,
+        132
+      ],
+      [
+        1058,
+        111
+      ],
+      [
+        1071,
+        582
+      ],
+      [
+        224,
+        606
+      ]
+    ],
+    "use": "isolated illustrative still, perspective corrected"
+  },
+  {
+    "file": "arc-machine.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 77,
+    "source_corners": [
+      [
+        184,
+        86
+      ],
+      [
+        1107,
+        118
+      ],
+      [
+        1091,
+        623
+      ],
+      [
+        167,
+        603
+      ]
+    ],
+    "use": "isolated illustrative still, perspective corrected"
+  },
+  {
+    "file": "arc-player.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 80,
+    "crop": [
+      300,
+      85,
+      900,
+      375
+    ],
+    "use": "isolated illustrative still"
+  },
+  {
+    "file": "arc-bully.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 81,
+    "source_corners": [
+      [
+        210,
+        242
+      ],
+      [
+        626,
+        236
+      ],
+      [
+        629,
+        468
+      ],
+      [
+        214,
+        471
+      ]
+    ],
+    "use": "isolated illustrative still, perspective corrected"
+  },
+  {
+    "file": "arc-stiletto.jpg",
+    "source": "reference/source.mp4",
+    "frame_sample": 81,
+    "source_corners": [
+      [
+        685,
+        253
+      ],
+      [
+        1100,
+        264
+      ],
+      [
+        1096,
+        484
+      ],
+      [
+        681,
+        476
+      ]
+    ],
+    "use": "isolated illustrative still, perspective corrected"
+  },
+  {
+    "file": "meatball.png",
+    "source": "reference/source.mp4",
+    "frame_sample": 5,
+    "underlying_owner": "NASA",
+    "use": "insignia isolated"
+  },
+  {
+    "file": "manual-cover.png",
+    "source": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "page_zero_based": 0,
+    "license": "NASA public-domain material",
+    "edition": "January 1976 official edition of 1975 identity system"
+  },
+  {
+    "file": "manual-logo.png",
+    "source": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "page_zero_based": 4,
+    "license": "NASA public-domain material",
+    "edition": "January 1976 official edition of 1975 identity system"
+  },
+  {
+    "file": "manual-color.png",
+    "source": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "page_zero_based": 6,
+    "license": "NASA public-domain material",
+    "edition": "January 1976 official edition of 1975 identity system"
+  },
+  {
+    "file": "manual-misuse.png",
+    "source": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "page_zero_based": 9,
+    "license": "NASA public-domain material",
+    "edition": "January 1976 official edition of 1975 identity system"
+  },
+  {
+    "file": "manual-grid.png",
+    "source": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "page_zero_based": 10,
+    "license": "NASA public-domain material",
+    "edition": "January 1976 official edition of 1975 identity system"
+  },
+  {
+    "file": "manual-patches.png",
+    "source": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "page_zero_based": 11,
+    "license": "NASA public-domain material",
+    "edition": "January 1976 official edition of 1975 identity system"
+  },
+  {
+    "file": "manual-letter.png",
+    "source": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "page_zero_based": 18,
+    "license": "NASA public-domain material",
+    "edition": "January 1976 official edition of 1975 identity system"
+  },
+  {
+    "file": "manual-type.png",
+    "source": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "page_zero_based": 26,
+    "license": "NASA public-domain material",
+    "edition": "January 1976 official edition of 1975 identity system"
+  },
+  {
+    "file": "manual-truck.png",
+    "source": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "page_zero_based": 48,
+    "license": "NASA public-domain material",
+    "edition": "January 1976 official edition of 1975 identity system"
+  },
+  {
+    "file": "manual-aircraft.png",
+    "source": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "page_zero_based": 54,
+    "license": "NASA public-domain material",
+    "edition": "January 1976 official edition of 1975 identity system"
+  },
+  {
+    "file": "manual-shuttle.png",
+    "source": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "page_zero_based": 55,
+    "license": "NASA public-domain material",
+    "edition": "January 1976 official edition of 1975 identity system"
+  },
+  {
+    "file": "manual-uniform.png",
+    "source": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "page_zero_based": 59,
+    "license": "NASA public-domain material",
+    "edition": "January 1976 official edition of 1975 identity system"
+  }
+]

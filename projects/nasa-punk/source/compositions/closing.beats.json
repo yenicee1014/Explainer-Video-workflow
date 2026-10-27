@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "compositionId": "nasa-closing",
+  "duration": 12,
+  "narrativeAnchors": [
+    {
+      "id": "cover",
+      "time": 0.65,
+      "text": "一本五十年前的手册，留下了一种直到今天仍然可信的未来。"
+    },
+    {
+      "id": "remember",
+      "time": 5.438354,
+      "text": "下次看到白色硬件、复古彩条和大写编号，你就能认出它的来处。"
+    }
+  ],
+  "authoredActions": [
+    "cover：封面回到整体，保留字标几何与四道身份彩条，镜头停稳至旁白结束。"
+  ]
+}

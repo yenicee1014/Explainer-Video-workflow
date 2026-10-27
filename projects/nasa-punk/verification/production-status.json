@@ -1,0 +1,161 @@
+{
+  "requested": "完整代码复刻 BV1Tsps6kE6z",
+  "stage": "exported-pending-human-review",
+  "output_type": "代码重建版，旁白重新合成，非逐帧 1:1",
+  "complete_recreation": false,
+  "full_video_exported": true,
+  "reference": "reference/source.mp4",
+  "original_duration_s": 353.877333,
+  "rebuild_duration_s": 358.466667,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 30,
+  "scene_count": 14,
+  "narration_sentence_count": 67,
+  "voice": "macOS Tingting",
+  "original_audio_used": false,
+  "alignment": "逐句独立录音实测，波形静音检测，句内动作使用明确相对偏移；没有词级强制对齐",
+  "artifacts": {
+    "video": "renders/nasa-punk-full-rebuild.mp4",
+    "captions": "renders/nasa-punk-rebuild.srt",
+    "sample": "renders/nasa-punk-semantic-sample.mp4",
+    "timeline": "rebuild-timeline.json",
+    "sources": "assets/rebuild/provenance.json",
+    "check": "renders/final-check.json",
+    "render_log": "renders/full-render.log",
+    "media_probe": "renders/full-media-probe.json",
+    "audio_sync_check": "renders/audio-sync-check.json",
+    "output_contact_sheet": "renders/output-review/contact-sheet.jpg"
+  },
+  "validation": {
+    "lint_errors": 0,
+    "lint_warnings": 0,
+    "runtime_errors": 0,
+    "runtime_warnings": 0,
+    "layout_errors": 0,
+    "layout_warnings": 0,
+    "layout_info": "头盔特写镜头有意裁切截图，关键帧已检查",
+    "motion_assertions_passed": true,
+    "contrast_sample_errors": 0,
+    "sample_export_verified": true,
+    "full_keyframes_inspected": true,
+    "mix_loudness_lufs": -16,
+    "mix_true_peak_dbfs": -2.5,
+    "full_output_media_probe": {
+      "duration_s": 358.466667,
+      "size_bytes": 38434507,
+      "video_codec": "h264",
+      "resolution": [
+        1280,
+        720
+      ],
+      "fps": "30/1",
+      "frame_count": 10754,
+      "audio_codec": "aac",
+      "audio_sample_rate_hz": 48000,
+      "audio_channels": 2
+    },
+    "full_output_decode_without_errors": true,
+    "output_beginning_middle_end_frames_inspected": true,
+    "audio_sync": {
+      "method": "原混音与输出音轨解码波形的 FFT 互相关",
+      "segment_starts_s": [
+        1,
+        180,
+        330
+      ],
+      "segment_duration_s": 15,
+      "offset_s": -0.0106875,
+      "minimum_aligned_correlation": 0.99269,
+      "within_one_video_frame": true
+    },
+    "full_speed_human_audio_visual_review": false,
+    "word_by_word_human_proofread": false,
+    "craft_warning_count": 38,
+    "craft_warning_codes": {
+      "dead_stretch": 30,
+      "text_below_floor": 6,
+      "line_unread": 2
+    }
+  },
+  "chapters": [
+    {
+      "start": 0,
+      "title": "一个被废过的标志",
+      "status": "validated"
+    },
+    {
+      "start": 12,
+      "title": "1974 年的提案：蠕虫",
+      "status": "validated"
+    },
+    {
+      "start": 43,
+      "title": "一本管住一切的手册",
+      "status": "validated"
+    },
+    {
+      "start": 91.533333,
+      "title": "为什么它看起来像未来",
+      "status": "validated"
+    },
+    {
+      "start": 109.533333,
+      "title": "1992 年，蠕虫被废",
+      "status": "validated"
+    },
+    {
+      "start": 148.033333,
+      "title": "设计师没忘",
+      "status": "validated"
+    },
+    {
+      "start": 172.033333,
+      "title": "《星空》：NASA 朋克",
+      "status": "validated"
+    },
+    {
+      "start": 203.033333,
+      "title": "拆一张《星空》截图",
+      "status": "validated"
+    },
+    {
+      "start": 255.3,
+      "title": "明日方舟「孤星」",
+      "status": "validated"
+    },
+    {
+      "start": 271.966667,
+      "title": "各有各的长法",
+      "status": "validated"
+    },
+    {
+      "start": 290.5,
+      "title": "ARC Raiders 的美术",
+      "status": "validated"
+    },
+    {
+      "start": 327.6,
+      "title": "风格卡",
+      "status": "validated"
+    },
+    {
+      "start": 340.466667,
+      "title": "五十年前的未来",
+      "status": "validated"
+    },
+    {
+      "start": 352.466667,
+      "title": "代码重建",
+      "status": "validated"
+    }
+  ],
+  "remaining_review": [
+    "全片正常速度人工听看",
+    "逐字人工校对",
+    "与原片逐帧比对；本版不声称 1:1"
+  ],
+  "publication_note": "Local production status with craft warning counts added from final-check.json. Individual chapters marked validated do not mean full human semantic approval. Excluded artifacts remain local and are not part of this archive."
+}

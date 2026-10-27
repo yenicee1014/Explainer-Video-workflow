@@ -1,0 +1,37 @@
+[
+  {
+    "repo": "google/fonts",
+    "file": "ofl/archivo/Archivo[wdth,wght].ttf",
+    "out": "fonts/Archivo.ttf",
+    "url": "https://github.com/google/fonts/blob/main/ofl/archivo/Archivo%5Bwdth,wght%5D.ttf",
+    "sha": "cc64253d36665a5ca0d6719cdf1e32b3de453b51"
+  },
+  {
+    "repo": "google/fonts",
+    "file": "ofl/archivo/OFL.txt",
+    "out": "licenses/Archivo-OFL.txt",
+    "url": "https://github.com/google/fonts/blob/main/ofl/archivo/OFL.txt",
+    "sha": "8597481ebc941863ab228e79ea4305507cd73cc6"
+  },
+  {
+    "repo": "google/fonts",
+    "file": "ofl/spacemono/SpaceMono-Regular.ttf",
+    "out": "fonts/SpaceMono-Regular.ttf",
+    "url": "https://github.com/google/fonts/blob/main/ofl/spacemono/SpaceMono-Regular.ttf",
+    "sha": "1cfa3653dc8ddb7aa9f4ef1c9c581e9516137e6e"
+  },
+  {
+    "repo": "google/fonts",
+    "file": "ofl/spacemono/OFL.txt",
+    "out": "licenses/SpaceMono-OFL.txt",
+    "url": "https://github.com/google/fonts/blob/main/ofl/spacemono/OFL.txt",
+    "sha": "a72b0a7845bec3214559673ffeba60c816a21841"
+  },
+  {
+    "repo": "simple-icons/simple-icons",
+    "file": "icons/nasa.svg",
+    "out": "images/nasa.svg",
+    "url": "https://github.com/simple-icons/simple-icons/blob/main/icons/nasa.svg",
+    "sha": "8aff9ca52c4e7b60eda0af69c477a1e7a70a6817"
+  }
+]

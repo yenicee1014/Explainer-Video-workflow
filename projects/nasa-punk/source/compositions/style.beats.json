@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "compositionId": "nasa-style",
+  "duration": 12.866666666666667,
+  "narrativeAnchors": [
+    {
+      "id": "card",
+      "time": 0.65,
+      "text": "把这些线索收成一张风格卡：底材、结构、图案、标签、身份、强调和痕迹。"
+    },
+    {
+      "id": "vocabulary",
+      "time": 7.656188,
+      "text": "叫得出名字，也说得清规则，才有了可以沟通的风格词汇。"
+    }
+  ],
+  "authoredActions": [
+    "card：七个视觉层依次进入，图标、名称、英文标签各自固定位置。",
+    "vocabulary：彩条连接到风格词汇的用途；七层结束后保持全卡可读。"
+  ]
+}

@@ -30,3 +30,6 @@ output/
 /projects/skyscraper-crisis/full-film-v2/assets/*/motion.mp4
 /projects/skyscraper-crisis/full-film-v2/frame-cache/
 /projects/skyscraper-crisis/full-film-v2/research/*.jpg
+
+# Explicitly published NASA-punk code rebuild
+!/video/nasa-punk-full-rebuild.mp4

@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "compositionId": "nasa-lonetrail",
+  "duration": 16.666666666666668,
+  "narrativeAnchors": [
+    {
+      "id": "screen",
+      "time": 0.65,
+      "text": "明日方舟的孤星，也把航天题材变成了一套界面语言。"
+    },
+    {
+      "id": "stripes",
+      "time": 5.090458,
+      "text": "竖条、项目代号、黑灰底色，再给最关键的位置一点橙色。"
+    },
+    {
+      "id": "notice",
+      "time": 10.156187,
+      "text": "它又加入米白的公告页。"
+    },
+    {
+      "id": "rings",
+      "time": 12.1235,
+      "text": "还有一圈圈同心圆。这是它自己长出来的部分。"
+    }
+  ],
+  "authoredActions": [
+    "stripes：竖条与橙色按钮分别连接到说明，强调功能与身份关系。",
+    "notice / rings：公告页面和圆形视觉进入前景，保留原界面作对照。"
+  ]
+}

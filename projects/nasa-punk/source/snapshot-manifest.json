@@ -1,0 +1,190 @@
+{
+  "description": "Byte-for-byte production source snapshot. README and this inventory are publication additions; excluded resources are not provided.",
+  "self_contained": false,
+  "files": [
+    {
+      "path": "rebuild-script.json",
+      "sha256": "ceb34ce885f3bd4f3522ebecad1a8b420f7a99c75e8a030da924052fb7c0fc87"
+    },
+    {
+      "path": "rebuild-timeline.json",
+      "sha256": "a6dce0779849909d4d7d448d3ef58ab693371379ce239bb0aa68497c78eb9dcb"
+    },
+    {
+      "path": "STORYBOARD.md",
+      "sha256": "cc5b11e02721829c4abfc7a077e79858a4a240199d24551573d1d77847b89fb0"
+    },
+    {
+      "path": "package.json",
+      "sha256": "295fe51c9bf19dc8ad2e3bca2364e87c48aa3c86b6b3a446ed2a364c36865e86"
+    },
+    {
+      "path": "hyperframes.json",
+      "sha256": "64e41839ac1f4fcd97df81c05b4d66356734e2b149cfbedaedf626fbcde0c387"
+    },
+    {
+      "path": "index.html",
+      "sha256": "b5375b6f6cea973e63dfbdc2143600a0d6c6c5984d24596b2c3dca1439bb218a"
+    },
+    {
+      "path": "index.motion.json",
+      "sha256": "a7589648fa4b8fd04275979dbd7f0cfad1d33dbd9b1726fad9092c68e837cb6e"
+    },
+    {
+      "path": "scripts/rebuild-scenes.mjs",
+      "sha256": "d6a96ae77b996aec106c8d85d0ce6c6686ce12c7a2c72757310928101eafada4"
+    },
+    {
+      "path": "scripts/build-full.mjs",
+      "sha256": "700e5efec839ea87d4f7e17be0ce84729a6cbe1bf68e964488f940ae45a3dddf"
+    },
+    {
+      "path": "scripts/prepare-rebuild-audio.mjs",
+      "sha256": "479df94be90aa9b61212c58a65c80f1ae82d6f7a863720bf4485db17d22aaaba"
+    },
+    {
+      "path": "scripts/prepare-rebuild-assets.py",
+      "sha256": "6c5c8ee084ba0457bacf6ae854b22761c555a278dee70e9ad1629bdfa57aac4b"
+    },
+    {
+      "path": "scripts/mix-rebuild.py",
+      "sha256": "56495b4de039b2681e089cc725100044a0f1b2d3eb0c2ebbc2d9b7c2be5e55ed"
+    },
+    {
+      "path": "scripts/hyperframes.mjs",
+      "sha256": "4e016be3e670bd262a0a3258f334202f1e157e0b99e5e4f9f69453d8006b3995"
+    },
+    {
+      "path": "assets/rebuild/provenance.json",
+      "sha256": "88afffc744f5a525f19868bd517baf639762fbc10d181f59c26e7bcf68952b7c"
+    },
+    {
+      "path": "assets/sources.json",
+      "sha256": "10b29751ed79c74993069924219b8fcb33eeed5442fbad76759c94398c74fa59"
+    },
+    {
+      "path": "assets/licenses/Archivo-OFL.txt",
+      "sha256": "108b4e57c9c796d3d38d0428ca7ee39de47ad93187302718d9b2d8864b9b716b"
+    },
+    {
+      "path": "assets/licenses/SpaceMono-OFL.txt",
+      "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+    },
+    {
+      "path": "assets/licenses/NotoSansSC-OFL.txt",
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "compositions/arc.beats.json",
+      "sha256": "27f4c5f3056e82a24b3b926917cba74bb6404b8b1ef79f278a8fa1152429236c"
+    },
+    {
+      "path": "compositions/arc.html",
+      "sha256": "855b78357e8a5a3769b5dd27e8086cfc2f05467f4c1280e9ada7d2ae6878a182"
+    },
+    {
+      "path": "compositions/branches.beats.json",
+      "sha256": "d2d04d46c71bbbc739cb0f53b4e4365cbd3aefb2cbf4284dfc0430721f3fb9ef"
+    },
+    {
+      "path": "compositions/branches.html",
+      "sha256": "75ac6038b57af70631c0c5d3c9bda8072547383d3da5635386315231cc805627"
+    },
+    {
+      "path": "compositions/closing.beats.json",
+      "sha256": "c72f8cfb9bfacf2eb517860cb0bec9d0c2dd72d3597d93c97a3cbd4d0ab047d1"
+    },
+    {
+      "path": "compositions/closing.html",
+      "sha256": "aba19a98397f3f7af4a93306bf1d76abbdabb8fa501698ae736a4e391b826534"
+    },
+    {
+      "path": "compositions/credits.beats.json",
+      "sha256": "076bc1507258002e37460c1004a6528df35cc2be1df98d71c73484c5897cab79"
+    },
+    {
+      "path": "compositions/credits.html",
+      "sha256": "38697547fde533631b11d2da041d0c1d4121409f8d98a2f1c82f8ad6a4e1b956"
+    },
+    {
+      "path": "compositions/layers.beats.json",
+      "sha256": "dafdc8596ed1cd102d28cc843de64f118dc1e38a3778699d6a052c3bb4694374"
+    },
+    {
+      "path": "compositions/layers.html",
+      "sha256": "b31cf976377d1883acc0b8698e7155d77bc9a3d346c9289521b894d3da99ea13"
+    },
+    {
+      "path": "compositions/lonetrail.beats.json",
+      "sha256": "17f78c8fad371d17dda85a190807d567422cb5d4e93f41a416e8cf69e00db52c"
+    },
+    {
+      "path": "compositions/lonetrail.html",
+      "sha256": "27d4db7d0f8f0e50483e7913e87b56818d4d652748e6a303996e25a995e91942"
+    },
+    {
+      "path": "compositions/manual.beats.json",
+      "sha256": "69c76e993b0e0545d23debaac289625e37d7f6faa6a4e352a32d7f924ce8ec19"
+    },
+    {
+      "path": "compositions/manual.html",
+      "sha256": "c67d9bd63df853e8f9cf0cccd9c5da546dff21593bd035bf49693eef564128c8"
+    },
+    {
+      "path": "compositions/opening.beats.json",
+      "sha256": "d28fdbe4213fd7f4353f8120c743d6af45eaa8a8caf904f85146b26503285bbb"
+    },
+    {
+      "path": "compositions/opening.html",
+      "sha256": "2999dbdc56f2a42467ebd7490c6ebb4446eb7d1b61c03cb3bc36bfa3ddaed620"
+    },
+    {
+      "path": "compositions/reissue.beats.json",
+      "sha256": "2df15085545cce59c87df4563b8d270b27dc71a496687e0dd6ef7f8fb2e02b76"
+    },
+    {
+      "path": "compositions/reissue.html",
+      "sha256": "c384a62071fb715cc1491a9a3d65d9b660d3117231fe4a049d48b3908ac388e0"
+    },
+    {
+      "path": "compositions/retirement.beats.json",
+      "sha256": "af1fad17d258f371efa1784442a9804e2565e59083de8820a776fb603aa32a96"
+    },
+    {
+      "path": "compositions/retirement.html",
+      "sha256": "dc9184c40897d5bdc55fcbc0b930b78bf67e8942196bffca412d62e2812f4841"
+    },
+    {
+      "path": "compositions/roll.beats.json",
+      "sha256": "15b1f2e7be2f25fbb12177f9b2f3ec674de080e90522a9ae4a360e43f9554287"
+    },
+    {
+      "path": "compositions/roll.html",
+      "sha256": "14771746c2fa849a9609bc5c362078c4c5584860b4c17a1b0663741fce5eb5fa"
+    },
+    {
+      "path": "compositions/starfield.beats.json",
+      "sha256": "8cbfcf6a581966398901e8df86cf26a81a8e3d60f5b30a31651c7d25f6513e69"
+    },
+    {
+      "path": "compositions/starfield.html",
+      "sha256": "cdfe1af1fac6a4a8afb16ca1559629317902746872cdab01df83baf8106123f2"
+    },
+    {
+      "path": "compositions/style.beats.json",
+      "sha256": "bb215d235cd4fa17e56e47359305d5b9a5741c854442654cfc236cad6565cae9"
+    },
+    {
+      "path": "compositions/style.html",
+      "sha256": "b641ecda2eacefaad8873259b0132e056dc93fb50fc567ee7a63571e091a5813"
+    },
+    {
+      "path": "compositions/wordmark.beats.json",
+      "sha256": "0a10905d552fd62425a02b42801f74706cd067b8e25854d651b94b8a71aacefe"
+    },
+    {
+      "path": "compositions/wordmark.html",
+      "sha256": "51d8d39b31dfb7cc02bc5ac1e434a282feaee414b2429928ed6e51207cc1def8"
+    }
+  ]
+}

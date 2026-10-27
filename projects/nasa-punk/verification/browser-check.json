@@ -1,0 +1,142 @@
+{
+  "status": "passed",
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 1080,
+      "overflow": false,
+      "duration": 358.466667,
+      "video_width": 1280,
+      "video_height": 720,
+      "chapterCount": 14,
+      "outOfBounds": [],
+      "playback": true,
+      "pause_stable": true,
+      "screenshot": "player-1440.jpg"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "overflow": false,
+      "duration": 358.466667,
+      "video_width": 1280,
+      "video_height": 720,
+      "chapterCount": 14,
+      "outOfBounds": [],
+      "playback": true,
+      "pause_stable": true,
+      "screenshot": "player-390.jpg"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "opening",
+      "target_seconds": 0,
+      "actual_seconds": 0.006482,
+      "ok": true
+    },
+    {
+      "id": "wordmark",
+      "target_seconds": 12,
+      "actual_seconds": 12.011355,
+      "ok": true
+    },
+    {
+      "id": "manual",
+      "target_seconds": 43,
+      "actual_seconds": 43.012236,
+      "ok": true
+    },
+    {
+      "id": "roll",
+      "target_seconds": 91.53333333333333,
+      "actual_seconds": 91.541844,
+      "ok": true
+    },
+    {
+      "id": "retirement",
+      "target_seconds": 109.53333333333333,
+      "actual_seconds": 109.542088,
+      "ok": true
+    },
+    {
+      "id": "reissue",
+      "target_seconds": 148.03333333333333,
+      "actual_seconds": 148.045104,
+      "ok": true
+    },
+    {
+      "id": "starfield",
+      "target_seconds": 172.03333333333333,
+      "actual_seconds": 172.045876,
+      "ok": true
+    },
+    {
+      "id": "layers",
+      "target_seconds": 203.03333333333333,
+      "actual_seconds": 203.045321,
+      "ok": true
+    },
+    {
+      "id": "lonetrail",
+      "target_seconds": 255.3,
+      "actual_seconds": 255.309761,
+      "ok": true
+    },
+    {
+      "id": "branches",
+      "target_seconds": 271.9666666666667,
+      "actual_seconds": 271.974777,
+      "ok": true
+    },
+    {
+      "id": "arc",
+      "target_seconds": 290.50000000000006,
+      "actual_seconds": 290.511441,
+      "ok": true
+    },
+    {
+      "id": "style",
+      "target_seconds": 327.6000000000001,
+      "actual_seconds": 327.610378,
+      "ok": true
+    },
+    {
+      "id": "closing",
+      "target_seconds": 340.46666666666675,
+      "actual_seconds": 340.476832,
+      "ok": true
+    },
+    {
+      "id": "credits",
+      "target_seconds": 352.46666666666675,
+      "actual_seconds": 352.476588,
+      "ok": true
+    }
+  ],
+  "frame_samples": [
+    {
+      "time_seconds": 20,
+      "min": 64,
+      "max": 727,
+      "distinct": 270
+    },
+    {
+      "time_seconds": 207,
+      "min": 31,
+      "max": 703,
+      "distinct": 590
+    },
+    {
+      "time_seconds": 335,
+      "min": 87,
+      "max": 727,
+      "distinct": 300
+    }
+  ],
+  "scope": "Browser metadata, playback, pause, chapter seeks, subtitle loading, nonblank decoded samples, responsive bounds and missing-media handling. Not a full human audio/visual review.",
+  "subtitle_cues": 67,
+  "page_errors": [],
+  "network_errors": [],
+  "missing_media_message": "暂时不能加载视频，请使用完整 MP4 链接。"
+}

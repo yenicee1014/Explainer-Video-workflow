@@ -1,0 +1,22 @@
+<!doctype html><html><body><template>
+<style>
+@font-face{font-family:Archivo;src:url("../assets/fonts/Archivo.ttf");font-weight:100 900}
+@font-face{font-family:SpaceMono;src:url("../assets/fonts/SpaceMono-Regular.ttf");font-weight:400}
+@font-face{font-family:NotoSC;src:url("../assets/fonts/NotoSansSC-Regular.woff");font-weight:400}
+@font-face{font-family:NotoSC;src:url("../assets/fonts/NotoSansSC-Bold.woff");font-weight:700}
+#nasa-credits{position:absolute;inset:0;overflow:hidden}#nasa-credits svg.scene{width:100%;height:100%;display:block}#nasa-credits .latent{opacity:0}#nasa-credits .paper-shadow{filter:drop-shadow(5px 8px 6px #0005)}#nasa-credits text{font-family:Archivo,NotoSC,sans-serif;letter-spacing:0}#nasa-credits .mono{font-family:SpaceMono,NotoSC,monospace}#nasa-credits .cn{font-family:NotoSC,sans-serif}</style>
+<div id="nasa-credits" data-composition-id="nasa-credits" data-width="1280" data-height="720" data-duration="6">
+<svg class="scene" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720"><image href="../assets/rebuild/desk-texture.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none" /><g id="nasa-credits-credit"  ><svg x="572" y="203" width="136" height="37.11666666666667" viewBox="0 8.7 24 6.55"><path d="M4.344 13.598c.075.281.195.39.407.39.22 0 .335-.132.335-.39V8.804h1.379v4.794c0 .675-.088.968-.43 1.31-.247.248-.703.439-1.278.439-.464 0-.909-.154-1.192-.438-.249-.25-.386-.505-.599-1.311l-.846-3.196c-.074-.281-.194-.39-.406-.39-.22 0-.336.132-.336.39v4.794H0v-4.794c0-.675.088-.968.43-1.31.247-.248.703-.439 1.278-.439.464 0 .909.154 1.192.438.249.25.385.505.599 1.311zM22.575 15.196l-1.591-4.98a.415.415 0 00-.06-.132.226.226 0 00-.186-.082.226.226 0 00-.185.082.414.414 0 00-.06.132l-1.591 4.98h-1.425l1.739-5.44c.09-.283.22-.524.384-.684.282-.275.614-.419 1.138-.419.525 0 .857.144 1.139.42.164.16.294.4.384.683L24 15.196h-1.425zM15.531 15.196c.903 0 1.344-.192 1.692-.538.385-.383.569-.802.569-1.427 0-.553-.202-1.064-.51-1.37-.403-.4-.903-.527-1.719-.527h-1.142c-.436 0-.61-.053-.748-.188-.094-.093-.139-.23-.139-.393 0-.168.04-.334.156-.448.103-.1.243-.147.511-.147h3.301V8.804h-3.049c-.903 0-1.343.192-1.691.538-.385.383-.57.802-.57 1.427 0 .553.203 1.064.51 1.37.404.4.904.527 1.72.527h1.141c.437 0 .61.053.748.188.095.093.14.23.14.393 0 .169-.041.335-.157.448-.102.1-.242.147-.51.147h-3.405l-1.306-4.086c-.09-.283-.22-.524-.384-.684-.282-.275-.615-.419-1.139-.419s-.857.144-1.138.42c-.165.16-.294.4-.385.683l-1.738 5.44h1.424l1.592-4.98a.415.415 0 01.06-.132.226.226 0 01.185-.082c.082 0 .142.028.186.082a.413.413 0 01.06.132l1.591 4.98h4.144z" fill="#eeebdf"/></svg><text x="489" y="307" font-size="25" fill="#eeebdf" class="cn"  font-weight="700">NASA 朋克 · 代码重建</text>
+      <text x="385" y="361" font-size="19" fill="#d4d0bf" class="cn"  >画面代码 / 旁白重写合成 / 程序配乐</text>
+      <text x="341" y="407" font-size="19" fill="#d4d0bf" class="cn"  >镜头参考：路北路陈 · 设计风格小课 04</text>
+      <text x="345" y="454" font-size="19" fill="#bdb9a9" class="cn"  >NASA / Bethesda / 鹰角网络 / Embark Studios</text>
+      <text x="407" y="501" font-size="19" fill="#bdb9a9" class="cn"  >素材来源与重建说明见项目 README</text></g><g data-layout-ignore><text x="24" y="702" font-size="7" fill="#888779" class="mono" data-layout-ignore="" >NASA-PUNK / CODE STUDY</text><text x="1016" y="702" font-size="7" fill="#888779" class="mono" data-layout-ignore="" >04 / 代码重建</text></g></svg></div>
+<script>(()=>{const tl=gsap.timeline({paused:true});const prefix="nasa-credits";
+const q=name=>'#'+prefix+'-'+name;
+const A={};
+const R=(name,time,duration=.55)=>tl.fromTo(q(name),{opacity:0,y:12},{opacity:1,y:0,duration,ease:'power2.out',immediateRender:false},time);
+const F=(name,time,duration=.4)=>tl.to(q(name),{opacity:0,duration,ease:'power1.inOut'},time);
+const D=(name,time,duration=.7)=>tl.fromTo(q(name),{attr:{'stroke-dashoffset':1}},{attr:{'stroke-dashoffset':0},duration,ease:'power1.inOut',immediateRender:false},time);
+tl.fromTo(q('credit'),{opacity:0},{opacity:1,duration:.8},.1);tl.to(q('credit'),{opacity:0,duration:1.1},4.75);
+window.__timelines["nasa-credits"]=tl;})();</script>
+</template></body></html>

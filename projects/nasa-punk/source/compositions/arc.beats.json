@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "compositionId": "nasa-arc",
+  "duration": 37.1,
+  "narrativeAnchors": [
+    {
+      "id": "poster",
+      "time": 0.65,
+      "text": "再看 ARC Raiders。复古的颜色和实用的硬件，在这里有了更旧的质感。"
+    },
+    {
+      "id": "world",
+      "time": 5.91,
+      "text": "机器占据地面，人们带着拼装的装备，在遗迹里寻找资源。"
+    },
+    {
+      "id": "influence",
+      "time": 10.815999999999999,
+      "text": "七八十年代的服装，冷战技术的实用感，和东拼西凑的材料，被叠在一起。"
+    },
+    {
+      "id": "silhouette",
+      "time": 16.743667,
+      "text": "大胆的色块和清楚的轮廓，让人物与装备很容易被认出来。"
+    },
+    {
+      "id": "graphics",
+      "time": 21.40775,
+      "text": "宣传画上，旧纸、斜向彩条和粗体大写字，也在继续说同一种语言。"
+    },
+    {
+      "id": "colors",
+      "time": 27.521228999999998,
+      "text": "只是这里磨损更多，彩条更丰富，整体像被反复修补过。"
+    },
+    {
+      "id": "interpret",
+      "time": 32.328582999999995,
+      "text": "把它看作 NASA 朋克的一个分支，是一种风格上的理解。"
+    }
+  ],
+  "authoredActions": [
+    "world：机器与旧装备解释世界状态。influence：服装、技术、拼装材料分行呈现。",
+    "silhouette：比较人物与环境色块；graphics / colors：旧纸、斜彩条、粗体字作对照。interpret：回到多案例关系板。"
+  ]
+}

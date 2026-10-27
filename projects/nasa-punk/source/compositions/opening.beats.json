@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "compositionId": "nasa-opening",
+  "duration": 12,
+  "narrativeAnchors": [
+    {
+      "id": "red",
+      "time": 0.65,
+      "text": "白色的箭体上，一个红色字标格外醒目。"
+    },
+    {
+      "id": "retired",
+      "time": 4.033875,
+      "text": "它曾经被美国航天局自己停用。"
+    },
+    {
+      "id": "future",
+      "time": 6.767438,
+      "text": "后来，这套设计却成了游戏里的未来感。"
+    }
+  ],
+  "authoredActions": [
+    "red：实际箭体与字标建立对象；镜头停稳后出现定位角标。",
+    "retired：退役纸条覆盖字标；future：撤走纸条并接出风格彩条，保留阅读停留。"
+  ]
+}

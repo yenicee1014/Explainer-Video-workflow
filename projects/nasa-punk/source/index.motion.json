@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "duration": 358.46666666666675,
+  "assertions": [
+    {
+      "kind": "appearsBy",
+      "selector": "#nasa-wordmark-word",
+      "bySec": 23.377313
+    },
+    {
+      "kind": "before",
+      "a": "#nasa-wordmark-word",
+      "b": "#nasa-wordmark-rockets"
+    },
+    {
+      "kind": "before",
+      "a": "#nasa-wordmark-rockets",
+      "b": "#nasa-wordmark-wormlabel"
+    },
+    {
+      "kind": "staysInFrame",
+      "selector": "#nasa-wordmark-word"
+    }
+  ]
+}

@@ -22,6 +22,14 @@ https://github.com/LBEILC/RhineLabUI 仅作为信息分层和档案式界面的�
 
 `puppeteer-core` 仅用于开发检查，精确版本见 `package-lock.json`；使用其上游许可证（Apache-2.0）。Node.js、Chrome/Chromium、ComfyUI、Python 均不捆绑在仓库中，各自适用上游许可。使用 ComfyUI 不代表本项目授予其许可之外的权利。
 
+## NASA 朋克代码重建版（2026-10-27 新增）
+
+前述天气项目的无声交付与语音缓存说明继续仅适用于天气项目。新加入的 `video/nasa-punk-full-rebuild.mp4` 为有声代码重建版，旁白由 macOS Tingting 合成，含程序配乐及部分取自参考视频的第三方案例静帧；其系统声音与外部图像的公开再分发许可尚未逐项核实，不将公开归档表述为取得授权。
+
+参考作品为路北路陈《设计风格小课 04》（Bilibili `BV1Tsps6kE6z`），不是本仓库原创作品。NASA 手册、标识，Bethesda《星空》、鹰角网络明日方舟「孤星」、Embark Studios《ARC Raiders》、Territory Studio《火星救援》界面及 Heron Preston 案例的权利仍归对应权利人。本项目未获得这些机构或创作者的官方背书。
+
+本次不上传参考视频、第三方图片素材包、字体 / GSAP 二进制、逐句录音或声音缓存；联系表、封面与成片仍包含第三方图像，不能作为自由商用素材包。完整来源、快照缺项与权利边界见 [NASA 朋克来源与权利说明](projects/nasa-punk/SOURCES_AND_RIGHTS.md)。
+
 ## 本仓库原创部分
 
 尚未选定通用开源许可证；原创代码、讲稿与图解保留版权。公开可见和可下载不等于已授予任意商用、再分发、改编或再许可的权利。如需此类使用，请先联系仓库维护者确认。第三方内容不因与本项目同时出现而改变其许可。

@@ -1,0 +1,27 @@
+<!doctype html><html><body><template>
+<style>
+@font-face{font-family:Archivo;src:url("../assets/fonts/Archivo.ttf");font-weight:100 900}
+@font-face{font-family:SpaceMono;src:url("../assets/fonts/SpaceMono-Regular.ttf");font-weight:400}
+@font-face{font-family:NotoSC;src:url("../assets/fonts/NotoSansSC-Regular.woff");font-weight:400}
+@font-face{font-family:NotoSC;src:url("../assets/fonts/NotoSansSC-Bold.woff");font-weight:700}
+#nasa-roll{position:absolute;inset:0;overflow:hidden}#nasa-roll svg.scene{width:100%;height:100%;display:block}#nasa-roll .latent{opacity:0}#nasa-roll .paper-shadow{filter:drop-shadow(5px 8px 6px #0005)}#nasa-roll text{font-family:Archivo,NotoSC,sans-serif;letter-spacing:0}#nasa-roll .mono{font-family:SpaceMono,NotoSC,monospace}#nasa-roll .cn{font-family:NotoSC,sans-serif}</style>
+<div id="nasa-roll" data-composition-id="nasa-roll" data-width="1280" data-height="720" data-duration="18">
+<svg class="scene" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720"><image href="../assets/rebuild/desk-texture.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none" /><g id="nasa-roll-saturn"  ><image href="../assets/rebuild/saturn.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice" /></g><g id="nasa-roll-diagram" class="latent" >
+        <defs><linearGradient id="nasa-roll-metal" x1="0" x2="1"><stop offset="0" stop-color="#a5a69c"/><stop offset=".45" stop-color="#fbf9ef"/><stop offset="1" stop-color="#b1b3a7"/></linearGradient></defs>
+        <path d="M440 607V249l14-42V142l16-63 16 63v65l14 42v358Z" fill="url(#nasa-roll-metal)" stroke="#a6a79a"/>
+        <path d="M440 316h60M440 424h60M440 530h60" stroke="#777b6e"/>
+        <rect x="440" y="329" width="31" height="59" fill="#20211d"/><rect x="470" y="435" width="30" height="77" fill="#20211d"/>
+        <path id="nasa-roll-leader" d="M500 464H608L730 315" fill="none" stroke="#e2dfce" stroke-width="1" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/>
+        <g id="nasa-roll-disc"  ><circle cx="855" cy="292" r="105" fill="#eeebdf" stroke="#9b9d8b" stroke-width="2"/><path d="M855 292V187a105 105 0 0 1 105 105ZM855 292v105a105 105 0 0 1-105-105Z" fill="#10120e"/></g>
+        <text x="731" y="124" font-size="18" fill="#eeebdf" class="mono"  >ROLL / ORIENTATION</text><g><rect x="707" y="482" width="163" height="54" fill="#191a16e8"/><rect x="716" y="490" width="24" height="19" fill="#eeebdf"/><text x="719" y="504" font-size="11" fill="#20211d" class="mono" data-layout-ignore="" >01</text><text x="750" y="505" font-size="19" fill="#f7f4e9" class="cn"  font-weight="700">黑白姿态标记</text><text x="717" y="526" font-size="9" fill="#c7c5b7" class="mono" data-layout-ignore="" >ROLL PATTERN</text></g>
+        <g id="nasa-roll-rotation" class="latent" ><path d="M1033 308V228l-9 13m9-13 9 13" fill="none" stroke="#cf352c" stroke-width="2"/><text x="769" y="456" font-size="17" fill="#eeebdf" class="mono"  >0° → 270°</text></g></g><g data-layout-ignore><text x="24" y="702" font-size="7" fill="#888779" class="mono" data-layout-ignore="" >NASA-PUNK / CODE STUDY</text><text x="1016" y="702" font-size="7" fill="#888779" class="mono" data-layout-ignore="" >04 / 为什么它看起来像未来</text></g></svg></div>
+<script>(()=>{const tl=gsap.timeline({paused:true});const prefix="nasa-roll";
+const q=name=>'#'+prefix+'-'+name;
+const A={"photo":0.65,"marks":3.681021,"rotate":7.493959,"result":13.226167};
+const R=(name,time,duration=.55)=>tl.fromTo(q(name),{opacity:0,y:12},{opacity:1,y:0,duration,ease:'power2.out',immediateRender:false},time);
+const F=(name,time,duration=.4)=>tl.to(q(name),{opacity:0,duration,ease:'power1.inOut'},time);
+const D=(name,time,duration=.7)=>tl.fromTo(q(name),{attr:{'stroke-dashoffset':1}},{attr:{'stroke-dashoffset':0},duration,ease:'power1.inOut',immediateRender:false},time);
+F('saturn',A.marks+.45);R('diagram',A.marks+.4,.7);D('leader',A.marks+1.2);
+R('rotation',A.rotate);tl.to(q('disc'),{rotation:270,svgOrigin:'855 292',duration:4.4,ease:'none'},A.rotate+.25);tl.to(q('diagram'),{scale:.94,svgOrigin:'640 360',duration:.8},A.result);
+window.__timelines["nasa-roll"]=tl;})();</script>
+</template></body></html>

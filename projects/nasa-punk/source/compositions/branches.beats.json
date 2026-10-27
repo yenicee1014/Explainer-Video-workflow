@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "compositionId": "nasa-branches",
+  "duration": 18.533333333333335,
+  "narrativeAnchors": [
+    {
+      "id": "martian",
+      "time": 0.65,
+      "text": "游戏之外，这套方法也能进入电影的头盔界面。"
+    },
+    {
+      "id": "fashion",
+      "time": 4.66075,
+      "text": "或者走进服装，让航天标志、标签和材料变成日常穿着。"
+    },
+    {
+      "id": "board",
+      "time": 9.704333,
+      "text": "把它们放在一起看，就能找到相近的源头。"
+    },
+    {
+      "id": "choices",
+      "time": 13.297187000000001,
+      "text": "但七层不是必须遵守的配方，每个作品都会做自己的取舍。"
+    }
+  ],
+  "authoredActions": [
+    "martian / fashion：电影与服装作为可比较的实例进入画面。",
+    "board / choices：展开关联板，连接手册、游戏与应用，说明共同规则与不同取舍。"
+  ]
+}

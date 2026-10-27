@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "method": "FFT cross-correlation of decoded source mix and final MP4; numerical sync check, not auditory review",
+  "segments": [
+    {
+      "segment_start_s": 1,
+      "segment_duration_s": 15,
+      "lag_samples_at_16khz": -171,
+      "lag_s": -0.0106875,
+      "aligned_waveform_correlation": 0.9926938317890864,
+      "within_one_video_frame": true
+    },
+    {
+      "segment_start_s": 180,
+      "segment_duration_s": 15,
+      "lag_samples_at_16khz": -171,
+      "lag_s": -0.0106875,
+      "aligned_waveform_correlation": 0.9935177742646819,
+      "within_one_video_frame": true
+    },
+    {
+      "segment_start_s": 330,
+      "segment_duration_s": 15,
+      "lag_samples_at_16khz": -171,
+      "lag_s": -0.0106875,
+      "aligned_waveform_correlation": 0.9934426932139067,
+      "within_one_video_frame": true
+    }
+  ],
+  "publication_note": "Production-stage report; only local absolute paths were sanitized. Not a full human semantic review."
+}

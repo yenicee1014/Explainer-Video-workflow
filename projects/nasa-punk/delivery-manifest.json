@@ -1,0 +1,151 @@
+{
+  "project": "NASA-punk code rebuild",
+  "publication_date": "2026-10-27",
+  "version_scope": "Reauthored code rebuild, not a frame-for-frame replica or original creator project",
+  "reference": "https://www.bilibili.com/video/BV1Tsps6kE6z/",
+  "reference_creator": "路北路陈",
+  "video": {
+    "path": "video/nasa-punk-full-rebuild.mp4",
+    "size_bytes": 38434507,
+    "sha256": "6f0efab9fdfd3ca2a05141b572e72afbb3a7419d0474cfad9f18aa38e3784fd3",
+    "duration_seconds": 358.466667,
+    "video_codec": "h264",
+    "width": 1280,
+    "height": 720,
+    "frame_rate": "30/1",
+    "frame_count": 10754,
+    "audio_codec": "aac",
+    "audio_sample_rate_hz": 48000,
+    "audio_channels": 2,
+    "voice": "macOS Tingting",
+    "original_soundtrack_used": false
+  },
+  "scene_count": 14,
+  "narration_sentence_count": 67,
+  "chapters": [
+    {
+      "id": "opening",
+      "title": "一个被废过的标志",
+      "start_seconds": 0,
+      "duration_seconds": 12
+    },
+    {
+      "id": "wordmark",
+      "title": "1974 年的提案：蠕虫",
+      "start_seconds": 12,
+      "duration_seconds": 31
+    },
+    {
+      "id": "manual",
+      "title": "一本管住一切的手册",
+      "start_seconds": 43,
+      "duration_seconds": 48.53333333333333
+    },
+    {
+      "id": "roll",
+      "title": "为什么它看起来像未来",
+      "start_seconds": 91.53333333333333,
+      "duration_seconds": 18
+    },
+    {
+      "id": "retirement",
+      "title": "1992 年，蠕虫被废",
+      "start_seconds": 109.53333333333333,
+      "duration_seconds": 38.5
+    },
+    {
+      "id": "reissue",
+      "title": "设计师没忘",
+      "start_seconds": 148.03333333333333,
+      "duration_seconds": 24
+    },
+    {
+      "id": "starfield",
+      "title": "《星空》：NASA 朋克",
+      "start_seconds": 172.03333333333333,
+      "duration_seconds": 31
+    },
+    {
+      "id": "layers",
+      "title": "拆一张《星空》截图",
+      "start_seconds": 203.03333333333333,
+      "duration_seconds": 52.266666666666666
+    },
+    {
+      "id": "lonetrail",
+      "title": "明日方舟「孤星」",
+      "start_seconds": 255.3,
+      "duration_seconds": 16.666666666666668
+    },
+    {
+      "id": "branches",
+      "title": "各有各的长法",
+      "start_seconds": 271.9666666666667,
+      "duration_seconds": 18.533333333333335
+    },
+    {
+      "id": "arc",
+      "title": "ARC Raiders 的美术",
+      "start_seconds": 290.50000000000006,
+      "duration_seconds": 37.1
+    },
+    {
+      "id": "style",
+      "title": "风格卡",
+      "start_seconds": 327.6000000000001,
+      "duration_seconds": 12.866666666666667
+    },
+    {
+      "id": "closing",
+      "title": "五十年前的未来",
+      "start_seconds": 340.46666666666675,
+      "duration_seconds": 12
+    },
+    {
+      "id": "credits",
+      "title": "代码重建",
+      "start_seconds": 352.46666666666675,
+      "duration_seconds": 6
+    }
+  ],
+  "companions": [
+    {
+      "path": "projects/nasa-punk/captions.srt",
+      "size_bytes": 7605,
+      "sha256": "c5cc450f399d921cd045ede7400689a41713c527d6e3e4bd7b7b269407a6acdf"
+    },
+    {
+      "path": "projects/nasa-punk/captions.vtt",
+      "size_bytes": 7613,
+      "sha256": "0c0826ebc565dd6fd48df6e69b7e5a5cffbe13e96c826beaf69a2afda8323c87"
+    },
+    {
+      "path": "projects/nasa-punk/contact-sheet.jpg",
+      "size_bytes": 217514,
+      "sha256": "381bd971d0b9d2f477a2694834188ffa0ac0ccd6d443ea259faa61caa7b30932"
+    },
+    {
+      "path": "projects/nasa-punk/poster.jpg",
+      "size_bytes": 93012,
+      "sha256": "0e1434dd7cfb4881e599c4f02ff1191059bde7ea90cf7cefa223a70c17ee8887"
+    }
+  ],
+  "source_snapshot": {
+    "self_contained": false,
+    "inventory": "projects/nasa-punk/source/snapshot-manifest.json",
+    "omitted": [
+      "Reference video and still-image package",
+      "Fonts and GSAP binary",
+      "Individual voice clips and mix cache",
+      "Node/Python dependencies and render cache"
+    ]
+  },
+  "review": {
+    "production_check_ok": true,
+    "craft_warning_count": 38,
+    "full_speed_human_audio_visual_review": false,
+    "word_by_word_human_proofread": false,
+    "word_level_alignment": false,
+    "redistribution_rights_individually_cleared": false
+  }
+}
